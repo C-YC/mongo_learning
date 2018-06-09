@@ -1,0 +1,8 @@
+_id：20254219
+year：2013
+movie_name：超级经纪人
+演员：{"谢霆锋": "http://people.mtime.com/903079/", "王敏奕": "http://people.mtime.com/1503956/", "张敬轩": "http://people.mtime.com/1184095/", "张芷芊": "http://people.mtime.com/2047206/", "谢佳妤": "http://people.mtime.com/2047203/", "庄洁梦": "http://people.mtime.com/2047201/", "杜汶泽": "http://people.mtime.com/924886/", "张致恒": "http://people.mtime.com/923231/", "卢海鹏": "http://people.mtime.com/925487/", "马玉成": "http://people.mtime.com/1318579/", "吴浩康": "http://people.mtime.com/928510/", "张继聪": "http://people.mtime.com/1547420/", "许靖韵": "http://people.mtime.com/2047204/", "车婉婉": "http://people.mtime.com/936261/", "高云翔": "http://people.mtime.com/1299822/", "王祖蓝": "http://people.mtime.com/1426187/", "思漩": "http://people.mtime.com/2047200/", "陆永": "http://people.mtime.com/1531161/", "霍汶希": "http://people.mtime.com/2044922/", "郑希怡": "http://people.mtime.com/929576/", "蔡卓妍": "http://people.mtime.com/923222/", "泳儿": "http://people.mtime.com/1395841/", "洛诗": "http://people.mtime.com/2047205/", "何炅": "http://people.mtime.com/1249007/", "钟欣潼": "http://people.mtime.com/923221/"}
+导演：{"Chi Keung Fung": "http://people.mtime.com/908041/", "冯志强": "http://people.mtime.com/908041/"}
+制作人：{"杨受成 Albert Yeung": "http://people.mtime.com/1205341/", "利雅博 Albert Lee": "http://people.mtime.com/1211991/", "陈庆嘉 Hing-Ka Chan": "http://people.mtime.com/892819/"}
+剪辑：{"邱志伟 Chi Wai Yau": "http://people.mtime.com/1300678/"}
+动作指导：{"黄伟亮 Wai Leung Wong": "http://people.mtime.com/1171956/"}

@@ -1,0 +1,14 @@
+_id：10540066
+year：2012
+movie_name：大上海
+演员：{"杜奕衡": "http://people.mtime.com/1720234/", "童菲": "http://people.mtime.com/1865361/", "冯文娟": "http://people.mtime.com/1978818/", "吴镇宇": "http://people.mtime.com/893566/", "黄晓明": "http://people.mtime.com/1249959/", "辛柏青": "http://people.mtime.com/954570/", "袁立": "http://people.mtime.com/1176731/", "高虎": "http://people.mtime.com/1177151/", "周润发": "http://people.mtime.com/893535/", "莫小棋": "http://people.mtime.com/1261429/", "袁泉": "http://people.mtime.com/922623/", "洪金宝": "http://people.mtime.com/892825/", "郑亦桐": "http://people.mtime.com/1826700/", "仓田保昭": "http://people.mtime.com/938716/"}
+导演：{"王晶": "http://people.mtime.com/892954/"}
+编剧：{"文隽 Manfred Wong": "http://people.mtime.com/893271/", "吕冠南 Guannan Lv": "http://people.mtime.com/1280068/", "王晶 Jing Wong": "http://people.mtime.com/892954/"}
+制作人：{"刘伟强 Andrew Lau": "http://people.mtime.com/892815/", "于冬 Dong Yu": "http://people.mtime.com/1219891/", "文隽 Manfred Wong": "http://people.mtime.com/893271/", "陈永雄 Yongxiong Chen": "http://people.mtime.com/1883549/"}
+摄影：{"刘伟强 Andrew Lau": "http://people.mtime.com/892815/", "关智耀 Jason Kwan": "http://people.mtime.com/1668362/"}
+剪辑：{"钟炜钊 Weizhao Zhong": "http://people.mtime.com/1814649/"}
+原创音乐：{"陈致逸 Zhiyi Chen": "http://people.mtime.com/2130081/", "陈光荣 Kwongwing Chan": "http://people.mtime.com/1088503/"}
+美术设计：{"林子侨 Chi Yue Lam": "http://people.mtime.com/1603479/", "奚仲文 Chung-Man Hai": "http://people.mtime.com/892964/"}
+服装设计：{"陈子雯 Zi-wen Chen": "http://people.mtime.com/1981331/", "戴美玲 Jessie Dai": "http://people.mtime.com/1287119/"}
+视觉特效：{"黄宏达 Victor Wong": "http://people.mtime.com/1263993/"}
+动作指导：{"李达超 Tatchiu Lee": "http://people.mtime.com/1483771/"}

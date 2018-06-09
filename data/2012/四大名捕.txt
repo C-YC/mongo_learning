@@ -1,0 +1,17 @@
+_id：6124012
+year：2012
+movie_name：四大名捕
+演员：{"木幡龙": "http://people.mtime.com/1627462/", "邓超": "http://people.mtime.com/1256584/", "方安娜": "http://people.mtime.com/1467791/", "李子雄": "http://people.mtime.com/954981/", "黄秋生": "http://people.mtime.com/899554/", "郑中基": "http://people.mtime.com/939702/", "刘亦菲": "http://people.mtime.com/1176638/", "江一燕": "http://people.mtime.com/1251642/", "吴映洁": "http://people.mtime.com/1409366/", "邓萃雯": "http://people.mtime.com/986403/", "向恬冉": "http://people.mtime.com/1949481/", "苗驰": "http://people.mtime.com/1949480/", "吴秀波": "http://people.mtime.com/1254696/", "张颂文": "http://people.mtime.com/1724328/", "邹兆龙": "http://people.mtime.com/1248788/", "田启文": "http://people.mtime.com/942189/", "唐文龙": "http://people.mtime.com/927403/", "成泰燊": "http://people.mtime.com/931985/", "包贝尔": "http://people.mtime.com/1654566/"}
+导演：{"陈嘉上": "http://people.mtime.com/892814/"}
+编剧：{"温瑞安 Wenrui An": "http://people.mtime.com/1918490/", "陈嘉上 Gordon Chan": "http://people.mtime.com/892814/", "王思敏 Simin Wang": "http://people.mtime.com/1260127/", "谭广源 Frankie Tam": "http://people.mtime.com/1476051/"}
+制作人：{"王长田 Changtian Wang": "http://people.mtime.com/1485748/", "张苏洲 Su Zhou Zhang": "http://people.mtime.com/1949413/", "李晓萍 Xiaoping Li": "http://people.mtime.com/1816581/", "邝文伟 Abe Kwong": "http://people.mtime.com/907166/", "陈志良 Chi Leung Chan": "http://people.mtime.com/1424636/", "陈嘉上 Gordon Chan": "http://people.mtime.com/892814/", "赵红梅 Hong Mei Zhao": "http://people.mtime.com/1949460/", "李潮洋 Chao Yang Li": "http://people.mtime.com/1949482/", "郑振邦 Paul Cheng": "http://people.mtime.com/1215665/"}
+摄影：{"黎耀辉 Yiu-Fai Lai": "http://people.mtime.com/1297701/"}
+剪辑：{"陈祺合 Ki-hop Chan": "http://people.mtime.com/1779049/"}
+原创音乐：{"黎允文 Henry Lai": "http://people.mtime.com/1565056/"}
+艺术指导：{"余家安 Bruce Yu": "http://people.mtime.com/1283510/"}
+美术设计：{"何剑雄 Cyrus Ho": "http://people.mtime.com/1467116/", "余家安 Bruce Yu": "http://people.mtime.com/1283510/"}
+视觉特效：{"Ron Simonson": "http://people.mtime.com/1299537/"}
+动作指导：{"谷轩昭 Ku Huen Chiu": "http://people.mtime.com/1612776/"}
+录音：{"杜笃之 Du-Che Tu": "http://people.mtime.com/1249195/"}
+声音部门：{"Phyllis Cheng": "http://people.mtime.com/1978440/"}
+化妆造型：{"Ling Mei": "http://people.mtime.com/2179899/"}

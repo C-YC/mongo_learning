@@ -1,0 +1,11 @@
+_id：6778650
+year：2012
+movie_name：嫁个100分男人
+演员：{"郑中基": "http://people.mtime.com/939702/", "鲍起静": "http://people.mtime.com/934143/", "谢娜": "http://people.mtime.com/1273205/", "曾志伟": "http://people.mtime.com/893302/", "苏醒": "http://people.mtime.com/1550005/", "郭德纲": "http://people.mtime.com/1249054/", "李健仁": "http://people.mtime.com/927911/", "那威": "http://people.mtime.com/1254857/", "杜汶泽": "http://people.mtime.com/924886/", "张珂源": "http://people.mtime.com/1770560/", "马大明": "http://people.mtime.com/1898003/", "吴君如": "http://people.mtime.com/929109/", "巩新亮": "http://people.mtime.com/1558408/", "庄思敏": "http://people.mtime.com/1497373/", "温超": "http://people.mtime.com/1896836/", "田蕾希": "http://people.mtime.com/1898000/", "来福": "http://people.mtime.com/1898002/", "林子聪": "http://people.mtime.com/957607/", "李心彤": "http://people.mtime.com/1898001/", "李菁": "http://people.mtime.com/1318623/", "毛俊杰": "http://people.mtime.com/1259997/", "孟瑶": "http://people.mtime.com/1177752/", "刘仪伟": "http://people.mtime.com/1254856/", "梁咏琪": "http://people.mtime.com/927478/", "林妙可": "http://people.mtime.com/1530563/", "柳岩": "http://people.mtime.com/1716128/", "胡然": "http://people.mtime.com/1250787/", "冯淬帆": "http://people.mtime.com/893581/", "冯勉恒": "http://people.mtime.com/1193309/", "田启文": "http://people.mtime.com/942189/"}
+导演：{"王晶": "http://people.mtime.com/892954/"}
+编剧：{"王晶 Jing Wong": "http://people.mtime.com/892954/"}
+制作人：{"李治锋 Zhi-feng Li": "http://people.mtime.com/1898005/", "宋美遐 Mei-xia Song": "http://people.mtime.com/1898004/", "董峥嵘 Zheng-rong Dong": "http://people.mtime.com/1898006/", "王博 Bo Wang": "http://people.mtime.com/1768087/", "李欣 Xin Li": "http://people.mtime.com/892893/", "俞立 Li Yu": "http://people.mtime.com/1898007/", "韩啸 Xiao Han": "http://people.mtime.com/1898008/", "兰立新 Li-xin Lan": "http://people.mtime.com/1890049/", "魏铮 Zheng Wei": "http://people.mtime.com/1900690/", "王仁海 Ren-hai Wang": "http://people.mtime.com/1890046/", "姜国民 Kwok-Man Keung": "http://people.mtime.com/1250536/", "宗树洁 Shu-jie Zong": "http://people.mtime.com/1890043/"}
+摄影：{"姜国民 Kwok-Man Keung": "http://people.mtime.com/1250536/"}
+剪辑：{"李嘉荣 Karwing Lee": "http://people.mtime.com/1612472/"}
+原创音乐：{"罗坚 Lincoln Lo": "http://people.mtime.com/1316353/"}
+美术设计：{"刘京平 Jingping Liu": "http://people.mtime.com/1606585/", "黄玮麟 Wei-ling Huang": "http://people.mtime.com/1900691/"}

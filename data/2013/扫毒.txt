@@ -1,0 +1,13 @@
+_id：10763164
+year：2013
+movie_name：扫毒
+演员：{"马浴柯": "http://people.mtime.com/1716960/", "罗兰": "http://people.mtime.com/948749/", "张家辉": "http://people.mtime.com/929030/", "古天乐": "http://people.mtime.com/923219/", "吴廷烨": "http://people.mtime.com/934139/", "卢海鹏": "http://people.mtime.com/925487/", "卢惠光": "http://people.mtime.com/919365/", "李兆基": "http://people.mtime.com/893682/", "吴岱融": "http://people.mtime.com/924895/", "宝儿": "http://people.mtime.com/2074928/", "刘青云": "http://people.mtime.com/923218/", "Bure Li": "http://people.mtime.com/1911039/", "林国斌": "http://people.mtime.com/954507/", "维他亚·潘斯林加姆": "http://people.mtime.com/1724290/", "袁泉": "http://people.mtime.com/922623/", "释彦能": "http://people.mtime.com/1100513/", "江若琳": "http://people.mtime.com/1278923/", "Christopher Collins": "http://people.mtime.com/2073535/"}
+导演：{"陈木胜": "http://people.mtime.com/892818/"}
+编剧：{"黄进 Huang Jin": "http://people.mtime.com/1971748/", "凌志民 Chi-man Ling": "http://people.mtime.com/2074240/", "文隽 Manfred Wong": "http://people.mtime.com/893271/", "谭惠贞 Wai-ching Tam": "http://people.mtime.com/2074239/", "陈木胜 Benny Chan": "http://people.mtime.com/892818/"}
+制作人：{"于冬 Dong Yu": "http://people.mtime.com/1219891/", "林小强 Alvin Lam": "http://people.mtime.com/2083485/", "林子雄 Zi-xiong Lam": "http://people.mtime.com/1866666/", "张浩 Hao Zhang": "http://people.mtime.com/1976516/", "林炳坤 Stephen Lam": "http://people.mtime.com/1216041/", "宋岱 Dai Song": "http://people.mtime.com/1427385/", "任月 Yue Ren": "http://people.mtime.com/2047415/", "林小明 Daniel Lam": "http://people.mtime.com/1211649/", "黄昭敏 Wendy Wong": "http://people.mtime.com/2083486/", "陈永雄 Yongxiong Chen": "http://people.mtime.com/1883549/", "Chaipat 'Jai' Sitthisarankul": "http://people.mtime.com/2070206/", "唐才智 Cai-zhi TANG": "http://people.mtime.com/1899225/", "周焯华 Cheok-Wa Chau": "http://people.mtime.com/1707568/", "张康达 Cheung Hong-tat": "http://people.mtime.com/2047414/", "施扬平 Yeung-Ping Sze": "http://people.mtime.com/898885/", "陈木胜 Benny Chan": "http://people.mtime.com/892818/"}
+摄影：{"潘耀明 Anthony Pun": "http://people.mtime.com/1543429/"}
+剪辑：{"邱志伟 Chi Wai Yau": "http://people.mtime.com/1300678/"}
+原创音乐：{"尼古拉斯·艾瑞拉 Nicolas Errèra": "http://people.mtime.com/1345681/"}
+美术设计：{"庄国荣 Kwok-wing Chong": "http://people.mtime.com/1461786/"}
+副导演/助理导演：{"姚敏琦 Man-Kei Yiu": "http://people.mtime.com/1102143/", "Bure Li": "http://people.mtime.com/1911039/"}
+动作指导：{"李忠志 Nicky Li": "http://people.mtime.com/1001544/"}

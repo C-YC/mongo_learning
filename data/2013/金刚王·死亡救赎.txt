@@ -1,0 +1,8 @@
+_id：19975090
+year：2013
+movie_name：金刚王·死亡救赎
+演员：{"姜宝成": "http://people.mtime.com/1533503/", "释彦能": "http://people.mtime.com/1100513/", "雅玫": "http://people.mtime.com/2020655/", "南贤俊": "http://people.mtime.com/1249880/", "刘承俊": "http://people.mtime.com/1454552/", "仓田保昭": "http://people.mtime.com/938716/"}
+导演：{"罗永昌": "http://people.mtime.com/902944/"}
+编剧：{"杨真鉴 Yang Zhenjian": "http://people.mtime.com/1942295/"}
+制作人：{"杨真鉴 Yang Zhenjian": "http://people.mtime.com/1942295/", "庞洪 Hong Pang": "http://people.mtime.com/1943564/"}
+动作指导：{"张鹏 Peng Chang": "http://people.mtime.com/1321199/"}

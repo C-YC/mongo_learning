@@ -1,0 +1,13 @@
+_id：10574468
+year：2013
+movie_name：北京遇上西雅图
+演员：{"王茜": "http://people.mtime.com/1177068/", "维多利亚·沃特豪丝": "http://people.mtime.com/1993651/", "特里沃·贝丝": "http://people.mtime.com/2017596/", "王云菲": "http://people.mtime.com/2227240/", "谭家雷": "http://people.mtime.com/2227246/", "谭家荣": "http://people.mtime.com/2227237/", "维吉尔·戴维斯": "http://people.mtime.com/1993653/", "吴秀波": "http://people.mtime.com/1254696/", "迈克尔·丹尼斯": "http://people.mtime.com/1671718/", "郭红梅": "http://people.mtime.com/2227247/", "凯瑟琳·芮木登": "http://people.mtime.com/1796852/", "宋美曼": "http://people.mtime.com/2021762/", "刘仪伟": "http://people.mtime.com/1254856/", "李绮虹": "http://people.mtime.com/994402/", "汤唯": "http://people.mtime.com/1248918/", "胡俊溪": "http://people.mtime.com/2227242/", "买红妹": "http://people.mtime.com/1568740/", "丹蒂·李·艾瑞斯": "http://people.mtime.com/1705858/", "Sotos Petrides": "http://people.mtime.com/2227248/", "王洪胜": "http://people.mtime.com/2227244/", "金燕玲": "http://people.mtime.com/985618/", "亚历克斯·达弗": "http://people.mtime.com/1952565/", "克莱顿·基蒂": "http://people.mtime.com/1955724/", "海清": "http://people.mtime.com/1258273/", "布莱德·汉特": "http://people.mtime.com/1993652/", "宋美慧": "http://people.mtime.com/2021763/"}
+导演：{"Xiaolu Xue": "http://people.mtime.com/893136/", "薛晓路": "http://people.mtime.com/893136/"}
+编剧：{"薛晓路 Xiaolu Xue": "http://people.mtime.com/893136/"}
+制作人：{"江志强 Bill Kong": "http://people.mtime.com/1165382/", "Michael Parker": "http://people.mtime.com/1173555/", "栢皓 Hao Bai": "http://people.mtime.com/2019170/", "谭芷珊 Shan Tam": "http://people.mtime.com/1209216/", "陆红实 Hongshi Lu": "http://people.mtime.com/1879013/", "Gine Lui": "http://people.mtime.com/1993656/", "Mathew Tang": "http://people.mtime.com/1191875/", "陈洁 Jie Chen": "http://people.mtime.com/2019172/", "马禾风 Hefeng Ma": "http://people.mtime.com/2019169/", "阎晓明 Xiaoming Yan": "http://people.mtime.com/1508277/", "姜伟 Wei Jiang": "http://people.mtime.com/2019173/", "岳扬 Yang Yue": "http://people.mtime.com/1826098/", "郝砺 Li Hao": "http://people.mtime.com/2019168/", "吴亚康 Yakang Wu": "http://people.mtime.com/1843050/", "杨国军 Guojun Yang": "http://people.mtime.com/2019171/", "张辉娜 Huina Zhang": "http://people.mtime.com/2019155/"}
+摄影：{"陈志英 Chi-ying Chan": "http://people.mtime.com/1269016/"}
+原创音乐：{"金培达 Peter Kam": "http://people.mtime.com/1258944/"}
+艺术指导：{"奚仲文 Chung-Man Hai": "http://people.mtime.com/892964/"}
+美术设计：{"Scott Moulton": "http://people.mtime.com/1659903/", "苏国豪 Simon So": "http://people.mtime.com/1464253/"}
+布景师：{"Athena Wong": "http://people.mtime.com/1993657/"}
+选角导演：{"Judy Lee": "http://people.mtime.com/1518382/"}

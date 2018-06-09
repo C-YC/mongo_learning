@@ -1,0 +1,16 @@
+_id：4202204
+year：2012
+movie_name：王的盛宴
+演员：{"奇道": "http://people.mtime.com/1251592/", "赵祥": "http://people.mtime.com/1882194/", "吴彦祖": "http://people.mtime.com/924666/", "霍思燕": "http://people.mtime.com/1249223/", "刘威": "http://people.mtime.com/1101842/", "刘烨": "http://people.mtime.com/917288/", "聂远": "http://people.mtime.com/1175792/", "陶泽如": "http://people.mtime.com/953420/", "小汤圆": "http://people.mtime.com/1882195/", "赵亮": "http://people.mtime.com/1022553/", "莫合塔尔": "http://people.mtime.com/1882193/", "李琦": "http://people.mtime.com/1249215/", "张震": "http://people.mtime.com/925071/", "齐二现": "http://people.mtime.com/1882196/", "沙溢": "http://people.mtime.com/1255397/", "何杜娟": "http://people.mtime.com/1816146/", "郝柏杰": "http://people.mtime.com/1251745/", "秦岚": "http://people.mtime.com/1248799/", "吕聿来": "http://people.mtime.com/1149180/"}
+导演：{"陆川": "http://people.mtime.com/892915/", "Chuan Lu": "http://people.mtime.com/892915/"}
+编剧：{"陆川 Chuan Lu": "http://people.mtime.com/892915/"}
+制作人：{"陆川 Chuan Lu": "http://people.mtime.com/892915/", "任杰 Ren Jie": "http://people.mtime.com/1882190/", "邢松 Xing Song": "http://people.mtime.com/1882191/", "覃宏 Hong Qin": "http://people.mtime.com/1804579/", "韩三平 Sanping Han": "http://people.mtime.com/1206936/"}
+摄影：{"张力 Li Zhang": "http://people.mtime.com/1291782/", "马诚 Ma Cheng": "http://people.mtime.com/1882192/"}
+剪辑：{"刘弋嘉 Yi Jia Liu": "http://people.mtime.com/1906951/"}
+原创音乐：{"刘彤 Tong Liu": "http://people.mtime.com/1627466/"}
+美术设计：{"鲁天航 Tian-hang Lu": "http://people.mtime.com/1904089/", "陈浩忠 Hao-zhong Chen": "http://people.mtime.com/1904088/"}
+服装设计：{"李卓卓 Zhuo-zhuo Li": "http://people.mtime.com/1904091/", "陈学兵 Xue-bing Chen": "http://people.mtime.com/1904090/", "钟佳妮 Jia Ni Zhong": "http://people.mtime.com/1906950/"}
+视觉特效：{"姚琪 Qi Yao": "http://people.mtime.com/1904096/", "Chris Qi Yao": "http://people.mtime.com/1989319/"}
+动作指导：{"蓝海瀚 Allen Lan": "http://people.mtime.com/1113995/", "张京华 Jing-hua Zhang": "http://people.mtime.com/1904094/"}
+录音：{"温波 Wen Bo": "http://people.mtime.com/1802709/", "王刚 Gang Wang": "http://people.mtime.com/1826605/"}
+布景师：{"陶新建 Xin-jian Tao": "http://people.mtime.com/1904093/", "李世国 Shi-guo Li": "http://people.mtime.com/1904092/"}

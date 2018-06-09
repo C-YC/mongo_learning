@@ -1,0 +1,13 @@
+_id：11636413
+year：2012
+movie_name：诡爱
+演员：{"邢岷山": "http://people.mtime.com/1250581/", "辛芷蕾": "http://people.mtime.com/1865764/", "成毅": "http://people.mtime.com/1968638/", "何佩瑜": "http://people.mtime.com/1865304/", "于毅": "http://people.mtime.com/1817338/", "叶子淇": "http://people.mtime.com/1793186/", "张哲瀚": "http://people.mtime.com/1864288/"}
+导演：{"梁婷": "http://people.mtime.com/1804602/"}
+编剧：{"梁婷 Ting Liang": "http://people.mtime.com/1804602/", "南牧原 Mu Yuan Nan": "http://people.mtime.com/1968637/", "于传松 Chuansong Yu": "http://people.mtime.com/1764848/"}
+制作人：{"蒋海峰 Hai Feng Jiang": "http://people.mtime.com/1968636/", "朱丹凤 Dan Feng Zhu": "http://people.mtime.com/1969387/", "梁婷 Ting Liang": "http://people.mtime.com/1804602/", "梁安森 An Sen Liang": "http://people.mtime.com/1969386/", "王程 Cheng Wang": "http://people.mtime.com/1969388/", "肖奇 Qi Xiao": "http://people.mtime.com/1968641/", "赵联 Lian Zhao": "http://people.mtime.com/1175832/", "王节 Jie Wang": "http://people.mtime.com/1903293/", "金媛 Yuan Jin": "http://people.mtime.com/1969385/", "严晶 Jing Yan": "http://people.mtime.com/1903299/", "李君豪 Jun-hao Li": "http://people.mtime.com/1903296/", "谭朗昌 Long-Cheung Tam": "http://people.mtime.com/893418/"}
+摄影：{"冯远文 Yuen Man Fung": "http://people.mtime.com/1198297/"}
+剪辑：{"彭正熙 Curran Pang": "http://people.mtime.com/1292212/"}
+原创音乐：{"严艺之 Yi-zhi Yan": "http://people.mtime.com/1920263/"}
+美术设计：{"申小涌 Xiaoyong Shen": "http://people.mtime.com/1691619/"}
+视觉特效：{"陈希 Xi Chen": "http://people.mtime.com/1259115/", "邓东明 Tony Tang": "http://people.mtime.com/1735388/", "武开文 Kai Wen Wu": "http://people.mtime.com/1968642/"}
+录音：{"赵楠 Nan Zhao": "http://people.mtime.com/1837284/", "杨江 Jiang Yang": "http://people.mtime.com/1864748/"}

@@ -1,0 +1,13 @@
+_id：20388223
+year：2013
+movie_name：激战
+演员：{"彭于晏": "http://people.mtime.com/1257087/", "李菲儿": "http://people.mtime.com/1690276/", "刘畊宏": "http://people.mtime.com/1476351/", "姜皓文": "http://people.mtime.com/968215/", "李馨巧": "http://people.mtime.com/1877935/", "刘俊纬": "http://people.mtime.com/1409349/", "安志杰": "http://people.mtime.com/924252/", "高捷": "http://people.mtime.com/900610/", "张家辉": "http://people.mtime.com/929030/", "王宝强": "http://people.mtime.com/939536/", "梅婷": "http://people.mtime.com/1001265/", "卢觅雪": "http://people.mtime.com/1820328/"}
+导演：{"Dante Lam": "http://people.mtime.com/892901/", "林超贤": "http://people.mtime.com/892901/"}
+编剧：{"吴炜伦 Wai Lun Ng": "http://people.mtime.com/893588/", "冯志丰 Chi-Fung Fung": "http://people.mtime.com/2081294/", "林超贤 Dante Lam": "http://people.mtime.com/892901/"}
+制作人：{"于冬 Dong Yu": "http://people.mtime.com/1219891/", "梁凤英 Candy Leung": "http://people.mtime.com/1206955/"}
+摄影：{"谢忠道 Chung-to Tse": "http://people.mtime.com/1324813/"}
+剪辑：{"钟炜钊 Weizhao Zhong": "http://people.mtime.com/1814649/"}
+原创音乐：{"黎允文 Henry Lai": "http://people.mtime.com/1565056/"}
+美术设计：{"张兆康 Zhao-kang Zhang": "http://people.mtime.com/1869915/"}
+服装设计：{"黄家宝 Jiabao Huang": "http://people.mtime.com/1814044/"}
+动作指导：{"凌志华 Tony Ling": "http://people.mtime.com/2057523/"}

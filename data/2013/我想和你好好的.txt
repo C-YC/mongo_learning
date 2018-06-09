@@ -1,0 +1,8 @@
+_id：20444530
+year：2013
+movie_name：我想和你好好的
+演员：{"倪妮": "http://people.mtime.com/1879781/", "周德华": "http://people.mtime.com/1464249/", "冯绍峰": "http://people.mtime.com/1308082/", "马斯瑟": "http://people.mtime.com/2067446/", "常小婧": "http://people.mtime.com/2067445/", "钮宝平": "http://people.mtime.com/2067444/", "郭晓小": "http://people.mtime.com/1879730/"}
+导演：{"李蔚然": "http://people.mtime.com/1691528/", "Weiran Li": "http://people.mtime.com/1691528/"}
+编剧：{"作业本 Zuo Ye Ben": "http://people.mtime.com/1949597/"}
+摄影：{"赵小丁 Xiaoding Zhao": "http://people.mtime.com/1258359/"}
+美术设计：{"孙立 Li Sun": "http://people.mtime.com/1842665/"}

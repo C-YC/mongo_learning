@@ -1,0 +1,15 @@
+_id：6991110
+year：2012
+movie_name：消失的子弹
+演员：{"井柏然": "http://people.mtime.com/1575942/", "郑希怡": "http://people.mtime.com/929576/", "王紫逸": "http://people.mtime.com/1892500/", "李广斌": "http://people.mtime.com/1905061/", "谢霆锋": "http://people.mtime.com/903079/", "吴刚": "http://people.mtime.com/1249271/", "江一燕": "http://people.mtime.com/1251642/", "廖启智": "http://people.mtime.com/924271/", "杨幂": "http://people.mtime.com/1249009/", "刘青云": "http://people.mtime.com/923218/", "钱嘉乐": "http://people.mtime.com/908079/", "高虎": "http://people.mtime.com/1177151/"}
+导演：{"罗志良": "http://people.mtime.com/892919/"}
+编剧：{"罗志良 Chi Leung Law": "http://people.mtime.com/892919/", "杨倩玲 Qianling Yang": "http://people.mtime.com/893245/"}
+制作人：{"尔冬升 Tung-Shing Yee": "http://people.mtime.com/892842/", "罗晓文 Mandy Law": "http://people.mtime.com/2086867/", "张昭 Cheung Chiu": "http://people.mtime.com/1688944/", "钟伟 Wei Zhong": "http://people.mtime.com/2231513/", "文卓求 Zhuoqiu Wen": "http://people.mtime.com/2194739/", "贾跃亭 Yueting Jia": "http://people.mtime.com/1881222/", "单东炳 Dongbing Shan": "http://people.mtime.com/1548797/", "禤嘉珍 Catherine Hun": "http://people.mtime.com/2067308/", "杨受成 Albert Yeung": "http://people.mtime.com/1205341/", "利雅博 Albert Lee": "http://people.mtime.com/1211991/"}
+摄影：{"陈志英 Chi-ying Chan": "http://people.mtime.com/1269016/"}
+剪辑：{"邝志良 Chi-Leung Kwong": "http://people.mtime.com/1263987/", "陈忠明 Ron Chan": "http://people.mtime.com/2082594/"}
+原创音乐：{"泰迪·罗宾 Teddy Robin Kwan": "http://people.mtime.com/893301/"}
+艺术指导：{"李健威 Jian-wei Li": "http://people.mtime.com/2067310/"}
+美术设计：{"李健威 Jian-wei Li": "http://people.mtime.com/2067310/", "张世宏 Silver Cheung": "http://people.mtime.com/1283508/"}
+服装设计：{"张世杰 Stanley Cheung": "http://people.mtime.com/1308080/"}
+视觉特效：{"陈志道 Zhi-dao Chen": "http://people.mtime.com/1905063/"}
+动作指导：{"李忠志 Nicky Li": "http://people.mtime.com/1001544/"}

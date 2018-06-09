@@ -1,0 +1,11 @@
+_id：10748193
+year：2012
+movie_name：笔仙惊魂
+演员：{"午马": "http://people.mtime.com/893386/", "柴碧云": "http://people.mtime.com/1823792/", "王一": "http://people.mtime.com/1856480/", "翟文斌": "http://people.mtime.com/1468385/", "何杜娟": "http://people.mtime.com/1816146/"}
+导演：{"关尔": "http://people.mtime.com/1850913/"}
+编剧：{"朱孛 Bo Zhu": "http://people.mtime.com/1925316/", "梁潇潇 Xiao-xiao Liang": "http://people.mtime.com/1857000/", "周唯 Wei Zhou": "http://people.mtime.com/1925315/"}
+制作人：{"明秋成 Qiucheng Ming": "http://people.mtime.com/1925228/", "赵星 Xing Zhao": "http://people.mtime.com/1925320/", "刘鸿 Hong Liu": "http://people.mtime.com/1925226/", "陈青 Qing Chen": "http://people.mtime.com/1255520/", "廖李斌 Li Bing Liao": "http://people.mtime.com/1925227/", "胡明一 Ming Yi Hu": "http://people.mtime.com/1925229/", "王茗 MIng Wang": "http://people.mtime.com/1925230/"}
+摄影：{"李红建 Hong Jian Li": "http://people.mtime.com/1925317/"}
+原创音乐：{"室田宪一 Shi Tian Xian Yi": "http://people.mtime.com/1925318/"}
+美术设计：{"马红涛 Hong-tao Ma": "http://people.mtime.com/1896572/"}
+服装设计：{"程秋月 Qiuyue Cheng": "http://people.mtime.com/1925319/"}

@@ -1,0 +1,12 @@
+_id：6984061
+year：2013
+movie_name：笑功震武林
+演员：{"谢娜": "http://people.mtime.com/1273205/", "杜宇航": "http://people.mtime.com/1607898/", "吴君如": "http://people.mtime.com/929109/", "童菲": "http://people.mtime.com/1865361/", "郑中基": "http://people.mtime.com/939702/", "谷祖琳": "http://people.mtime.com/934067/", "曾志伟": "http://people.mtime.com/893302/", "伍允龙": "http://people.mtime.com/940067/", "孟瑶": "http://people.mtime.com/1177752/", "温超": "http://people.mtime.com/1896836/", "王祖蓝": "http://people.mtime.com/1426187/", "释彦能": "http://people.mtime.com/1100513/", "洪天明": "http://people.mtime.com/1249368/", "蒋璐霞": "http://people.mtime.com/1551279/", "元华": "http://people.mtime.com/931619/", "许明虎": "http://people.mtime.com/1890608/", "洪金宝": "http://people.mtime.com/892825/", "陈嘉桓": "http://people.mtime.com/1707525/"}
+导演：{"王晶": "http://people.mtime.com/892954/"}
+编剧：{"王晶 Jing Wong": "http://people.mtime.com/892954/"}
+制作人：{"于冬 Dong Yu": "http://people.mtime.com/1219891/", "王晶 Jing Wong": "http://people.mtime.com/892954/", "王爱玲 Ong Aileng": "http://people.mtime.com/1296316/"}
+摄影：{"姜国民 Kwok-Man Keung": "http://people.mtime.com/1250536/"}
+剪辑：{"李嘉荣 Karwing Lee": "http://people.mtime.com/1612472/"}
+原创音乐：{"罗坚 Lincoln Lo": "http://people.mtime.com/1316353/"}
+服装设计：{"冯君孟 William Fung": "http://people.mtime.com/1275497/"}
+动作指导：{"郭振锋 Philip Kwok": "http://people.mtime.com/924553/"}

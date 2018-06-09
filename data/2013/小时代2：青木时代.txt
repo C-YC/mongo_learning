@@ -1,0 +1,11 @@
+_id：24721493
+year：2013
+movie_name：小时代2：青木时代
+演员：{"杨洋": "http://people.mtime.com/1869390/", "姜潮": "http://people.mtime.com/1802001/", "杜天皓": "http://people.mtime.com/1993044/", "李悦铭": "http://people.mtime.com/2027184/", "郭碧婷": "http://people.mtime.com/1400883/", "丁巧唯": "http://people.mtime.com/2047361/", "陈学冬": "http://people.mtime.com/1993256/", "谢依霖": "http://people.mtime.com/1925931/", "杨幂": "http://people.mtime.com/1249009/", "郭采洁": "http://people.mtime.com/1531189/", "王琳": "http://people.mtime.com/1287182/", "柯震东": "http://people.mtime.com/1779010/", "商侃": "http://people.mtime.com/1994267/", "凤小岳": "http://people.mtime.com/1496070/"}
+导演：{"郭敬明": "http://people.mtime.com/1573981/"}
+编剧：{"郭敬明 Jingming Guo": "http://people.mtime.com/1573981/"}
+制作人：{"钱重远 Zhongyuan Qian": "http://people.mtime.com/2223116/", "张昭 Cheung Chiu": "http://people.mtime.com/1688944/", "柴智屏 Zhiping Chai": "http://people.mtime.com/1289676/", "安晓芬 Ann An": "http://people.mtime.com/1637303/", "郭敬明 Jingming Guo": "http://people.mtime.com/1573981/", "崔震东 Adam Tsuci": "http://people.mtime.com/1839105/"}
+剪辑：{"顾晓芸 Hsiao-Yun Ku": "http://people.mtime.com/1502646/"}
+原创音乐：{"候志坚": "http://people.mtime.com/2059017/"}
+美术设计：{"黄志鸿": "http://people.mtime.com/2053249/"}
+录音：{"杜笃之 Du-Che Tu": "http://people.mtime.com/1249195/"}

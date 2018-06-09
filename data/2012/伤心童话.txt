@@ -1,0 +1,13 @@
+_id：10453730
+year：2012
+movie_name：伤心童话
+演员：{"伊力奇": "http://people.mtime.com/1966093/", "刘诗诗": "http://people.mtime.com/1273178/", "张一鸣": "http://people.mtime.com/1320947/", "林更新": "http://people.mtime.com/1821554/", "杨悦": "http://people.mtime.com/1968327/", "叶清源": "http://people.mtime.com/1885370/", "赵佳怡": "http://people.mtime.com/1968329/", "鞠鸿宇": "http://people.mtime.com/1968330/", "谢楠": "http://people.mtime.com/1639665/", "徐正超": "http://people.mtime.com/1735127/", "大左": "http://people.mtime.com/1820137/", "胡夏": "http://people.mtime.com/1879779/", "张子栋": "http://people.mtime.com/1949953/", "付滃": "http://people.mtime.com/1968328/"}
+导演：{"徐正超": "http://people.mtime.com/1735127/"}
+编剧：{"徐正超 ZhengChao Xu": "http://people.mtime.com/1735127/"}
+制作人：{"王靖华 Jinghua Wang": "http://people.mtime.com/1966105/", "刘同 Tong Liu": "http://people.mtime.com/1946605/", "岳峪 Yu Yue": "http://people.mtime.com/1966104/", "李晓萍 Xiaoping Li": "http://people.mtime.com/1816581/"}
+摄影：{"崔亮 Liang Cui": "http://people.mtime.com/1966094/"}
+剪辑：{"刘香 Liu Xiang": "http://people.mtime.com/1966095/", "丁以珏 Yijue Ding": "http://people.mtime.com/1966103/"}
+原创音乐：{"陈域 Yu Chen": "http://people.mtime.com/1966106/", "陈嵩": "http://people.mtime.com/1966107/"}
+美术设计：{"满波 Man Bo": "http://people.mtime.com/1966108/"}
+服装设计：{"王白 Wang Bai": "http://people.mtime.com/1966109/"}
+动作指导：{"李志杰 Lee Chi Kit": "http://people.mtime.com/1238404/"}

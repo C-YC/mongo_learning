@@ -1,0 +1,11 @@
+_id：10549223
+year：2012
+movie_name：笔仙
+演员：{"郭京飞": "http://people.mtime.com/1308405/", "Shu-liang Ma": "http://people.mtime.com/2232007/", "梅婷": "http://people.mtime.com/1001265/", "吴超": "http://people.mtime.com/922607/", "刘希媛": "http://people.mtime.com/1305067/"}
+导演：{"Byeong-ki Ahn": "http://people.mtime.com/893135/", "安兵基": "http://people.mtime.com/893135/"}
+编剧：{"李威 Wei Li": "http://people.mtime.com/1249241/", "李晗 Han Li": "http://people.mtime.com/1948393/", "刘晗 Han Liu": "http://people.mtime.com/1948392/"}
+制作人：{"Wu Fan": "http://people.mtime.com/2231995/", "Xiaoli Han": "http://people.mtime.com/1691718/", "Li Wei": "http://people.mtime.com/2232000/", "Liu Xufeng": "http://people.mtime.com/2232004/", "Huang Haixiao": "http://people.mtime.com/2231996/", "Zhang Qiang": "http://people.mtime.com/2231998/", "Mingyu Peng": "http://people.mtime.com/1556899/", "韩三平 Sanping Han": "http://people.mtime.com/1206936/", "Zhao Qiang": "http://people.mtime.com/2231999/", "赵海城 Haicheng Zhao": "http://people.mtime.com/1224565/", "Zou Yi": "http://people.mtime.com/2232005/", "Dong Xiaobo": "http://people.mtime.com/2232003/", "裴琳 Pei Lin": "http://people.mtime.com/1953595/", "Chai Wen": "http://people.mtime.com/2232001/", "Lin Pei": "http://people.mtime.com/2231997/", "Fan Xiangyi": "http://people.mtime.com/2232002/"}
+摄影：{"崔相默 Sang-Muk Choi": "http://people.mtime.com/1836006/"}
+原创音乐：{"丁庸镇  Yong-jin Jeong": "http://people.mtime.com/1265851/"}
+美术设计：{"张雨 Zhang Yu": "http://people.mtime.com/1953594/"}
+录音：{"王砚伟 Yanwei Wang": "http://people.mtime.com/1594207/"}

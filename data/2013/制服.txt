@@ -1,0 +1,7 @@
+_id：20279749
+year：2013
+movie_name：制服
+演员：{"吴樾": "http://people.mtime.com/1101839/", "李艾": "http://people.mtime.com/1736131/", "欧弟": "http://people.mtime.com/1101908/", "陈思诚": "http://people.mtime.com/1249267/", "刘仪伟": "http://people.mtime.com/1254856/", "徐若瑄": "http://people.mtime.com/985097/", "颖儿": "http://people.mtime.com/1498822/", "袁弘": "http://people.mtime.com/1260696/", "梁敏仪": "http://people.mtime.com/940060/", "吴晴晴": "http://people.mtime.com/1859248/", "高群书": "http://people.mtime.com/1167078/", "任达华": "http://people.mtime.com/916259/"}
+导演：{"王光利": "http://people.mtime.com/910085/"}
+编剧：{"秦雯 Wen Qin": "http://people.mtime.com/1844415/", "邓晓华 Xiaohua Deng": "http://people.mtime.com/2068802/", "王倦 Juan Wang": "http://people.mtime.com/1300223/"}
+制作人：{"刘仪伟 Yiwei Liu": "http://people.mtime.com/1254856/", "周天祥": "http://people.mtime.com/2065900/"}

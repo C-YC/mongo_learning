@@ -1,0 +1,13 @@
+_id：10605978
+year：2013
+movie_name：私人订制
+演员：{"李小璐": "http://people.mtime.com/1003404/", "杜家毅": "http://people.mtime.com/1440021/", "范伟": "http://people.mtime.com/1175791/", "成龙": "http://people.mtime.com/892908/", "李咏": "http://people.mtime.com/2074238/", "关晓彤": "http://people.mtime.com/917379/", "郑恺": "http://people.mtime.com/1459431/", "李诚儒": "http://people.mtime.com/1258470/", "邱晔": "http://people.mtime.com/2077067/", "宋丹丹": "http://people.mtime.com/924682/", "葛优": "http://people.mtime.com/939393/", "苗圃": "http://people.mtime.com/1198035/", "王宝强": "http://people.mtime.com/939536/", "白百何": "http://people.mtime.com/1413704/", "梁天": "http://people.mtime.com/1047573/", "曹炳琨": "http://people.mtime.com/1748513/"}
+导演：{"冯小刚": "http://people.mtime.com/892845/"}
+编剧：{"王朔 Shuo Wang": "http://people.mtime.com/893384/"}
+制作人：{"周莉芳 Lifang Zhou": "http://people.mtime.com/2075759/", "张大军 Dajun Zhang": "http://people.mtime.com/1691846/", "胡晓峰 Xiaofeng Hu": "http://people.mtime.com/2075748/", "裘新 Xin Qiu": "http://people.mtime.com/2075749/", "王中军 Zhongjun Wang": "http://people.mtime.com/1208257/", "李志佩 Zhipei Li": "http://people.mtime.com/1859604/", "刘光全 Guang-quan Liu": "http://people.mtime.com/1912238/", "杨庭恺 Bernard Yang": "http://people.mtime.com/1691845/", "杨受成 Albert Yeung": "http://people.mtime.com/1205341/", "利雅博 Albert Lee": "http://people.mtime.com/1211991/", "张苏州 Su-zhou Zhang": "http://people.mtime.com/1894126/", "成龙 Jackie Chan": "http://people.mtime.com/892908/", "王中磊 Zhonglei Wang": "http://people.mtime.com/1210323/", "李潮洋 Chao Yang Li": "http://people.mtime.com/1949482/", "王一洋 Yiyang Wang": "http://people.mtime.com/2075750/"}
+摄影：{"赵晓时 Xiaoshi Zhao": "http://people.mtime.com/1604357/"}
+剪辑：{"肖洋 Yang Xiao": "http://people.mtime.com/1700603/", "张为傈 Weili Zhang": "http://people.mtime.com/1796658/"}
+原创音乐：{"栾树 Shu Luan": "http://people.mtime.com/1805234/"}
+美术设计：{"石海鹰 Haiying Shi": "http://people.mtime.com/1805235/"}
+服装设计：{"吴里璐 Dora Ng": "http://people.mtime.com/1263991/"}
+录音：{"吴江 Jiang Wu": "http://people.mtime.com/1635039/"}

@@ -1,0 +1,6 @@
+_id：20443799
+year：2013
+movie_name：诡婴吉咪
+演员：{"林峰": "http://people.mtime.com/968565/", "程前": "http://people.mtime.com/1192055/", "吴千语": "http://people.mtime.com/1872599/", "盛君": "http://people.mtime.com/2002966/", "卢海鹏": "http://people.mtime.com/925487/", "徐子珊": "http://people.mtime.com/1250036/", "于波": "http://people.mtime.com/1313071/", "温碧霞": "http://people.mtime.com/1017859/"}
+导演：{"Po-Chih Leong": "http://people.mtime.com/892898/", "梁普智": "http://people.mtime.com/892898/"}
+编剧：{"黄博 Bo Huang": "http://people.mtime.com/1878612/"}

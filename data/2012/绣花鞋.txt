@@ -1,0 +1,12 @@
+_id：6855094
+year：2012
+movie_name：绣花鞋
+演员：{"邢岷山": "http://people.mtime.com/1250581/", "林心如": "http://people.mtime.com/968122/", "Xing Min Shan": "http://people.mtime.com/1959300/", "原岛大地": "http://people.mtime.com/934141/", "惠英红": "http://people.mtime.com/924890/", "陈晓东": "http://people.mtime.com/968224/", "莫小棋": "http://people.mtime.com/1261429/", "Tong Huan": "http://people.mtime.com/1959301/", "景岗山": "http://people.mtime.com/1157365/", "叶子淇": "http://people.mtime.com/1793186/", "唐文龙": "http://people.mtime.com/927403/", "Mabel Yee": "http://people.mtime.com/1959299/"}
+导演：{"叶伟民": "http://people.mtime.com/892989/", "Waiman Yip": "http://people.mtime.com/892989/"}
+编剧：{"杨梅媛 Mei-yuan Yang": "http://people.mtime.com/1876422/", "文隽 Manfred Wong": "http://people.mtime.com/893271/"}
+制作人：{"文隽 Manfred Wong": "http://people.mtime.com/893271/", "梁婷 Ting Liang": "http://people.mtime.com/1804602/", "严晶 Jing Yan": "http://people.mtime.com/1903299/", "吴杰强 Kit Keung Ng": "http://people.mtime.com/1493047/", "王节 Jie Wang": "http://people.mtime.com/1903293/", "吴道荣 Daorong Wu": "http://people.mtime.com/1903295/", "Ting Liang": "http://people.mtime.com/1959302/", "夏华君 Hua-jun Xia": "http://people.mtime.com/1903294/", "钱江汉 Cub Chin Kong-Hon": "http://people.mtime.com/986953/", "李君豪 Jun-hao Li": "http://people.mtime.com/1903296/"}
+摄影：{"周书豪 Shu Chou": "http://people.mtime.com/1733516/", "徐少江 Shaojiang Xu": "http://people.mtime.com/1750486/"}
+剪辑：{"叶婉婷 Wan-ting Ye": "http://people.mtime.com/1903297/"}
+美术设计：{"刘世运 Shiyun Liu": "http://people.mtime.com/1736688/", "Liu Shi Yun": "http://people.mtime.com/1959304/"}
+服装设计：{"张可 Ke Zhang": "http://people.mtime.com/1903298/", "张世杰 Stanley Cheung": "http://people.mtime.com/1308080/", "文润玲 Runling Wen": "http://people.mtime.com/1727470/"}
+副导演/助理导演：{"钱江汉 Cub Chin Kong-Hon": "http://people.mtime.com/986953/"}

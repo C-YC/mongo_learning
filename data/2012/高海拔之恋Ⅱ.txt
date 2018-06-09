@@ -1,0 +1,11 @@
+_id：5977838
+year：2012
+movie_name：高海拔之恋Ⅱ
+演员：{"恬妞": "http://people.mtime.com/964740/", "杨奕": "http://people.mtime.com/1877856/", "刘浩龙": "http://people.mtime.com/1184096/", "李海涛": "http://people.mtime.com/1308196/", "季晨": "http://people.mtime.com/1272625/", "黄奕": "http://people.mtime.com/989554/", "古天乐": "http://people.mtime.com/923219/", "高圆圆": "http://people.mtime.com/952027/", "郑秀文": "http://people.mtime.com/927396/", "傅传杰": "http://people.mtime.com/1895545/", "孙嘉一": "http://people.mtime.com/1877857/", "王宝强": "http://people.mtime.com/939536/", "李光洁": "http://people.mtime.com/1290966/"}
+导演：{"杜琪峯": "http://people.mtime.com/892840/"}
+编剧：{"陈伟斌 Ryker Chan": "http://people.mtime.com/1814043/", "游乃海 Nai-Hoi Yau": "http://people.mtime.com/893142/", "韦家辉 Wai Kar fai": "http://people.mtime.com/892841/", "欧文杰 Jevons Au Man-Kit": "http://people.mtime.com/1814042/"}
+制作人：{"韦家辉 Wai Kar fai": "http://people.mtime.com/892841/", "杜琪峯 Johnnie To": "http://people.mtime.com/892840/", "夏泽信 Jackson Ha": "http://people.mtime.com/986958/", "张国立 Guoli Zhang": "http://people.mtime.com/939396/", "何丽嫦 Lorraine Ho": "http://people.mtime.com/1418988/", "刘艳娥 Shirley Lau": "http://people.mtime.com/1574032/", "庄澄 John Chong": "http://people.mtime.com/1174198/"}
+摄影：{"陶鸿武 Hung Mo To": "http://people.mtime.com/1434882/", "郑兆强 Siu-keung Cheng": "http://people.mtime.com/1100329/"}
+剪辑：{"大卫·理查森 David M. Richardson": "http://people.mtime.com/1285444/", "梁展纶 Zhanlun Liang": "http://people.mtime.com/1814046/"}
+美术设计：{"陈锦河 Raymond Chan": "http://people.mtime.com/1427825/", "余家安 Bruce Yu": "http://people.mtime.com/1283510/"}
+服装设计：{"曾伯铨 Steven Tsang": "http://people.mtime.com/1286125/"}

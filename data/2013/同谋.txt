@@ -1,0 +1,9 @@
+_id：10617168
+year：2013
+movie_name：同谋
+演员：{"郭富城": "http://people.mtime.com/928694/", "小肥": "http://people.mtime.com/1530865/", "张家辉": "http://people.mtime.com/929030/", "梁雅高": "http://people.mtime.com/2021738/", "江一燕": "http://people.mtime.com/1251642/", "陈观泰": "http://people.mtime.com/897501/", "阿牛": "http://people.mtime.com/943798/", "李晨浩": "http://people.mtime.com/1887425/", "林威": "http://people.mtime.com/1010127/", "王骏": "http://people.mtime.com/1252093/"}
+导演：{"Oxide Pang Chun": "http://people.mtime.com/892930/", "彭顺": "http://people.mtime.com/892930/"}
+编剧：{"彭柏成 Thomas Pang": "http://people.mtime.com/1426311/", "彭顺 Oxide Pang Chun": "http://people.mtime.com/892930/", "吴孟璋 Mengzhang Wu": "http://people.mtime.com/1448707/"}
+制作人：{"张昭 Cheung Chiu": "http://people.mtime.com/1688944/", "贾跃亭 Yueting Jia": "http://people.mtime.com/1881222/", "林小明 Daniel Lam": "http://people.mtime.com/1211649/", "彭顺 Oxide Pang Chun": "http://people.mtime.com/892930/", "唐才智 Cai-zhi TANG": "http://people.mtime.com/1899225/", "周焯华 Cheok-Wa Chau": "http://people.mtime.com/1707568/"}
+摄影：{"狄查史达 Decha Srimantra": "http://people.mtime.com/1292210/"}
+剪辑：{"彭正熙 Curran Pang": "http://people.mtime.com/1292212/"}

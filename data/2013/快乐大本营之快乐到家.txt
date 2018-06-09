@@ -1,0 +1,13 @@
+_id：11610693
+year：2013
+movie_name：快乐大本营之快乐到家
+演员：{"谢娜": "http://people.mtime.com/1273205/", "倪大红": "http://people.mtime.com/1016974/", "杜海涛": "http://people.mtime.com/1605275/", "何炅": "http://people.mtime.com/1249007/", "李维嘉": "http://people.mtime.com/1642379/", "杜汶泽": "http://people.mtime.com/924886/", "吴昕": "http://people.mtime.com/1642380/"}
+导演：{"傅华阳": "http://people.mtime.com/1159633/", "Huayang Fu": "http://people.mtime.com/1159633/"}
+编剧：{"周莉娜 Lina Zhou": "http://people.mtime.com/1994596/", "傅华阳 Huayang Fu": "http://people.mtime.com/1159633/"}
+制作人：{"苏志鸿 Solon So": "http://people.mtime.com/1209231/", "李浩 Hao Li": "http://people.mtime.com/1252476/", "胡刚 Gang Hu": "http://people.mtime.com/1867536/", "欧阳常林 Changlin Ouyang": "http://people.mtime.com/1742624/"}
+摄影：{"Chetsaristh Smithnookulkit": "http://people.mtime.com/1994598/"}
+剪辑：{"麦子善 Marco Mak": "http://people.mtime.com/1225122/"}
+原创音乐：{"许愿 Clarence Hui": "http://people.mtime.com/954335/"}
+美术设计：{"李景文 Kingman Lee": "http://people.mtime.com/1309898/"}
+动作指导：{"马玉成 Yuk-Sing Ma": "http://people.mtime.com/1318579/"}
+录音：{"谢耀基 Yao Ji Xie": "http://people.mtime.com/1994597/"}

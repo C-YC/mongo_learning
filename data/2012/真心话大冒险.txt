@@ -1,0 +1,12 @@
+_id：6061437
+year：2012
+movie_name：真心话大冒险
+演员：{"周扬": "http://people.mtime.com/1300224/", "李威": "http://people.mtime.com/1255777/", "孟丽": "http://people.mtime.com/1772387/", "杨淇": "http://people.mtime.com/924249/", "刘桦": "http://people.mtime.com/1249886/", "黄格选": "http://people.mtime.com/1252094/", "梁椰雯": "http://people.mtime.com/1896079/", "原雨": "http://people.mtime.com/1873567/", "张瀚生": "http://people.mtime.com/1896078/", "高姝瑶": "http://people.mtime.com/1812373/", "文章": "http://people.mtime.com/1266212/", "黄维德": "http://people.mtime.com/1257606/", "孙兴": "http://people.mtime.com/1177344/", "苗圃": "http://people.mtime.com/1198035/", "赵阳": "http://people.mtime.com/1250941/", "秦海璐": "http://people.mtime.com/956797/"}
+导演：{"Ma Zhi-yu": "http://people.mtime.com/1767954/", "马志宇": "http://people.mtime.com/1767954/"}
+编剧：{"马志宇 Ma Zhi-yu": "http://people.mtime.com/1767954/"}
+制作人：{"于冬 Dong Yu": "http://people.mtime.com/1219891/", "马伟豪 Joe Ma": "http://people.mtime.com/892922/", "王晓晓 Xiao-xiao Wang": "http://people.mtime.com/1896083/", "张秋芳 Qiufang Zhang": "http://people.mtime.com/1308474/", "姜寨瑾 Zhai-jin Jiang": "http://people.mtime.com/1896085/", "郭子龙 Zi-long Guo": "http://people.mtime.com/1896086/", "赵春花 Chun-hua Zhao": "http://people.mtime.com/1896088/", "张伟 Wei Zhang": "http://people.mtime.com/1502077/", "王益民 Yi-ming Wang": "http://people.mtime.com/1896082/", "陆国强 Guoqiang Lu": "http://people.mtime.com/1638949/", "郭阅洲 Yue-zhou Guo": "http://people.mtime.com/1896087/", "余毓兴 Yu-xing Yu": "http://people.mtime.com/1858553/", "张浩 Hao Zhang": "http://people.mtime.com/1976516/", "杨青 Qing Yang": "http://people.mtime.com/1896084/"}
+摄影：{"朱志刚 Jeffrey Chu": "http://people.mtime.com/1699216/"}
+剪辑：{"许磊 Lei Xu": "http://people.mtime.com/1896089/"}
+原创音乐：{"吴梦奇 Meng-qi Wu": "http://people.mtime.com/1896081/"}
+美术设计：{"孙正初 Zheng-chu Sun": "http://people.mtime.com/1896080/"}
+录音：{"陈辉 Hui Chen": "http://people.mtime.com/1826895/"}

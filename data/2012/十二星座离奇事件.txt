@@ -1,0 +1,12 @@
+_id：6861573
+year：2012
+movie_name：十二星座离奇事件
+演员：{"秦昊": "http://people.mtime.com/1249231/", "柳岩": "http://people.mtime.com/1716128/", "张钧涵": "http://people.mtime.com/1827207/", "宋宁": "http://people.mtime.com/1248593/", "甘薇": "http://people.mtime.com/1599749/", "乔任梁": "http://people.mtime.com/1566713/", "佟大为": "http://people.mtime.com/944769/"}
+导演：{"盛志民": "http://people.mtime.com/1249912/"}
+编剧：{"刘雅 Ya Liu": "http://people.mtime.com/1947383/", "盛志民 Zhimin Sheng": "http://people.mtime.com/1249912/"}
+制作人：{"宋岱 Dai Song": "http://people.mtime.com/1427385/", "陈果 Fruit Chan": "http://people.mtime.com/892812/", "张昭 Cheung Chiu": "http://people.mtime.com/1688944/"}
+摄影：{"金炯求 Hyung-ku Kim": "http://people.mtime.com/1264353/"}
+原创音乐：{"黄少峰 Shao-feng Huang": "http://people.mtime.com/1947385/"}
+美术设计：{"吕东 Dong Lv": "http://people.mtime.com/1489498/"}
+副导演/助理导演：{"崔陆萌 Lu Men Cui": "http://people.mtime.com/1960199/"}
+声音部门：{"Jing Ji": "http://people.mtime.com/2231965/"}

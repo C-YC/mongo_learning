@@ -1,0 +1,12 @@
+_id：10604486
+year：2013
+movie_name：不二神探
+演员：{"马伊琍": "http://people.mtime.com/956795/", "何超仪": "http://people.mtime.com/954502/", "梁家仁": "http://people.mtime.com/893450/", "邓丽欣": "http://people.mtime.com/938150/", "郑嘉颖": "http://people.mtime.com/1101850/", "李连杰": "http://people.mtime.com/898883/", "黄晓明": "http://people.mtime.com/1249959/", "方力申": "http://people.mtime.com/925979/", "文章": "http://people.mtime.com/1266212/", "卢海鹏": "http://people.mtime.com/925487/", "田亮": "http://people.mtime.com/1327934/", "陈妍希": "http://people.mtime.com/1469655/", "梁小龙": "http://people.mtime.com/931618/", "佟大为": "http://people.mtime.com/944769/", "林子聪": "http://people.mtime.com/957607/", "吴京": "http://people.mtime.com/956786/", "林峰": "http://people.mtime.com/968565/", "刘诗诗": "http://people.mtime.com/1273178/", "林爽": "http://people.mtime.com/1404243/", "张同祖": "http://people.mtime.com/893053/", "冯德伦": "http://people.mtime.com/893086/", "邹兆龙": "http://people.mtime.com/1248788/", "谢天华": "http://people.mtime.com/983940/", "柳岩": "http://people.mtime.com/1716128/", "黄芝琪": "http://people.mtime.com/1737578/", "冯克安": "http://people.mtime.com/1052749/", "田启文": "http://people.mtime.com/942189/"}
+导演：{"Ziming Wang": "http://people.mtime.com/2027139/", "王子鸣": "http://people.mtime.com/2027139/"}
+编剧：{"张炭 Cheung Tan": "http://people.mtime.com/893148/"}
+制作人：{"王长田 Wang Chang Tian": "http://people.mtime.com/1485748/", "陈志良 Chi Leung Chan": "http://people.mtime.com/1424636/", "崔宝珠 BoChu Chui": "http://people.mtime.com/1486661/", "邝文伟 Abe Kwong": "http://people.mtime.com/907166/", "李晓萍 Xiaoping Li": "http://people.mtime.com/1816581/"}
+摄影：{"谢忠道 Chung-to Tse": "http://people.mtime.com/1324813/"}
+剪辑：{"林安儿 Angie Lam": "http://people.mtime.com/1263385/"}
+原创音乐：{"黄英华 Raymond Wong": "http://people.mtime.com/1313250/"}
+服装设计：{"陈顾方 Shirley Chan": "http://people.mtime.com/1298545/"}
+动作指导：{"元奎 Corey Yuen": "http://people.mtime.com/892772/"}

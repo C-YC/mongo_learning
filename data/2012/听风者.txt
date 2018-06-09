@@ -1,0 +1,13 @@
+_id：6041191
+year：2012
+movie_name：听风者
+演员：{"白茹": "http://people.mtime.com/1875271/", "甘婷婷": "http://people.mtime.com/1252646/", "董勇": "http://people.mtime.com/1246587/", "张之亮": "http://people.mtime.com/893002/", "梁朝伟": "http://people.mtime.com/925068/", "周迅": "http://people.mtime.com/923645/", "方平": "http://people.mtime.com/1258063/", "林威": "http://people.mtime.com/1010127/", "唐群": "http://people.mtime.com/1249338/", "吴家丽": "http://people.mtime.com/962219/", "王学兵": "http://people.mtime.com/944772/", "范晓萱": "http://people.mtime.com/1172656/", "单立文": "http://people.mtime.com/1023585/", "张海燕": "http://people.mtime.com/1018647/"}
+导演：{"庄文强": "http://people.mtime.com/893109/", "麦兆辉": "http://people.mtime.com/892924/", "Felix Chong": "http://people.mtime.com/893109/", "Alan Mak": "http://people.mtime.com/892924/"}
+编剧：{"庄文强 Felix Chong": "http://people.mtime.com/893109/", "麦兆辉 Alan Mak": "http://people.mtime.com/892924/", "麦家 Jia Mai": "http://people.mtime.com/1262080/"}
+制作人：{"傅斌星 Binxing Fu": "http://people.mtime.com/2133643/", "宋歌 Ge Song": "http://people.mtime.com/1886695/", "杨逸德 Yat-Tak Yeung": "http://people.mtime.com/893597/", "唐庆枝 Patrick Tong": "http://people.mtime.com/1427498/", "李锦文 Peggy Lee": "http://people.mtime.com/1208722/", "王守琴 Shouqin Wang": "http://people.mtime.com/2228776/", "黄斌 Ronald Wong": "http://people.mtime.com/998862/", "李国林 Guolin Li": "http://people.mtime.com/2228775/", "李国兴 Kwok-Hing Lee": "http://people.mtime.com/1211850/", "汤震 Zhen Tang": "http://people.mtime.com/2232852/", "邱顺清 Shunqing Qiu": "http://people.mtime.com/2232849/", "卓伍 Wu Zhuo": "http://people.mtime.com/1471134/"}
+摄影：{"潘耀明 Anthony Pun": "http://people.mtime.com/1543429/"}
+剪辑：{"彭正熙 Curran Pang": "http://people.mtime.com/1292212/"}
+原创音乐：{"陈光荣 Kwongwing Chan": "http://people.mtime.com/1088503/"}
+艺术指导：{"文念中 Lim-chung Man": "http://people.mtime.com/1275028/"}
+美术设计：{"文念中 Lim-chung Man": "http://people.mtime.com/1275028/"}
+动作指导：{"林迪安 Dion Lam": "http://people.mtime.com/954416/"}

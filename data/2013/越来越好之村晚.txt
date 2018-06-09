@@ -1,0 +1,13 @@
+_id：20395646
+year：2013
+movie_name：越来越好之村晚
+演员：{"郭富城": "http://people.mtime.com/928694/", "吴莫愁": "http://people.mtime.com/2001745/", "王珞丹": "http://people.mtime.com/1257680/", "王志飞": "http://people.mtime.com/1256154/", "莫文蔚": "http://people.mtime.com/924644/", "华少": "http://people.mtime.com/1574484/", "吴君如": "http://people.mtime.com/929109/", "伊能静": "http://people.mtime.com/985101/", "黄觉": "http://people.mtime.com/923643/", "佟大为": "http://people.mtime.com/944769/", "吴刚": "http://people.mtime.com/1249271/", "高群书": "http://people.mtime.com/1167078/", "张译": "http://people.mtime.com/1311848/", "莫少聪": "http://people.mtime.com/1227515/", "钟丽缇": "http://people.mtime.com/923223/", "徐静蕾": "http://people.mtime.com/892974/", "刘仪伟": "http://people.mtime.com/1254856/", "景甜": "http://people.mtime.com/1490272/", "刘之冰": "http://people.mtime.com/1175630/", "王宝强": "http://people.mtime.com/939536/", "章子怡": "http://people.mtime.com/912939/", "倪大红": "http://people.mtime.com/1016974/", "刘桦": "http://people.mtime.com/1249886/", "梁家辉": "http://people.mtime.com/893545/", "林雪": "http://people.mtime.com/924892/", "林保怡": "http://people.mtime.com/1007725/"}
+导演：{"谢东燊": "http://people.mtime.com/1993248/"}
+编剧：{"徐正超 ZhengChao Xu": "http://people.mtime.com/1735127/"}
+制作人：{"张一白 Yibai Zhang": "http://people.mtime.com/892999/", "韩晓黎 Xiaoli Han": "http://people.mtime.com/1802406/", "钟丽芳 Li-fang Zhong": "http://people.mtime.com/1872344/", "韩三平 Sanping Han": "http://people.mtime.com/1206936/", "李明 Ming Li": "http://people.mtime.com/1826872/", "赵海城 Haicheng Zhao": "http://people.mtime.com/1224565/", "关雅荻 Yadi Guan": "http://people.mtime.com/1793552/", "陆红实 Hong-shi Lu": "http://people.mtime.com/1879013/", "荆建林 Jian Lin Qin": "http://people.mtime.com/2001746/", "黄宏 Hong Huang": "http://people.mtime.com/1175342/", "蒋德富 De Fu Jiang": "http://people.mtime.com/1859613/"}
+摄影：{"陈楚强 Pakie Chan": "http://people.mtime.com/1607329/"}
+剪辑：{"麦子善 Marco Mak": "http://people.mtime.com/1225122/", "林安儿 Angie Lam": "http://people.mtime.com/1263385/", "李家骅 Jia Hua Li": "http://people.mtime.com/2001747/", "陈志伟 Chi Wai Chan": "http://people.mtime.com/1279236/"}
+原创音乐：{"黄艾伦 Ai Lun Huang": "http://people.mtime.com/1994357/"}
+美术设计：{"李杨 Yang Li": "http://people.mtime.com/905661/"}
+服装设计：{"吴里璐 Dora Ng": "http://people.mtime.com/1263991/"}
+录音：{"王丹戎 Danrong Wang": "http://people.mtime.com/1604359/"}

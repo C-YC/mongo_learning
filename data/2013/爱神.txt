@@ -1,0 +1,14 @@
+_id：19963896
+year：2013
+movie_name：爱神
+演员：{"蒲巴甲": "http://people.mtime.com/1252696/", "应际蕾": "http://people.mtime.com/2006881/", "王子文": "http://people.mtime.com/1282981/", "松明": "http://people.mtime.com/1861094/", "钟汉良": "http://people.mtime.com/1088345/", "任重": "http://people.mtime.com/1260030/", "张茜": "http://people.mtime.com/1249234/", "何杜娟": "http://people.mtime.com/1816146/", "关凌": "http://people.mtime.com/1279635/", "洪天明": "http://people.mtime.com/1249368/", "张俪": "http://people.mtime.com/1249992/", "肖剑": "http://people.mtime.com/1260424/", "吴昕": "http://people.mtime.com/1642380/"}
+导演：{"花明": "http://people.mtime.com/1970456/"}
+编剧：{"花明 Ming Hua": "http://people.mtime.com/1970456/"}
+制作人：{"马大为 Hong-lei Ma": "http://people.mtime.com/1912689/", "冯凯帅 Kaishuai Feng": "http://people.mtime.com/1787844/", "吕东阳 Dong Yang Lv": "http://people.mtime.com/2006882/", "钱永强 Andy Wing-Keung Chin": "http://people.mtime.com/893421/"}
+摄影：{"伍启铭 Man-Ching Ng": "http://people.mtime.com/1249431/"}
+剪辑：{"蔡玉霖 Yu LIn Cai": "http://people.mtime.com/2006884/"}
+原创音乐：{"金培达 Peter Kam": "http://people.mtime.com/1258944/"}
+美术设计：{"黄金福 Jin Fu Huang": "http://people.mtime.com/2006886/"}
+服装设计：{"杨蔚波 Wei Bo Yang": "http://people.mtime.com/2006885/"}
+副导演/助理导演：{"刘海 Hai Liu": "http://people.mtime.com/1255055/"}
+录音：{"徐莹 Ying Xu": "http://people.mtime.com/2006883/"}

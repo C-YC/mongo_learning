@@ -1,0 +1,12 @@
+_id：19994974
+year：2013
+movie_name：周恩来的四个昼夜
+演员：{"何伟": "http://people.mtime.com/1175975/", "刘佩琦": "http://people.mtime.com/950112/", "王艺禅": "http://people.mtime.com/1993403/", "陈创": "http://people.mtime.com/1297240/", "孙维民": "http://people.mtime.com/1255365/", "郝岩": "http://people.mtime.com/1175584/", "牛犇": "http://people.mtime.com/965773/", "柏青": "http://people.mtime.com/1249206/"}
+导演：{"陈力": "http://people.mtime.com/1175929/", "Li Chen": "http://people.mtime.com/1175929/"}
+编剧：{"田运章 Yun Zhang Tian": "http://people.mtime.com/2055024/", "江月 Yue Jiang": "http://people.mtime.com/2055025/"}
+制作人：{"白景军 Jingjun Bai": "http://people.mtime.com/1637345/", "尚书中 Shu Zhong Shang": "http://people.mtime.com/2055027/"}
+摄影：{"黄山 Shan Huang": "http://people.mtime.com/1397902/"}
+剪辑：{"杨乾勋 Qiao Xun Yang": "http://people.mtime.com/2055026/"}
+原创音乐：{"章绍同 Shaotong Zhang": "http://people.mtime.com/1643253/"}
+美术设计：{"李伟 Wei Li": "http://people.mtime.com/1686151/"}
+录音：{"王印刚 Yingang Wang": "http://people.mtime.com/1686161/"}

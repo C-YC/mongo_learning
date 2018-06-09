@@ -1,0 +1,17 @@
+_id：6799191
+year：2012
+movie_name：搜索
+演员：{"赵又廷": "http://people.mtime.com/1619401/", "姚晨": "http://people.mtime.com/1252497/", "王珞丹": "http://people.mtime.com/1257680/", "霍青": "http://people.mtime.com/1265561/", "费振翔": "http://people.mtime.com/1027331/", "张文伯": "http://people.mtime.com/2006890/", "陈燃": "http://people.mtime.com/1691693/", "余皑磊": "http://people.mtime.com/1281879/", "常索妮": "http://people.mtime.com/1688424/", "王学圻": "http://people.mtime.com/941428/", "田娃": "http://people.mtime.com/1855845/", "张大礼": "http://people.mtime.com/1256216/", "源唯杰": "http://people.mtime.com/2230722/", "马维福": "http://people.mtime.com/2230721/", "谭松韵": "http://people.mtime.com/1562238/", "张译": "http://people.mtime.com/1311848/", "高圆圆": "http://people.mtime.com/952027/", "陈红": "http://people.mtime.com/950113/", "常宝华": "http://people.mtime.com/1882046/", "彭秀平": "http://people.mtime.com/2230723/", "谭飞": "http://people.mtime.com/1569836/", "姜永波": "http://people.mtime.com/1452103/", "国文学": "http://people.mtime.com/1659861/", "赵宁宇": "http://people.mtime.com/1301436/", "许承先": "http://people.mtime.com/1254534/", "杨青": "http://people.mtime.com/1396535/"}
+导演：{"Kaige Chen": "http://people.mtime.com/892816/", "陈凯歌": "http://people.mtime.com/892816/"}
+编剧：{"陈凯歌 Kaige Chen": "http://people.mtime.com/892816/", "唐大年 Danian Tang": "http://people.mtime.com/893206/"}
+制作人：{"王子文 Ziwen Wang": "http://people.mtime.com/2230737/", "曹华益 Huayi Cao": "http://people.mtime.com/1877759/", "宋伟 Wei Song": "http://people.mtime.com/1948338/", "陈红 Hong Chen": "http://people.mtime.com/950113/"}
+摄影：{"杨述 Shu Yang": "http://people.mtime.com/1274594/"}
+剪辑：{"李点石 Dianshi Li": "http://people.mtime.com/1948339/"}
+原创音乐：{"孟可 Ke Meng": "http://people.mtime.com/1845864/", "马上又 Shangyou Ma": "http://people.mtime.com/1594209/"}
+艺术指导：{"屠楠 Nan Tu": "http://people.mtime.com/1621932/", "Yiguang Gao": "http://people.mtime.com/2232444/"}
+美术设计：{"屠楠 Nan Tu": "http://people.mtime.com/1621932/", "高亦光 Yiguang Gao": "http://people.mtime.com/1791769/"}
+副导演/助理导演：{"Feihong Chen": "http://people.mtime.com/2232449/"}
+动作指导：{"谷轩昭 Ku Huen Chiu": "http://people.mtime.com/1612776/"}
+录音：{"顾长宁 Changning Gu": "http://people.mtime.com/1447927/"}
+声音部门：{"Wen Li": "http://people.mtime.com/2232450/", "顾长宁 Changning Gu": "http://people.mtime.com/1447927/"}
+化妆造型：{"Ying Liu": "http://people.mtime.com/2232448/"}

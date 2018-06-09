@@ -1,0 +1,12 @@
+_id：10539139
+year：2012
+movie_name：HOLD住爱
+演员：{"周秀娜": "http://people.mtime.com/1693776/", "吴岱融": "http://people.mtime.com/924895/", "钟舒漫": "http://people.mtime.com/1485955/", "冯丹滢": "http://people.mtime.com/1800052/", "杨幂": "http://people.mtime.com/1249009/", "王景春": "http://people.mtime.com/1321586/", "刘恺威": "http://people.mtime.com/939283/", "王骁": "http://people.mtime.com/1859494/", "张海燕": "http://people.mtime.com/1018647/"}
+导演：{"张琦": "http://people.mtime.com/1299407/"}
+编剧：{"黄苇 Wei Huang": "http://people.mtime.com/1852124/", "赵奔 Ben Zhao": "http://people.mtime.com/1489223/", "张琦 Qi Zhang": "http://people.mtime.com/1299407/"}
+制作人：{"宋歌 Ge Song": "http://people.mtime.com/1886695/", "李根雄 Gen-xiong Li": "http://people.mtime.com/1947393/", "李锦文 Peggy Lee": "http://people.mtime.com/1208722/", "张群 Qun Zhang": "http://people.mtime.com/1900562/", "文卓求 Zhuoqiu Wen": "http://people.mtime.com/2194739/", "许斌彪 Binbiao Xu": "http://people.mtime.com/2232634/", "刘荣 Rong Liu": "http://people.mtime.com/1526185/"}
+摄影：{"张学文 Xuewen Zhang": "http://people.mtime.com/1457103/"}
+剪辑：{"张佳 Jia Zhang": "http://people.mtime.com/1739899/"}
+艺术指导：{"吴镇 Zhen Wu": "http://people.mtime.com/1646652/"}
+美术设计：{"吴镇 Zhen Wu": "http://people.mtime.com/1646652/"}
+录音：{"李安磊 An-lei Li": "http://people.mtime.com/1852378/"}

@@ -1,0 +1,14 @@
+_id：10508901
+year：2012
+movie_name：匹夫
+演员：{"张粤": "http://people.mtime.com/1899935/", "梁静": "http://people.mtime.com/1176295/", "孙磊": "http://people.mtime.com/1899934/", "李子雄": "http://people.mtime.com/954981/", "张译": "http://people.mtime.com/1311848/", "倪景阳": "http://people.mtime.com/1248689/", "张歆艺": "http://people.mtime.com/1304898/", "江珊": "http://people.mtime.com/1143704/", "黄晓明": "http://people.mtime.com/1249959/", "王烈": "http://people.mtime.com/1300952/", "马志明": "http://people.mtime.com/1899283/", "高群书": "http://people.mtime.com/1167078/", "包小柏": "http://people.mtime.com/1294734/"}
+导演：{"杨树鹏": "http://people.mtime.com/1250876/", "Shupeng Yang": "http://people.mtime.com/1250876/"}
+编剧：{"张小北 Xiaobei Zhang": "http://people.mtime.com/1800289/", "杨树鹏 Shupeng Yang": "http://people.mtime.com/1250876/", "老晃": "http://people.mtime.com/1898445/"}
+制作人：{"王长田 Wang Chang Tian": "http://people.mtime.com/1485748/", "杜若飞 Ruo-fei Du": "http://people.mtime.com/1911022/", "王晓梅 Xiaomei Wang": "http://people.mtime.com/1479236/", "陈玲珍 Ling-zhen Chen": "http://people.mtime.com/1911023/", "邝文伟 Abe Kwong": "http://people.mtime.com/907166/", "徐小明 Hsiao-ming Hsu": "http://people.mtime.com/904699/", "黄晓明 Xiaoming Huang": "http://people.mtime.com/1249959/", "杨树鹏 Shupeng Yang": "http://people.mtime.com/1250876/"}
+摄影：{"曹郁 Yu Cao": "http://people.mtime.com/1451774/", "Eric Myerson": "http://people.mtime.com/1398001/"}
+剪辑：{"方镭 Fang Lei": "http://people.mtime.com/1659573/", "杨树鹏 Shupeng Yang": "http://people.mtime.com/1250876/"}
+原创音乐：{"彭铠立 Kai-li Peng": "http://people.mtime.com/1911025/"}
+美术设计：{"贤瑞清 Ruiqing Xian": "http://people.mtime.com/1284556/", "黄家能 Jianeng Huang": "http://people.mtime.com/1791768/"}
+服装设计：{"汪韬 Tao Wang": "http://people.mtime.com/1907431/", "杨丹 Dan Yang": "http://people.mtime.com/1911024/"}
+视觉特效：{"杨福鼎 Fuding Yang": "http://people.mtime.com/1762600/"}
+录音：{"赵楠 Nan Zhao": "http://people.mtime.com/1837284/", "杨江 Jiang Yang": "http://people.mtime.com/1864748/"}

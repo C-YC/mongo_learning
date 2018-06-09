@@ -1,0 +1,12 @@
+_id：10763157
+year：2013
+movie_name：逃出生天
+演员：{"马浴柯": "http://people.mtime.com/1716960/", "马嘿阿依": "http://people.mtime.com/1716966/", "金巧巧": "http://people.mtime.com/1246588/", "张驰": "http://people.mtime.com/1855428/", "李心洁": "http://people.mtime.com/904630/", "田牧宸": "http://people.mtime.com/1462875/", "陈思诚": "http://people.mtime.com/1249267/", "古天乐": "http://people.mtime.com/923219/", "小肥": "http://people.mtime.com/1530865/", "李馨巧": "http://people.mtime.com/1877935/", "马德钟": "http://people.mtime.com/1170464/", "张兆辉": "http://people.mtime.com/929031/", "臧金生": "http://people.mtime.com/1255281/", "刘青云": "http://people.mtime.com/923218/", "徐佳琦": "http://people.mtime.com/1819601/", "唐诗咏": "http://people.mtime.com/1184098/", "许绍雄": "http://people.mtime.com/925482/"}
+导演：{"Danny Pang": "http://people.mtime.com/892931/", "Oxide Pang Chun": "http://people.mtime.com/892930/", "彭发": "http://people.mtime.com/892931/", "彭顺": "http://people.mtime.com/892930/"}
+编剧：{"司徒锦源 Kam-Yuen Szeto": "http://people.mtime.com/893194/", "邓力奇 Lik-Kei Tang": "http://people.mtime.com/1193080/", "彭发 Danny Pang": "http://people.mtime.com/892931/", "彭顺 Oxide Pang Chun": "http://people.mtime.com/892930/", "吴孟璋 Mengzhang Wu": "http://people.mtime.com/1448707/"}
+制作人：{"林小明 Daniel Lam": "http://people.mtime.com/1211649/"}
+摄影：{"潘耀明 Anthony Pun": "http://people.mtime.com/1543429/"}
+原创音乐：{"金培达 Peter Kam": "http://people.mtime.com/1258944/"}
+美术设计：{"李健威 Jian-wei Li": "http://people.mtime.com/2067310/"}
+视觉特效：{"黄宏达 Victor Wong": "http://people.mtime.com/1263993/"}
+动作指导：{"林迪安 Dion Lam": "http://people.mtime.com/954416/"}

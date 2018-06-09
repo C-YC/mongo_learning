@@ -1,0 +1,10 @@
+_id：20266753
+year：2013
+movie_name：警察故事2013
+演员：{"Andreas Nguyen": "http://people.mtime.com/2076966/", "刘烨": "http://people.mtime.com/917288/", "周晓鸥": "http://people.mtime.com/1420892/", "郑晓宁": "http://people.mtime.com/1258533/", "那威": "http://people.mtime.com/1254857/", "James Loja": "http://people.mtime.com/2065573/", "景甜": "http://people.mtime.com/1490272/", "丁晟": "http://people.mtime.com/1258441/", "何钧": "http://people.mtime.com/1826560/", "蔡鹭": "http://people.mtime.com/2163638/", "麦克斯·黄": "http://people.mtime.com/2076965/", "韩飞行": "http://people.mtime.com/1883565/", "于荣光": "http://people.mtime.com/928505/", "成龙": "http://people.mtime.com/892908/", "刘仪伟": "http://people.mtime.com/1254856/", "史力嘉": "http://people.mtime.com/1534615/", "柳海龙": "http://people.mtime.com/1826562/", "亚历山大·贝利": "http://people.mtime.com/2065572/", "殷桃": "http://people.mtime.com/1249208/", "吴樾": "http://people.mtime.com/1101839/", "刘佩琦": "http://people.mtime.com/950112/", "罗礼贤": "http://people.mtime.com/893452/", "马天宇": "http://people.mtime.com/1468383/", "娜扎": "http://people.mtime.com/1878921/"}
+导演：{"丁晟": "http://people.mtime.com/1258441/"}
+编剧：{"丁晟 Sheng Ding": "http://people.mtime.com/1258441/"}
+制作人：{"路征 Zheng Lu": "http://people.mtime.com/1770479/", "王鸿 Hong Wang": "http://people.mtime.com/1763727/", "叶宁 Jerry Ye": "http://people.mtime.com/2062707/", "韩三平 Sanping Han": "http://people.mtime.com/1206936/", "阎晓明 Xiaoming Yan": "http://people.mtime.com/1508277/", "二勇 Yong Er": "http://people.mtime.com/1282983/"}
+摄影：{"丁豫 Ding Yu": "http://people.mtime.com/1826561/"}
+美术设计：{"冯立刚 Ligang Feng": "http://people.mtime.com/1740842/"}
+动作指导：{"何钧 Jun He": "http://people.mtime.com/1826560/"}

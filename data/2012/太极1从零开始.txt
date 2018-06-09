@@ -1,0 +1,14 @@
+_id：5996800
+year：2012
+movie_name：太极1从零开始
+演员：{"杨颖": "http://people.mtime.com/1466940/", "熊欣欣": "http://people.mtime.com/1007935/", "彭于晏": "http://people.mtime.com/1257087/", "谢欣颖": "http://people.mtime.com/1248960/", "David Torok": "http://people.mtime.com/1963993/", "谢贤": "http://people.mtime.com/937321/", "王羽": "http://people.mtime.com/952066/", "熊乃瑾": "http://people.mtime.com/1279056/", "舒淇": "http://people.mtime.com/924551/", "刘伟强": "http://people.mtime.com/892815/", "冯绍峰": "http://people.mtime.com/1308082/", "Marc Goodman": "http://people.mtime.com/1966932/", "梁小龙": "http://people.mtime.com/931618/", "保罗·菲利普·克拉克": "http://people.mtime.com/1963992/", "吴彦祖": "http://people.mtime.com/924666/", "元彪": "http://people.mtime.com/927910/", "冯德伦": "http://people.mtime.com/893086/", "申思": "http://people.mtime.com/1994489/", "袁文康": "http://people.mtime.com/1263025/", "陈思诚": "http://people.mtime.com/1249267/", "梁家辉": "http://people.mtime.com/893545/", "徐慧慧": "http://people.mtime.com/1966931/", "刘碧丽": "http://people.mtime.com/1778440/", "冯克安": "http://people.mtime.com/1052749/", "冯淬帆": "http://people.mtime.com/893581/", "袁晓超": "http://people.mtime.com/1942271/", "彼得·斯特曼": "http://people.mtime.com/914844/"}
+导演：{"Stephen Fung": "http://people.mtime.com/893086/", "冯德伦": "http://people.mtime.com/893086/"}
+编剧：{"张家鲁 Chia-lu Chang": "http://people.mtime.com/1249211/", "程孝泽 Hsiao-tse Cheng": "http://people.mtime.com/1511985/"}
+制作人：{"张大军 Dajun Zhang": "http://people.mtime.com/1691846/", "陈国富 Kuo-fu Chen": "http://people.mtime.com/892811/", "冯德伦 Stephen Fung": "http://people.mtime.com/893086/", "王中军 Zhongjun Wang": "http://people.mtime.com/1208257/", "王中磊 Zhonglei Wang": "http://people.mtime.com/1210323/", "吴彦祖 Daniel Wu": "http://people.mtime.com/924666/"}
+摄影：{"黎耀辉 Yiu-Fai Lai": "http://people.mtime.com/1297701/", "敖志君 Peter Ngor": "http://people.mtime.com/910237/", "杜杰 Jie Du": "http://people.mtime.com/1531690/"}
+剪辑：{"肖洋 Yang Xiao": "http://people.mtime.com/1700603/", "许伟杰 Matthew Hui": "http://people.mtime.com/1591355/", "张为傈 Weili Zhang": "http://people.mtime.com/1796658/", "程孝泽 Hsiao-tse Cheng": "http://people.mtime.com/1511985/", "张家鲁 Chia-lu Chang": "http://people.mtime.com/1249211/"}
+美术设计：{"叶锦添 Tim Yip": "http://people.mtime.com/1256659/"}
+服装设计：{"赵紫盈 Zi-ying Zhao": "http://people.mtime.com/1954138/"}
+视觉特效：{"邹志盛 Zhisheng Zou": "http://people.mtime.com/1626326/"}
+动作指导：{"洪金宝 Sammo Hung": "http://people.mtime.com/892825/"}
+录音：{"李涛 Tao Li": "http://people.mtime.com/1838997/"}

@@ -1,0 +1,12 @@
+_id：20515018
+year：2013
+movie_name：白狐
+演员：{"井凌潇": "http://people.mtime.com/2054032/", "马樱侨": "http://people.mtime.com/1817381/", "郭明翔": "http://people.mtime.com/1749472/", "王祉萱": "http://people.mtime.com/2054035/", "巩新亮": "http://people.mtime.com/1558408/", "张智霖": "http://people.mtime.com/962883/", "关智斌": "http://people.mtime.com/923230/", "姚菲菲": "http://people.mtime.com/2054036/", "孙子珺": "http://people.mtime.com/2054034/", "惠英红": "http://people.mtime.com/924890/", "李欣宸": "http://people.mtime.com/2054033/", "高虎": "http://people.mtime.com/1177151/", "周亚平": "http://people.mtime.com/1932738/", "钟欣潼": "http://people.mtime.com/923221/", "殷果儿": "http://people.mtime.com/2053949/", "庄洁梦": "http://people.mtime.com/2047201/", "陈哈妮": "http://people.mtime.com/2054031/", "游本昌": "http://people.mtime.com/1255376/"}
+导演：{"牛朝阳": "http://people.mtime.com/1501901/"}
+编剧：{"蒲松龄 Songling Pu": "http://people.mtime.com/893297/", "牛朝阳 Chaoyang Niu": "http://people.mtime.com/1501901/"}
+制作人：{"厉宝平 Bao-ping Li": "http://people.mtime.com/1878632/", "徐永安 Yongan Xu": "http://people.mtime.com/1846796/", "刘志江 Liu Zhijiang": "http://people.mtime.com/1846799/", "牛朝阳 Chaoyang Niu": "http://people.mtime.com/1501901/", "焦希臣 Xi-chen Jiao": "http://people.mtime.com/1871951/", "尚亚丽 Ya-li Shang": "http://people.mtime.com/1911514/"}
+摄影：{"杨述 Shu Yang": "http://people.mtime.com/1274594/"}
+剪辑：{"周维嘉 Wei-jia Zhou": "http://people.mtime.com/2053948/"}
+美术设计：{"董承光 Cheng-guang Dong": "http://people.mtime.com/2053947/"}
+视觉特效：{"基斯·科尔利 Keith Collea": "http://people.mtime.com/1161254/"}
+动作指导：{"杨守信 Shou Xin Yang": "http://people.mtime.com/2054037/"}

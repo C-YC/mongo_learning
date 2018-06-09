@@ -1,0 +1,16 @@
+_id：5996799
+year：2013
+movie_name：忠烈杨家将
+演员：{"于波": "http://people.mtime.com/1313071/", "林峰": "http://people.mtime.com/968565/", "邵兵": "http://people.mtime.com/939291/", "梁家仁": "http://people.mtime.com/893450/", "郑伊健": "http://people.mtime.com/925480/", "付辛博": "http://people.mtime.com/1659187/", "吴尊": "http://people.mtime.com/1257203/", "徐帆": "http://people.mtime.com/939394/", "周渝民": "http://people.mtime.com/1250272/", "安以轩": "http://people.mtime.com/1176670/", "郑少秋": "http://people.mtime.com/1027872/", "李晨": "http://people.mtime.com/1249212/"}
+导演：{"于仁泰": "http://people.mtime.com/892992/"}
+编剧：{"黄子桓 Edmond Wong": "http://people.mtime.com/1578845/", "于仁泰 Ronny Yu": "http://people.mtime.com/892992/", "Kat Lo": "http://people.mtime.com/1904951/"}
+制作人：{"黄百鸣 Bak-Ming Wong": "http://people.mtime.com/893299/", "沈月明 Annette Shum": "http://people.mtime.com/1412794/", "于仁泰 Ronny Yu": "http://people.mtime.com/892992/", "黄立德 Ivan Wong": "http://people.mtime.com/1207105/"}
+摄影：{"陈志英 Chi-ying Chan": "http://people.mtime.com/1269016/"}
+剪辑：{"Drew Thompson": "http://people.mtime.com/1904954/"}
+原创音乐：{"川井宪次 Kenji Kawai": "http://people.mtime.com/1250533/"}
+艺术指导：{"麦国强 Kenneth Mak": "http://people.mtime.com/1426318/"}
+美术设计：{"姬鹏 Peng Ji": "http://people.mtime.com/1606973/"}
+服装设计：{"韩忠 Zhong Han": "http://people.mtime.com/1536451/"}
+视觉特效：{"金泰熏 Tea-hun Kim": "http://people.mtime.com/1933160/"}
+副导演/助理导演：{"Wai Kei Cheng": "http://people.mtime.com/2015599/"}
+动作指导：{"董玮 Wei Tung": "http://people.mtime.com/893426/"}

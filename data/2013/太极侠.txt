@@ -1,0 +1,16 @@
+_id：6041199
+year：2013
+movie_name：太极侠
+演员：{"叶青": "http://people.mtime.com/1830485/", "李灿森": "http://people.mtime.com/927912/", "唐文龙": "http://people.mtime.com/927403/", "于海": "http://people.mtime.com/1030191/", "基努·里维斯": "http://people.mtime.com/913928/", "陈国恒": "http://people.mtime.com/2030392/", "史蒂文·达兹": "http://people.mtime.com/2020979/", "Brahim Achabbakhe": "http://people.mtime.com/1595958/", "刘承俊": "http://people.mtime.com/1454552/", "伊科·乌艾斯": "http://people.mtime.com/1613850/", "陈虎": "http://people.mtime.com/1715598/", "侯友胜": "http://people.mtime.com/2030394/", "Helene Leclerc": "http://people.mtime.com/2030393/", "莫文蔚": "http://people.mtime.com/924644/", "杰瑞米·马里纳斯": "http://people.mtime.com/1770166/", "任达华": "http://people.mtime.com/916259/"}
+导演：{"基努·里维斯": "http://people.mtime.com/913928/", "Keanu Reeves": "http://people.mtime.com/913928/"}
+编剧：{"迈克尔·库尼 Michael G. Cooney": "http://people.mtime.com/1899021/"}
+制作人：{"Sharon Miller": "http://people.mtime.com/1211813/", "李炯楷 Johnny Lee": "http://people.mtime.com/1102210/", "利莫尔·塞万 Lemore Syvan": "http://people.mtime.com/1203948/", "张大星 Daxing Zhang": "http://people.mtime.com/972911/", "Christopher Bates": "http://people.mtime.com/1219985/"}
+摄影：{"艾略特·戴维斯 Elliot Davis": "http://people.mtime.com/1289554/"}
+剪辑：{"许宏宇 Derek Hui": "http://people.mtime.com/1681103/"}
+原创音乐：{"陈光荣 Kwong Wing Chan": "http://people.mtime.com/1088503/"}
+艺术指导：{"种田阳平 Yohei Taneda": "http://people.mtime.com/1262433/"}
+美术设计：{"Miyuki Kitagawa": "http://people.mtime.com/2051484/", "Yingzhang Fu": "http://people.mtime.com/2030395/"}
+服装设计：{"Joseph A. Porro": "http://people.mtime.com/1265186/"}
+副导演/助理导演：{"林佩佩 Lin Peipei": "http://people.mtime.com/1274300/", "Fei Wong": "http://people.mtime.com/1336861/"}
+动作指导：{"袁和平 Woo-ping Yuen": "http://people.mtime.com/893058/"}
+选角导演：{"欧阳宝屏 PoPing AuYeung": "http://people.mtime.com/1282265/"}

@@ -1,0 +1,15 @@
+_id：20388198
+year：2013
+movie_name：风暴
+演员：{"姚晨": "http://people.mtime.com/1252497/", "姜皓文": "http://people.mtime.com/968215/", "施祖南": "http://people.mtime.com/1188337/", "陈伟雄": "http://people.mtime.com/1463830/", "唐文龙": "http://people.mtime.com/927403/", "洪天照": "http://people.mtime.com/1557935/", "王敏德": "http://people.mtime.com/927404/", "叶山豪": "http://people.mtime.com/924255/", "梁烈唯": "http://people.mtime.com/1548744/", "卢海鹏": "http://people.mtime.com/925487/", "黄德斌": "http://people.mtime.com/1260195/", "胡军": "http://people.mtime.com/942020/", "杨尚斌": "http://people.mtime.com/1240573/", "林家栋": "http://people.mtime.com/924891/", "王君馨": "http://people.mtime.com/1459092/", "张国强": "http://people.mtime.com/1034597/", "李凯贤": "http://people.mtime.com/2216405/", "尹子维": "http://people.mtime.com/928506/", "周祉君": "http://people.mtime.com/2226168/", "何浩峰": "http://people.mtime.com/2227879/", "刘德华": "http://people.mtime.com/924681/", "徐伟栋": "http://people.mtime.com/2076271/", "张兆辉": "http://people.mtime.com/929031/", "冼色丽": "http://people.mtime.com/1395842/", "王祖蓝": "http://people.mtime.com/1426187/", "陈保元": "http://people.mtime.com/1329790/", "吕良伟": "http://people.mtime.com/996311/", "黄智贤": "http://people.mtime.com/1269657/", "陈沛妍": "http://people.mtime.com/2076127/", "黄志宏": "http://people.mtime.com/2227875/", "黄智雯": "http://people.mtime.com/1870443/", "林盛斌": "http://people.mtime.com/1990735/", "徐家杰": "http://people.mtime.com/2009807/", "周子扬": "http://people.mtime.com/1986878/"}
+导演：{"Alan Yuen": "http://people.mtime.com/892994/", "袁锦麟": "http://people.mtime.com/892994/"}
+编剧：{"袁锦麟 Alan Yuen": "http://people.mtime.com/892994/"}
+制作人：{"宋岱 Dai Song": "http://people.mtime.com/1427385/", "江志强 Bill Kong": "http://people.mtime.com/1165382/", "刘德华 Andy Lau": "http://people.mtime.com/924681/", "古永锵 Victor Koo": "http://people.mtime.com/1934688/"}
+摄影：{"陈志英 Chi Ying Chan": "http://people.mtime.com/1269016/"}
+剪辑：{"邝志良 Chi-Leung Kwong": "http://people.mtime.com/1263987/", "陈忠明 Ron Chan": "http://people.mtime.com/2082594/"}
+原创音乐：{"金培达 Peter Kam": "http://people.mtime.com/1258944/"}
+艺术指导：{"文念中 Lim-chung Man": "http://people.mtime.com/1275028/"}
+美术设计：{"王慧茵 Hui-yin Wang": "http://people.mtime.com/1881269/"}
+服装设计：{"王宝仪 Bao-yi Wang": "http://people.mtime.com/1898877/"}
+视觉特效：{"余国亮 Kwok-Leung Yu": "http://people.mtime.com/1978493/", "何均洋 Kwan-Yeung Ho": "http://people.mtime.com/2083453/", "林嘉乐 Garrett K Lam": "http://people.mtime.com/2002685/"}
+动作指导：{"钱嘉乐 Kar-lok Chin": "http://people.mtime.com/908079/"}

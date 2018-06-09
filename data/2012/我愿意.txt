@@ -1,0 +1,12 @@
+_id：6782006
+year：2012
+movie_name：我愿意
+演员：{"李冰冰": "http://people.mtime.com/922604/", "都金翰": "http://people.mtime.com/2227113/", "薛佳凝": "http://people.mtime.com/1259311/", "夏立薪": "http://people.mtime.com/1888044/", "李梦": "http://people.mtime.com/1994302/", "段奕宏": "http://people.mtime.com/1269810/", "盖·吉利": "http://people.mtime.com/2227114/", "孙红雷": "http://people.mtime.com/956774/", "张俪": "http://people.mtime.com/1249992/", "吴优": "http://people.mtime.com/2157245/"}
+导演：{"孙周": "http://people.mtime.com/892950/"}
+编剧：{"孙周 Zhou Sun": "http://people.mtime.com/892950/", "陈彤 Tong Chen": "http://people.mtime.com/1789688/"}
+制作人：{"韩晓黎 Xiaoli Han": "http://people.mtime.com/1802406/", "张强 Qiang Zhang": "http://people.mtime.com/1826099/", "彭鸣宇 Mingyu Peng": "http://people.mtime.com/1859614/", "韩三平 Sanping Han": "http://people.mtime.com/1206936/", "赵海城 Haicheng Zhao": "http://people.mtime.com/1224565/", "许建海 Jian-Hai-Xu": "http://people.mtime.com/1858605/", "徐小平 Xiaoping Xu": "http://people.mtime.com/1518727/", "钱重远 Zhongyuan Qian": "http://people.mtime.com/2223116/"}
+摄影：{"鲍德熹 Peter Pau": "http://people.mtime.com/892802/"}
+剪辑：{"战海红 Hai-hong Zhan": "http://people.mtime.com/1895542/", "张皓 Hao Zhang": "http://people.mtime.com/1250934/"}
+原创音乐：{"Cyril Morin": "http://people.mtime.com/1263360/"}
+美术设计：{"申小涌 Xiaoyong Shen": "http://people.mtime.com/1691619/"}
+服装设计：{"吴里璐 Dora Ng": "http://people.mtime.com/1263991/"}

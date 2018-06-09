@@ -1,0 +1,13 @@
+_id：10788846
+year：2012
+movie_name：我老公不靠谱
+演员：{"郑欣宜": "http://people.mtime.com/1490706/", "蔡卓妍": "http://people.mtime.com/923222/", "戴梦梦": "http://people.mtime.com/1200839/", "张歆艺": "http://people.mtime.com/1304898/", "倪晨曦": "http://people.mtime.com/1874531/", "郑伊健": "http://people.mtime.com/925480/", "卢海鹏": "http://people.mtime.com/925487/", "徐正曦": "http://people.mtime.com/1431820/", "贾晓晨": "http://people.mtime.com/1255733/", "王祖蓝": "http://people.mtime.com/1426187/", "曾国祥": "http://people.mtime.com/991253/", "林珊珊": "http://people.mtime.com/1414005/", "关楚耀": "http://people.mtime.com/1918813/", "赵硕之": "http://people.mtime.com/1551103/", "邵音音": "http://people.mtime.com/1161514/", "张继聪": "http://people.mtime.com/1547420/", "张学润": "http://people.mtime.com/957848/"}
+导演：{"阮世生": "http://people.mtime.com/893226/", "James Yuen": "http://people.mtime.com/893226/"}
+编剧：{"阮世生 James Yuen": "http://people.mtime.com/893226/", "罗耀辉 Yiu-Fai Law": "http://people.mtime.com/902720/", "吴孟璋 Mengzhang Wu": "http://people.mtime.com/1448707/"}
+制作人：{"伍健雄 Kin Hung Ng": "http://people.mtime.com/1096351/"}
+摄影：{"姜国民 Kwok-Man Keung": "http://people.mtime.com/1250536/"}
+剪辑：{"梁国荣 Guorong Liang": "http://people.mtime.com/1826894/"}
+原创音乐：{"罗坚 Lincoln Lo": "http://people.mtime.com/1316353/"}
+美术设计：{"冯继辉 Ringo Fung": "http://people.mtime.com/1269346/"}
+服装设计：{"蔡彦文 Yin-Man Choi": "http://people.mtime.com/1727874/"}
+副导演/助理导演：{"杨国威 Kwok Wai Yeung": "http://people.mtime.com/1476060/"}

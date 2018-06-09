@@ -1,0 +1,11 @@
+_id：6984070
+year：2012
+movie_name：情谜
+演员：{"奚美娟": "http://people.mtime.com/1175640/", "张乃天": "http://people.mtime.com/1899224/", "陈数": "http://people.mtime.com/1254472/", "牛萌萌": "http://people.mtime.com/1248978/", "阎晓明": "http://people.mtime.com/1508277/", "宋歌": "http://people.mtime.com/1886695/", "冷中易": "http://people.mtime.com/1748312/", "余文乐": "http://people.mtime.com/924884/", "舒淇": "http://people.mtime.com/924551/"}
+导演：{"黎妙雪": "http://people.mtime.com/892882/"}
+编剧：{"黎妙雪 Miu-suet Lai": "http://people.mtime.com/892882/", "厉河 He Li": "http://people.mtime.com/1860003/"}
+制作人：{"陆红实 Hongshi Lu": "http://people.mtime.com/1879013/", "董海泓 Hai-hong Dong": "http://people.mtime.com/1857061/", "陈嘉上 Gordon Chan": "http://people.mtime.com/892814/", "唐才智 Cai-zhi TANG": "http://people.mtime.com/1899225/", "周焯华 Cheok-Wa Chau": "http://people.mtime.com/1707568/", "董朝晖 Zhao-hui Dong": "http://people.mtime.com/1855850/"}
+摄影：{"蔡崇辉 Sung Fai Choi": "http://people.mtime.com/1427824/"}
+剪辑：{"邝志良 Chi-Leung Kwong": "http://people.mtime.com/1263987/"}
+原创音乐：{"黄英华 Raymond Wong": "http://people.mtime.com/1313250/"}
+艺术指导：{"张叔平 William Chang": "http://people.mtime.com/908138/"}

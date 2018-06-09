@@ -1,0 +1,14 @@
+_id：6796158
+year：2012
+movie_name：铜雀台
+演员：{"汤镇业": "http://people.mtime.com/1032050/", "保剑锋": "http://people.mtime.com/1159859/", "刘亦菲": "http://people.mtime.com/1176638/", "张籽沐": "http://people.mtime.com/2047362/", "苏有朋": "http://people.mtime.com/996615/", "牛犇": "http://people.mtime.com/965773/", "邱心志": "http://people.mtime.com/1177716/", "姚橹": "http://people.mtime.com/1255478/", "伊能静": "http://people.mtime.com/985101/", "张耀扬": "http://people.mtime.com/942017/", "田瑞辉": "http://people.mtime.com/2225906/", "聂远": "http://people.mtime.com/1175792/", "李胜达": "http://people.mtime.com/2226070/", "汤镇宗": "http://people.mtime.com/1177152/", "金延虎": "http://people.mtime.com/2226067/", "彭敬慈": "http://people.mtime.com/967537/", "刘杰毅": "http://people.mtime.com/2225898/", "玉木宏": "http://people.mtime.com/960073/", "罗家英": "http://people.mtime.com/927399/", "倪大红": "http://people.mtime.com/1016974/", "亓航": "http://people.mtime.com/1420454/", "郭金非": "http://people.mtime.com/2225900/", "吴汝俊": "http://people.mtime.com/1801290/", "周润发": "http://people.mtime.com/893535/", "池程": "http://people.mtime.com/2225787/", "曲泉丞": "http://people.mtime.com/2225791/"}
+导演：{"赵林山": "http://people.mtime.com/1860247/"}
+编剧：{"汪海林 Hailin Wang": "http://people.mtime.com/1258502/"}
+制作人：{"王长田 Changtian Wang": "http://people.mtime.com/1485748/", "娄毅 Lou Yi": "http://people.mtime.com/2020627/", "赵小丁 Xiaoding Zhao": "http://people.mtime.com/1258359/"}
+摄影：{"赵小丁 Xiaoding Zhao": "http://people.mtime.com/1258359/"}
+剪辑：{"程珑 Long Cheng": "http://people.mtime.com/1296497/"}
+美术设计：{"种田阳平 Yohei Taneda": "http://people.mtime.com/1262433/"}
+服装设计：{"奚仲文 Chung-Man Hai": "http://people.mtime.com/892964/"}
+视觉特效：{"彭柯 Ke Peng": "http://people.mtime.com/1865748/"}
+动作指导：{"李东皓 Donghao Li": "http://people.mtime.com/1908565/"}
+录音：{"陶经 Jing Tao": "http://people.mtime.com/1275051/"}

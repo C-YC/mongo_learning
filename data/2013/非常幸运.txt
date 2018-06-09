@@ -1,0 +1,15 @@
+_id：6984064
+year：2013
+movie_name：非常幸运
+演员：{"刘桦": "http://people.mtime.com/1249886/", "章子怡": "http://people.mtime.com/912939/", "辛格·哈提汗·比托": "http://people.mtime.com/1483737/", "姚晨": "http://people.mtime.com/1252497/", "林心如": "http://people.mtime.com/968122/", "关颖": "http://people.mtime.com/942079/", "王力宏": "http://people.mtime.com/942612/", "蔡少芬": "http://people.mtime.com/1003955/", "郑恺": "http://people.mtime.com/1459431/", "戎祥": "http://people.mtime.com/951252/", "高捷": "http://people.mtime.com/900610/", "张晋": "http://people.mtime.com/1258202/", "邢思杰": "http://people.mtime.com/1735456/"}
+导演：{"Dennie Gordon": "http://people.mtime.com/901286/", "邓尼·戈登": "http://people.mtime.com/901286/"}
+编剧：{"周隼 Chris Chow": "http://people.mtime.com/1404352/", "邓尼·戈登 Dennie Gordon": "http://people.mtime.com/901286/", "艾米·斯诺 Amy Snow": "http://people.mtime.com/2066054/", "孟瑶 Yao Meng": "http://people.mtime.com/1494967/", "桂侑铭 Ming Beaver Kwei": "http://people.mtime.com/1263722/", "黄旭海 Xuhai Huang": "http://people.mtime.com/2066055/"}
+制作人：{"于冬 Dong Yu": "http://people.mtime.com/1219891/", "章子怡 Ziyi Zhang": "http://people.mtime.com/912939/", "张浩 Hao Zhang": "http://people.mtime.com/1976516/", "黄宏杰 Hongjie Huang": "http://people.mtime.com/2066110/", "纪灵灵 Ling Lucas": "http://people.mtime.com/1565054/", "Ryan Wong": "http://people.mtime.com/2066057/", "郑伟明 William Cheng": "http://people.mtime.com/1275030/", "林浩然 Jonathan Hua Lang Lim": "http://people.mtime.com/1435932/", "陈永雄 Yongxiong Chen": "http://people.mtime.com/1883549/", "米子 Michelle MI": "http://people.mtime.com/1257700/", "桂侑铭 Ming Beaver Kwei": "http://people.mtime.com/1263722/", "陆国强 Guoqiang Lu": "http://people.mtime.com/1638949/", "王利峰 Lifeng Wang": "http://people.mtime.com/2066111/", "陈思勤 Second Chan": "http://people.mtime.com/1268353/", "胡升忠 Shengzhong Hu": "http://people.mtime.com/1453464/"}
+摄影：{"邵漫冬 Armando Salas": "http://people.mtime.com/1325416/"}
+剪辑：{"Zack Arnold": "http://people.mtime.com/1411522/"}
+原创音乐：{"王宗贤 Nathan Wang": "http://people.mtime.com/1244387/"}
+艺术指导：{"陈思勤 Second Chan": "http://people.mtime.com/1268353/"}
+服装设计：{"唐毅　 Yi Tang": "http://people.mtime.com/2066058/"}
+视觉特效：{"崔伟全 Weiquan Cui": "http://people.mtime.com/2066109/"}
+动作指导：{"伍刚 Gang Wu": "http://people.mtime.com/1865296/"}
+录音：{"黄铮": "http://people.mtime.com/2066108/"}

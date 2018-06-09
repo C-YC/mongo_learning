@@ -1,0 +1,15 @@
+_id：2994851
+year：2012
+movie_name：血滴子
+演员：{"文章": "http://people.mtime.com/1266212/", "李宇春": "http://people.mtime.com/1285108/", "井柏然": "http://people.mtime.com/1575942/", "王羽": "http://people.mtime.com/952066/", "金士杰": "http://people.mtime.com/987306/", "杨宗宪": "http://people.mtime.com/1022472/", "邓丽欣": "http://people.mtime.com/938150/", "郭明尔": "http://people.mtime.com/1894542/", "蒲巴甲": "http://people.mtime.com/1252696/", "李达超": "http://people.mtime.com/1483771/", "周一围": "http://people.mtime.com/1249511/", "刘伟强": "http://people.mtime.com/892815/", "黄晓明": "http://people.mtime.com/1249959/", "关晓彤": "http://people.mtime.com/917379/", "翁世杰": "http://people.mtime.com/914789/", "张志忠": "http://people.mtime.com/1300176/", "高天": "http://people.mtime.com/1547812/", "余文乐": "http://people.mtime.com/924884/", "王巍": "http://people.mtime.com/2168615/", "阮经天": "http://people.mtime.com/1255044/", "郭鹏": "http://people.mtime.com/1663259/", "李梦": "http://people.mtime.com/1777423/", "焦爱民": "http://people.mtime.com/1539157/"}
+导演：{"刘伟强": "http://people.mtime.com/892815/"}
+编剧：{"许月珍 Jo Jo Hui": "http://people.mtime.com/893149/", "林爱华 Oi Wah Lam": "http://people.mtime.com/892899/", "陈嘉仪 Jia-yi Chen": "http://people.mtime.com/1875578/"}
+制作人：{"许月珍 Jo Jo Hui": "http://people.mtime.com/893149/", "陈可辛 Peter Chan": "http://people.mtime.com/892817/", "何丽嫦 Lorraine Ho": "http://people.mtime.com/1418988/", "覃宏 Hong Qin": "http://people.mtime.com/1804579/", "刘伟强 Andrew Lau": "http://people.mtime.com/892815/"}
+摄影：{"冯远文 Yuen Man Fung": "http://people.mtime.com/1198297/"}
+剪辑：{"钟炜钊 Weizhao Zhong": "http://people.mtime.com/1814649/"}
+原创音乐：{"陈光荣 Kwongwing Chan": "http://people.mtime.com/1088503/"}
+艺术指导：{"麦国强 Kenneth Mak": "http://people.mtime.com/1426318/"}
+美术设计：{"刘世运 Shiyun Liu": "http://people.mtime.com/1736688/"}
+服装设计：{"吴里璐 Dora Ng": "http://people.mtime.com/1263991/"}
+视觉特效：{"黄宏达 Victor Wong": "http://people.mtime.com/1263993/"}
+动作指导：{"李达超 Tatchiu Lee": "http://people.mtime.com/1483771/"}

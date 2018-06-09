@@ -1,0 +1,12 @@
+_id：6759229
+year：2012
+movie_name：新天生一对
+演员：{"陈楚生": "http://people.mtime.com/1457064/", "小小彬": "http://people.mtime.com/1731945/", "陈嘉桦": "http://people.mtime.com/1256268/", "陶泽如": "http://people.mtime.com/953420/", "徐若瑄": "http://people.mtime.com/985097/", "猪哥亮": "http://people.mtime.com/1795193/", "杨幂": "http://people.mtime.com/1249009/", "周渝民": "http://people.mtime.com/1250272/", "丁莎莎": "http://people.mtime.com/1858211/", "唐从圣": "http://people.mtime.com/1256993/"}
+导演：{"朱延平": "http://people.mtime.com/893417/"}
+编剧：{"古书榕 Shu-rong Gu": "http://people.mtime.com/1892498/", "刘书桦 Shu-hua Liu": "http://people.mtime.com/1892499/", "简士耕 Shigeng Jian": "http://people.mtime.com/1314917/"}
+制作人：{"邱璃宽 Kwan": "http://people.mtime.com/1710344/", "覃宏 Hong Qin": "http://people.mtime.com/1804579/", "王伟忠 Wei-zhong Wang": "http://people.mtime.com/1880888/", "杨登魁 Teng-Kuei Yang": "http://people.mtime.com/1207761/", "李晓萍 Xiaoping Li": "http://people.mtime.com/1816581/", "张苏州 Su-zhou Zhang": "http://people.mtime.com/1894126/"}
+摄影：{"潘耀明 Anthony Pun": "http://people.mtime.com/1543429/"}
+剪辑：{"陈博文 Po-wen Chen": "http://people.mtime.com/1310581/"}
+原创音乐：{"赵增熹 Tsang-Hei Chiu": "http://people.mtime.com/1397601/", "张人杰 Andy Cheung": "http://people.mtime.com/1172898/"}
+美术设计：{"刘敏雄 Man Hung Lau": "http://people.mtime.com/1469475/"}
+录音：{"杜笃之 Du-Che Tu": "http://people.mtime.com/1249195/"}

@@ -1,0 +1,14 @@
+_id：5977836
+year：2012
+movie_name：逆战
+演员：{"Anthony Sandstrom": "http://people.mtime.com/1904950/", "金燕玲": "http://people.mtime.com/985618/", "吴嘉龙": "http://people.mtime.com/928508/", "谢霆锋": "http://people.mtime.com/903079/", "姜皓文": "http://people.mtime.com/968215/", "李馨巧": "http://people.mtime.com/1877935/", "周杰伦": "http://people.mtime.com/943799/", "廖启智": "http://people.mtime.com/924271/", "Issam M. Husseini": "http://people.mtime.com/1904949/", "林鹏": "http://people.mtime.com/1637488/", "白冰": "http://people.mtime.com/1255417/", "安志杰": "http://people.mtime.com/924252/", "Brad Dirk Martin": "http://people.mtime.com/1848635/", "Ling Peng": "http://people.mtime.com/1887196/", "吴浩康": "http://people.mtime.com/928510/", "Tin Chiu Hung": "http://people.mtime.com/1311444/", "洪天照": "http://people.mtime.com/1557935/"}
+导演：{"Dante Lam": "http://people.mtime.com/892901/", "林超贤": "http://people.mtime.com/892901/"}
+编剧：{"吴炜伦 Wai Lun Ng": "http://people.mtime.com/893588/", "梁凤英 Candy Leung": "http://people.mtime.com/1206955/", "林超贤 Dante Lam": "http://people.mtime.com/892901/"}
+制作人：{"苏志鸿 Solon So": "http://people.mtime.com/1209231/", "王中军 Zhongjun Wang": "http://people.mtime.com/1208257/", "梁凤英 Candy Leung": "http://people.mtime.com/1206955/", "杨受成 Albert Yeung": "http://people.mtime.com/1205341/", "利雅博 Albert Lee": "http://people.mtime.com/1211991/", "王中磊 Zhonglei Wang": "http://people.mtime.com/1210323/"}
+摄影：{"谢忠道 Chung-to Tse": "http://people.mtime.com/1324813/"}
+剪辑：{"钟炜钊 Wai Chiu Chung": "http://people.mtime.com/1483772/"}
+原创音乐：{"金培达 Peter Kam": "http://people.mtime.com/1258944/"}
+艺术指导：{"庄国荣 Kwok-wing Chong": "http://people.mtime.com/1461786/", "莫少宗 Alex Mok": "http://people.mtime.com/1272685/", "文念中 Lim-chung Man": "http://people.mtime.com/1275028/"}
+美术设计：{"庄国荣 Kwok-wing Chong": "http://people.mtime.com/1461786/", "莫少宗 Alex Mok": "http://people.mtime.com/1272685/"}
+服装设计：{"冯君孟 William Fung": "http://people.mtime.com/1275497/"}
+动作指导：{"钱嘉乐 Kar-lok Chin": "http://people.mtime.com/908079/", "林超贤 Dante Lam": "http://people.mtime.com/892901/"}

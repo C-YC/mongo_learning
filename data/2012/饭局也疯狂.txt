@@ -1,0 +1,13 @@
+_id：6788265
+year：2012
+movie_name：饭局也疯狂
+演员：{"王磊": "http://people.mtime.com/1626339/", "刘姝含": "http://people.mtime.com/1410478/", "刘桦": "http://people.mtime.com/1249886/", "刘亚津": "http://people.mtime.com/1249244/", "陈月末": "http://people.mtime.com/1828274/", "申军谊": "http://people.mtime.com/1175554/", "佟悦": "http://people.mtime.com/1476108/", "梁冠华": "http://people.mtime.com/1254678/", "冯粒": "http://people.mtime.com/1259653/", "黄渤": "http://people.mtime.com/1249885/", "韩童生": "http://people.mtime.com/1248656/", "刘仪伟": "http://people.mtime.com/1254856/", "莫小棋": "http://people.mtime.com/1261429/", "来喜": "http://people.mtime.com/1586789/", "巴多": "http://people.mtime.com/1594216/", "张一鸾": "http://people.mtime.com/1857993/", "范伟": "http://people.mtime.com/1175791/", "代乐乐": "http://people.mtime.com/1305777/", "肥龙": "http://people.mtime.com/1694246/"}
+导演：{"尚敬": "http://people.mtime.com/1260367/"}
+编剧：{"俞白眉 Baimei Yu": "http://people.mtime.com/1701643/"}
+制作人：{"韩晓黎 Xiaoli Han": "http://people.mtime.com/1802406/", "刘晓霖 Xiaolin Liu": "http://people.mtime.com/1257169/", "韩三平 Sanping Han": "http://people.mtime.com/1206936/", "赵海城 Haicheng Zhao": "http://people.mtime.com/1224565/", "万荣 Rong Wan": "http://people.mtime.com/1894128/", "董平 Ping Dong": "http://people.mtime.com/1248109/"}
+摄影：{"王昱 Yu Wang": "http://people.mtime.com/1397533/"}
+剪辑：{"张一凡 Yifan Zhang": "http://people.mtime.com/1305499/"}
+原创音乐：{"捞仔 Zai Lao": "http://people.mtime.com/1641040/"}
+美术设计：{"武明 Ming Wu": "http://people.mtime.com/1894129/"}
+动作指导：{"李才 Cai Li": "http://people.mtime.com/1504978/"}
+录音：{"陶经 Jing Tao": "http://people.mtime.com/1275051/"}

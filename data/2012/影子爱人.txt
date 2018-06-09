@@ -1,0 +1,12 @@
+_id：6436763
+year：2012
+movie_name：影子爱人
+演员：{"恬妞": "http://people.mtime.com/964740/", "景甜": "http://people.mtime.com/1490272/", "鲁园": "http://people.mtime.com/1255710/", "张韶涵": "http://people.mtime.com/1254743/", "张柏芝": "http://people.mtime.com/917286/", "吴耀汉": "http://people.mtime.com/940058/", "权相佑": "http://people.mtime.com/927109/", "井柏然": "http://people.mtime.com/1575942/", "丁春诚": "http://people.mtime.com/1696368/", "龚海铭": "http://people.mtime.com/1901802/", "成泰燊": "http://people.mtime.com/931985/"}
+导演：{"潘源良": "http://people.mtime.com/893300/", "Yuen-Leung Poon": "http://people.mtime.com/893300/"}
+编剧：{"潘源良 Yuen-Leung Poon": "http://people.mtime.com/893300/", "秦雯 Wen Qin": "http://people.mtime.com/1844415/"}
+制作人：{"祝磊 Lei Zhu": "http://people.mtime.com/1857030/", "肖文阁 Wenge Xiao": "http://people.mtime.com/1680795/", "吴冰 Bing Wu": "http://people.mtime.com/1325291/", "谭杰文 Allen Tan": "http://people.mtime.com/2233086/", "丹·密茨 Dan Mintz": "http://people.mtime.com/1126100/", "关锦鹏 Stanley Kwan": "http://people.mtime.com/892852/"}
+摄影：{"姜国民 Kwok-Man Keung": "http://people.mtime.com/1250536/"}
+剪辑：{"陈志伟 Chi Wai Chan": "http://people.mtime.com/1279236/"}
+原创音乐：{"王宗贤 Nathan Wang": "http://people.mtime.com/1244387/"}
+美术设计：{"黄国伦 Wong Kwok Lun": "http://people.mtime.com/1448027/"}
+服装设计：{"黄家仪 Phoebe Wong": "http://people.mtime.com/1265610/"}

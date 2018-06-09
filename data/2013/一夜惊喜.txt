@@ -1,0 +1,14 @@
+_id：16475702
+year：2013
+movie_name：一夜惊喜
+演员：{"赵铭": "http://people.mtime.com/1814856/", "李治廷": "http://people.mtime.com/1706195/", "彭杨": "http://people.mtime.com/1675187/", "徐峥": "http://people.mtime.com/1248675/", "蒋劲夫": "http://people.mtime.com/1876167/", "范冰冰": "http://people.mtime.com/929639/", "倪虹洁": "http://people.mtime.com/1254782/", "丹尼尔·海尼": "http://people.mtime.com/1193084/", "吴佩慈": "http://people.mtime.com/968571/", "刘晏辰": "http://people.mtime.com/1707604/", "张歆莹": "http://people.mtime.com/2058059/", "杨青": "http://people.mtime.com/1396535/", "黎明": "http://people.mtime.com/905415/", "金依萌": "http://people.mtime.com/1565052/", "黄一飞": "http://people.mtime.com/940915/"}
+导演：{"Eva Jin": "http://people.mtime.com/1565052/", "金依萌": "http://people.mtime.com/1565052/"}
+编剧：{"金依萌 Eva Jin": "http://people.mtime.com/1565052/"}
+制作人：{"金依萌 Eva Jin": "http://people.mtime.com/1565052/", "薛乃实 Nai Shi Xue": "http://people.mtime.com/2058043/", "林建岳 Peter Lam": "http://people.mtime.com/1489940/", "何丽嫦 Lorraine Ho": "http://people.mtime.com/1418988/", "陈锡康 Shek-Hong Chan": "http://people.mtime.com/1218562/", "杨燕子 Janet Yang": "http://people.mtime.com/1207589/", "王易冰 Yi Bing Wang": "http://people.mtime.com/2058068/", "杨晓明 Xiao Ming Yang": "http://people.mtime.com/2058058/", "周哲 Zhe Zhou": "http://people.mtime.com/2058039/", "蒲树林 Shu Lin Pu": "http://people.mtime.com/2057978/", "沈薇 Wei Shen": "http://people.mtime.com/2058067/", "尹露 Lu Yin": "http://people.mtime.com/2058057/", "赵武 Wu Zhao": "http://people.mtime.com/2058066/"}
+摄影：{"米歇尔·布瓦琳 Michael Bonvillain": "http://people.mtime.com/1350008/"}
+剪辑：{"约翰L.罗伯茨 John L.Roberts": "http://people.mtime.com/2058062/"}
+原创音乐：{"Joey Newman": "http://people.mtime.com/1379765/"}
+美术设计：{"薛瑜斌 Yu Bin Xue": "http://people.mtime.com/2058060/", "彭维民 Wei-min Peng": "http://people.mtime.com/1872352/"}
+服装设计：{"李晖 Hui Li": "http://people.mtime.com/1798091/"}
+视觉特效：{"李激扬 Ji Yang Li": "http://people.mtime.com/2058063/"}
+录音：{"祝岩峰 Yan Feng Zhu": "http://people.mtime.com/2058064/"}

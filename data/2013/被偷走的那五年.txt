@@ -1,0 +1,11 @@
+_id：20513059
+year：2013
+movie_name：被偷走的那五年
+演员：{"谢君豪": "http://people.mtime.com/959026/", "范玮琪": "http://people.mtime.com/1304357/", "安心亚": "http://people.mtime.com/1850771/", "伍思凯": "http://people.mtime.com/1804013/", "戴君竹": "http://people.mtime.com/1257142/", "阿Ken": "http://people.mtime.com/947393/", "张孝全": "http://people.mtime.com/1249295/", "白百何": "http://people.mtime.com/1413704/"}
+导演：{"Babara Wong": "http://people.mtime.com/892866/", "黄真真": "http://people.mtime.com/892866/"}
+编剧：{"侯颖衍 Ying Yan Hou": "http://people.mtime.com/2054629/", "郑善瑜 Shan-yu Zheng": "http://people.mtime.com/2043721/", "黄真真 Babara Wong": "http://people.mtime.com/892866/"}
+制作人：{"陈辉 Daniel Chan": "http://people.mtime.com/1174976/", "焦雄屏 Peggy Chiao": "http://people.mtime.com/904698/"}
+摄影：{"陈诚 Cheng Chen": "http://people.mtime.com/1254952/"}
+剪辑：{"邝志良 Chi-Leung Kwong": "http://people.mtime.com/1263987/"}
+原创音乐：{"黎允文 Henry Lai": "http://people.mtime.com/1565056/"}
+美术设计：{"郭志达 Kuo Chih-Ta": "http://people.mtime.com/2031587/"}

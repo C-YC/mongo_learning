@@ -1,0 +1,12 @@
+_id：4718369
+year：2012
+movie_name：白鹿原
+演员：{"Long Duan": "http://people.mtime.com/1720450/", "Li Meng": "http://people.mtime.com/1860316/", "Zexin Yang": "http://people.mtime.com/1962484/", "张丰毅": "http://people.mtime.com/987354/", "Cao Xi'an Yang": "http://people.mtime.com/1962481/", "王柠": "http://people.mtime.com/1252641/", "吴刚": "http://people.mtime.com/1249271/", "Junjie Yang": "http://people.mtime.com/1962482/", "刘威": "http://people.mtime.com/1101842/", "Dehang Zhang": "http://people.mtime.com/1962480/", "夏昊": "http://people.mtime.com/2144996/", "许还山": "http://people.mtime.com/1126178/", "段奕宏": "http://people.mtime.com/1269810/", "张雨绮": "http://people.mtime.com/1250122/", "郭涛": "http://people.mtime.com/999877/", "刘雨欣": "http://people.mtime.com/1756870/", "成泰燊": "http://people.mtime.com/931985/", "Jiayu Yangchen": "http://people.mtime.com/1962483/"}
+导演：{"Quanan Wang": "http://people.mtime.com/892957/", "王全安": "http://people.mtime.com/892957/"}
+编剧：{"王全安 Quanan Wang": "http://people.mtime.com/892957/", "陈忠实 Zhongshi Chen": "http://people.mtime.com/1251826/", "芦苇 Wei Lu": "http://people.mtime.com/893282/"}
+制作人：{"Rui Ma": "http://people.mtime.com/1962485/", "Lin Yang": "http://people.mtime.com/1962492/", "Junqian Xu": "http://people.mtime.com/1962491/", "王占良 Zhanliang Wang": "http://people.mtime.com/1962489/", "王全安 Quanan Wang": "http://people.mtime.com/892957/", "Yi'an Sun": "http://people.mtime.com/1962486/", "张小可 Xiaoke Zhang": "http://people.mtime.com/1962494/", "Hong Zhang": "http://people.mtime.com/1962493/", "王乐 Le Wang": "http://people.mtime.com/1962487/", "Shu Wang": "http://people.mtime.com/1962488/", "Jianxuan Xu": "http://people.mtime.com/1962490/"}
+摄影：{"卢茨·赖特迈尔 Lutz Reitemeier": "http://people.mtime.com/1274777/"}
+剪辑：{"王全安 Quanan Wang": "http://people.mtime.com/892957/"}
+原创音乐：{"赵季平 Jiping Zhao": "http://people.mtime.com/1258765/"}
+美术设计：{"霍廷霄 Tingxiao Huo": "http://people.mtime.com/1263333/"}
+副导演/助理导演：{"Yong Cao": "http://people.mtime.com/1962495/"}

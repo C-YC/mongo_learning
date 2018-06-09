@@ -1,0 +1,6 @@
+_id：24735062
+year：2013
+movie_name：青春派
+演员：{"高浩元": "http://people.mtime.com/2053685/", "李天浩": "http://people.mtime.com/2053687/", "董子健": "http://people.mtime.com/2047035/", "蒋小涵": "http://people.mtime.com/1304228/", "焦刚": "http://people.mtime.com/1248955/", "郄路通": "http://people.mtime.com/2053683/", "安悦溪": "http://people.mtime.com/2053682/", "蒋雪鸣": "http://people.mtime.com/2053684/", "秦海璐": "http://people.mtime.com/956797/", "咏梅": "http://people.mtime.com/1307708/", "谭楚峰": "http://people.mtime.com/2053686/"}
+导演：{"刘杰": "http://people.mtime.com/1250931/", "Jie Liu": "http://people.mtime.com/1250931/"}
+编剧：{"高山 Shan Gao": "http://people.mtime.com/1301131/", "刘杰 Jie Liu": "http://people.mtime.com/1250931/"}

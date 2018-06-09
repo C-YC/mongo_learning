@@ -1,0 +1,12 @@
+_id：4176542
+year：2012
+movie_name：杀生
+演员：{"王迅": "http://people.mtime.com/1594217/", "梁静": "http://people.mtime.com/1176295/", "余男": "http://people.mtime.com/925356/", "马精武": "http://people.mtime.com/1019181/", "黄渤": "http://people.mtime.com/1249885/", "苏有朋": "http://people.mtime.com/996615/", "胡继光": "http://people.mtime.com/1898883/", "任达华": "http://people.mtime.com/916259/"}
+导演：{"管虎": "http://people.mtime.com/906769/"}
+编剧：{"管虎 Hu Guan": "http://people.mtime.com/906769/"}
+制作人：{"覃宏 Hong Qin": "http://people.mtime.com/1804579/", "杨登魁 Teng-Kuei Yang": "http://people.mtime.com/1207761/"}
+摄影：{"宋晓飞 XiaoFei Song": "http://people.mtime.com/1692973/"}
+原创音乐：{"窦鹏 Dou Peng": "http://people.mtime.com/1951520/"}
+美术设计：{"林木 Lin Mu": "http://people.mtime.com/1739893/"}
+动作指导：{"秦海强 Haiqiang Qin": "http://people.mtime.com/1700572/"}
+录音：{"董旭 Xu Dong": "http://people.mtime.com/1841864/"}

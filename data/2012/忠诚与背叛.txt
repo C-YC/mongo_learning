@@ -1,0 +1,13 @@
+_id：10746136
+year：2012
+movie_name：忠诚与背叛
+演员：{"侯勇": "http://people.mtime.com/1248747/", "颜世魁": "http://people.mtime.com/1175692/", "丁柳元": "http://people.mtime.com/1285502/", "李幼斌": "http://people.mtime.com/1148751/", "黄若萌": "http://people.mtime.com/1249176/", "王晖": "http://people.mtime.com/1670565/", "卢奇": "http://people.mtime.com/1027325/", "张曦文": "http://people.mtime.com/1248988/", "祝新运": "http://people.mtime.com/1175463/", "冯恩鹤": "http://people.mtime.com/1252045/", "山鹰": "http://people.mtime.com/1625927/", "马晓伟": "http://people.mtime.com/1175586/", "岳红": "http://people.mtime.com/1041330/", "赵晓明": "http://people.mtime.com/1251108/", "刘之冰": "http://people.mtime.com/1175630/", "巫刚": "http://people.mtime.com/1022546/", "王嘉": "http://people.mtime.com/1249829/", "周征波": "http://people.mtime.com/1429833/", "侯钧升": "http://people.mtime.com/1249825/", "金鑫": "http://people.mtime.com/1259833/", "徐箭": "http://people.mtime.com/1312234/", "袁满": "http://people.mtime.com/1626234/", "王骏毅": "http://people.mtime.com/1431048/", "王欢": "http://people.mtime.com/1300949/", "吴其江": "http://people.mtime.com/1850623/", "侯天来": "http://people.mtime.com/1176102/"}
+导演：{"张玉中": "http://people.mtime.com/1282551/"}
+编剧：{"沈悦 Yue Shen": "http://people.mtime.com/1249512/", "赵峻防 Junfang Zhao": "http://people.mtime.com/893129/"}
+制作人：{"颜小革 Xiao-ge Yan": "http://people.mtime.com/1911153/", "白景军 Jingjun Bai": "http://people.mtime.com/1637345/"}
+摄影：{"于学军 Xuejun Yu": "http://people.mtime.com/1637318/"}
+剪辑：{"朱建龙 Jianlong Zhu": "http://people.mtime.com/1826607/", "阴冬丽 Dong-li Yin": "http://people.mtime.com/1911152/"}
+原创音乐：{"董立强 Li-qiang Dong": "http://people.mtime.com/1911151/"}
+美术设计：{"刘明 Ming Liu": "http://people.mtime.com/1911147/"}
+视觉特效：{"雷振宇 Zhenyu Lei": "http://people.mtime.com/1594213/", "徐欣 Xin Xu": "http://people.mtime.com/1911149/", "陈飞 Fei Chen": "http://people.mtime.com/1911148/"}
+录音：{"万仲平 Chong-ping Wan": "http://people.mtime.com/1911150/"}

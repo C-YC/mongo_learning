@@ -1,0 +1,10 @@
+_id：10527288
+year：2012
+movie_name：百万巨鳄
+演员：{"熊欣欣": "http://people.mtime.com/1007935/", "蒲巴甲": "http://people.mtime.com/1252696/", "方青卓": "http://people.mtime.com/990048/", "徐熙媛": "http://people.mtime.com/1249968/", "石兆琪": "http://people.mtime.com/1087579/", "林雪": "http://people.mtime.com/924892/", "王劲松": "http://people.mtime.com/1175947/", "丁嘉力": "http://people.mtime.com/1688049/", "郭涛": "http://people.mtime.com/999877/", "侯传杲": "http://people.mtime.com/1258191/", "李勤勤": "http://people.mtime.com/943991/"}
+导演：{"林黎胜": "http://people.mtime.com/1249065/"}
+编剧：{"林黎胜 Lisheng Lin": "http://people.mtime.com/1249065/"}
+制作人：{"Rui Li": "http://people.mtime.com/2030359/"}
+摄影：{"李希 Xi Li": "http://people.mtime.com/1738323/"}
+剪辑：{"周新霞 Xinxia Zhou": "http://people.mtime.com/1251913/", "魏楠 Nan Wei": "http://people.mtime.com/1804692/"}
+动作指导：{"熊欣欣 Xinxin Xiong": "http://people.mtime.com/1007935/"}

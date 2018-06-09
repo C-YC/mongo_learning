@@ -1,0 +1,10 @@
+_id：21618782
+year：2013
+movie_name：笔仙Ⅱ
+演员：{"朴韩星": "http://people.mtime.com/940043/", "章婷婷": "http://people.mtime.com/2035976/", "辛芷蕾": "http://people.mtime.com/1865764/", "张皓然": "http://people.mtime.com/2051949/", "杨帆": "http://people.mtime.com/2055683/", "李昕岳": "http://people.mtime.com/1888591/", "耿乐": "http://people.mtime.com/952025/", "孙绍龙": "http://people.mtime.com/2035977/", "高欣宇": "http://people.mtime.com/2035951/", "郭京飞": "http://people.mtime.com/1308405/", "李永波": "http://people.mtime.com/2054937/"}
+导演：{"Byeong-ki Ahn": "http://people.mtime.com/893135/", "安兵基": "http://people.mtime.com/893135/"}
+制作人：{"裴琳 Pei Lin": "http://people.mtime.com/1953595/"}
+摄影：{"崔相默 Sang-Muk Choi": "http://people.mtime.com/1836006/", "尹明植": "http://people.mtime.com/2038057/", "咸盛元 Hahm Sung Won": "http://people.mtime.com/1976509/"}
+剪辑：{"咸盛元 Hahm Sung Won": "http://people.mtime.com/1976509/"}
+美术设计：{"张雨 Zhang Yu": "http://people.mtime.com/1953594/"}
+录音：{"王砚伟 Yanwei Wang": "http://people.mtime.com/1594207/"}

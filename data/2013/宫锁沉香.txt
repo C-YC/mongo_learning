@@ -1,0 +1,14 @@
+_id：20378811
+year：2013
+movie_name：宫锁沉香
+演员：{"王双": "http://people.mtime.com/1906930/", "伊能静": "http://people.mtime.com/985101/", "张子枫": "http://people.mtime.com/1744726/", "陈旭": "http://people.mtime.com/1259097/", "石芳菲": "http://people.mtime.com/2056436/", "周冬雨": "http://people.mtime.com/1772902/", "赵文瑄": "http://people.mtime.com/953910/", "高梓淳": "http://people.mtime.com/2056437/", "赵丽颖": "http://people.mtime.com/1508087/", "周龙": "http://people.mtime.com/1255205/", "张卫健": "http://people.mtime.com/939703/", "包贝尔": "http://people.mtime.com/1654566/", "吾晟赫": "http://people.mtime.com/2056435/", "陈晓": "http://people.mtime.com/1824419/", "张梦斯": "http://people.mtime.com/1837977/", "王婉中": "http://people.mtime.com/1873234/", "邬君梅": "http://people.mtime.com/985100/", "盛鉴": "http://people.mtime.com/1882175/", "吴沂凡": "http://people.mtime.com/2059064/", "黄圣依": "http://people.mtime.com/1094099/", "蒋依依": "http://people.mtime.com/1663435/", "陆毅": "http://people.mtime.com/1129047/", "张茜": "http://people.mtime.com/1249234/", "朱梓骁": "http://people.mtime.com/1598540/"}
+导演：{"潘安子": "http://people.mtime.com/1510652/", "Anzi Pan": "http://people.mtime.com/1510652/"}
+编剧：{"于正 Zheng Yu": "http://people.mtime.com/1483801/"}
+制作人：{"杜扬 Yang Du": "http://people.mtime.com/1224614/", "李锦文 Peggy Lee": "http://people.mtime.com/1208722/"}
+摄影：{"邹连友 Lin Yau Tsou": "http://people.mtime.com/1317145/"}
+剪辑：{"张嘉辉 Kar Fei Cheung": "http://people.mtime.com/1320614/"}
+原创音乐：{"金培达 Peter Kam": "http://people.mtime.com/1258944/", "谭旋 Xuan Tan": "http://people.mtime.com/1901831/"}
+美术设计：{"刘世运 Shiyun Liu": "http://people.mtime.com/1736688/"}
+服装设计：{"吴宝玲 Po-ling Ng": "http://people.mtime.com/1320602/"}
+副导演/助理导演：{"翟钢 Gang Zhai": "http://people.mtime.com/1993497/"}
+录音：{"吴江 Jiang Wu": "http://people.mtime.com/1635039/"}

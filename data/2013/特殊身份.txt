@@ -1,0 +1,10 @@
+_id：23126901
+year：2013
+movie_name：特殊身份
+演员：{"郑中基": "http://people.mtime.com/939702/", "景甜": "http://people.mtime.com/1490272/", "鲍起静": "http://people.mtime.com/934143/", "吴志雄": "http://people.mtime.com/957610/", "张涵予": "http://people.mtime.com/1250877/", "亓达吉": "http://people.mtime.com/1258419/", "卢惠光": "http://people.mtime.com/919365/", "甄子丹": "http://people.mtime.com/893008/", "安志杰": "http://people.mtime.com/924252/", "邹兆龙": "http://people.mtime.com/1248788/", "杨志刚": "http://people.mtime.com/1332212/"}
+导演：{"Clarence Fok Yiu-leung": "http://people.mtime.com/892868/", "霍耀良": "http://people.mtime.com/892868/"}
+编剧：{"司徒锦源 Kam-Yuen Szeto": "http://people.mtime.com/893194/"}
+制作人：{"路征 Zheng Lu": "http://people.mtime.com/1770479/", "甄子丹 Donnie Yen": "http://people.mtime.com/893008/", "韩晓黎 Xiaoli Han": "http://people.mtime.com/1802406/", "王鸿 Hong Wang": "http://people.mtime.com/1763727/", "二勇 Yong Er": "http://people.mtime.com/1282983/", "亓达吉 Daji Qi": "http://people.mtime.com/1258419/", "韩三平 Sanping Han": "http://people.mtime.com/1206936/", "鲍德熹 Peter Pau": "http://people.mtime.com/892802/"}
+摄影：{"鲍德熹 Peter Pau": "http://people.mtime.com/892802/"}
+原创音乐：{"窦鹏 Dou Peng": "http://people.mtime.com/1951520/"}
+动作指导：{"甄子丹 Donnie Yen": "http://people.mtime.com/893008/", "罗礼贤 Bruce Law": "http://people.mtime.com/893452/"}

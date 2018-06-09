@@ -1,0 +1,10 @@
+_id：10606939
+year：2012
+movie_name：男人如衣服
+演员：{"黄百鸣": "http://people.mtime.com/893299/", "林峰": "http://people.mtime.com/968565/", "郑中基": "http://people.mtime.com/939702/", "郑文辉": "http://people.mtime.com/991994/", "吴千语": "http://people.mtime.com/1872599/", "毛舜筠": "http://people.mtime.com/925481/", "海清": "http://people.mtime.com/1258273/", "熊黛林": "http://people.mtime.com/1498407/", "陈茂贤": "http://people.mtime.com/1995440/", "黄玉郎": "http://people.mtime.com/1097646/", "张坚庭": "http://people.mtime.com/893051/", "郑祖": "http://people.mtime.com/967509/", "方皓玟": "http://people.mtime.com/1485745/", "吴君如": "http://people.mtime.com/929109/", "陈文静": "http://people.mtime.com/1885294/", "邓梓峰": "http://people.mtime.com/1186623/", "贝安琪": "http://people.mtime.com/1134400/", "冯勉恒": "http://people.mtime.com/1193309/"}
+导演：{"谷德昭": "http://people.mtime.com/892851/"}
+制作人：{"黄百鸣 Bak-Ming Wong": "http://people.mtime.com/893299/", "冯凯帅 Kaishuai Feng": "http://people.mtime.com/1787844/"}
+摄影：{"张文宝 Man Po Cheung": "http://people.mtime.com/1260533/"}
+剪辑：{"邝志良 Chi-Leung Kwong": "http://people.mtime.com/1263987/"}
+原创音乐：{"黄奕华 Yi Hua Huang": "http://people.mtime.com/1969659/"}
+美术设计：{"周世鸿 Sai Hung Chow": "http://people.mtime.com/1427815/"}

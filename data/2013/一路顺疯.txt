@@ -1,0 +1,7 @@
+_id：20452308
+year：2013
+movie_name：一路顺疯
+演员：{"蒋梦婕": "http://people.mtime.com/1509818/", "鲍起静": "http://people.mtime.com/934143/", "刘桦": "http://people.mtime.com/1249886/", "陈思诚": "http://people.mtime.com/1249267/", "刘芸": "http://people.mtime.com/1257938/", "黄小蕾": "http://people.mtime.com/1423286/", "李欣汝": "http://people.mtime.com/1549170/", "包贝尔": "http://people.mtime.com/1654566/"}
+导演：{"叶伟民": "http://people.mtime.com/892989/", "Wai Man Yip": "http://people.mtime.com/892989/"}
+编剧：{"石铭华 Min-hua Shi": "http://people.mtime.com/2062751/", "杨梅媛 Mei-yuan Yang": "http://people.mtime.com/1876422/", "文隽 Manfred Wong": "http://people.mtime.com/893271/", "石明辉 Shi Ming Hui": "http://people.mtime.com/2087499/", "陈思诚 Sicheng Chen": "http://people.mtime.com/1249267/"}
+制作人：{"文隽 Manfred Wong": "http://people.mtime.com/893271/", "娜塔莎.德维勒 Natacha Devillers": "http://people.mtime.com/1223562/", "甘蕙茵 Jessica Kam": "http://people.mtime.com/2056595/"}

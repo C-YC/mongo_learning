@@ -1,0 +1,13 @@
+_id：3804891
+year：2013
+movie_name：无人区
+演员：{"赵虎": "http://people.mtime.com/2075579/", "王佩": "http://people.mtime.com/2075578/", "徐峥": "http://people.mtime.com/1248675/", "宁浩": "http://people.mtime.com/1176851/", "陶虹": "http://people.mtime.com/927888/", "余男": "http://people.mtime.com/925356/", "多布杰": "http://people.mtime.com/1251590/", "黄渤": "http://people.mtime.com/1249885/", "王双宝": "http://people.mtime.com/939537/", "巴多": "http://people.mtime.com/1594216/", "郭虹": "http://people.mtime.com/1260456/", "杨新鸣": "http://people.mtime.com/1258793/"}
+导演：{"宁浩": "http://people.mtime.com/1176851/"}
+编剧：{"尚可 Ke Shang": "http://people.mtime.com/2074870/", "宁浩 Hao Ning": "http://people.mtime.com/1176851/", "王红卫 Hongwei Wang": "http://people.mtime.com/1700561/", "述平 Ping Shu": "http://people.mtime.com/893236/", "邢爱娜 Aina Xing": "http://people.mtime.com/1473981/", "崔斯韦 Siwei Cui": "http://people.mtime.com/1668917/"}
+制作人：{"韩晓黎 Xiaoli Han": "http://people.mtime.com/1802406/", "肖文阁 Wenge Xiao": "http://people.mtime.com/1680795/", "利雅博 Albert Lee": "http://people.mtime.com/1211991/", "宁浩 Hao Ning": "http://people.mtime.com/1176851/", "韩三平 Sanping Han": "http://people.mtime.com/1206936/", "张国立 Guoli Zhang": "http://people.mtime.com/939396/", "李明 Ming Li": "http://people.mtime.com/1826872/", "赵海城 Haicheng Zhao": "http://people.mtime.com/1224565/", "伍克波 Kebo Wu": "http://people.mtime.com/1762601/", "钟丽芳 Lifang Zhong": "http://people.mtime.com/1872344/", "余伟国 Daniel Yu Wai-Kwok": "http://people.mtime.com/893598/", "张强 Qiang Zhang": "http://people.mtime.com/1858603/", "于晓楠 Xiaonan Yu": "http://people.mtime.com/2074869/", "刘艳娥 Shirley Lau": "http://people.mtime.com/1574032/", "李培森 Peisen Li": "http://people.mtime.com/1762604/"}
+摄影：{"杜杰 Jie Du": "http://people.mtime.com/1531690/"}
+剪辑：{"杜媛 Yuan Du": "http://people.mtime.com/1504977/"}
+原创音乐：{"王宗贤 Nathan Wang": "http://people.mtime.com/1244387/", "姜勇军": "http://people.mtime.com/2074871/", "董冬冬 Dongdong Dong": "http://people.mtime.com/1594208/"}
+艺术指导：{"郝艺 Yi Hao": "http://people.mtime.com/1627464/"}
+动作指导：{"罗礼贤 Bruce Law": "http://people.mtime.com/893452/", "罗义民 Norman Luo": "http://people.mtime.com/1865213/"}
+录音：{"王砚伟 Yanwei Wang": "http://people.mtime.com/1594207/"}

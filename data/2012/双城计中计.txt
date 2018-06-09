@@ -1,0 +1,8 @@
+_id：6890469
+year：2012
+movie_name：双城计中计
+演员：{"余思潞": "http://people.mtime.com/1873903/", "任贤齐": "http://people.mtime.com/924248/", "钱入富": "http://people.mtime.com/1894725/", "郭爽": "http://people.mtime.com/1841256/", "翁虹": "http://people.mtime.com/1009149/", "李琛": "http://people.mtime.com/1873904/", "腾格尔": "http://people.mtime.com/1841257/", "刘萌萌": "http://people.mtime.com/1881162/", "韩秋池": "http://people.mtime.com/1646753/", "魏千翔": "http://people.mtime.com/1817337/", "熊乃瑾": "http://people.mtime.com/1279056/", "刘承俊": "http://people.mtime.com/1454552/", "九孔": "http://people.mtime.com/1410080/"}
+导演：{"潘安子": "http://people.mtime.com/1510652/", "Anzi Pan": "http://people.mtime.com/1510652/"}
+编剧：{"郭爽 Shuang Gou": "http://people.mtime.com/1841256/"}
+制作人：{"刘蓬 Feng Liu": "http://people.mtime.com/1873908/", "鲁丹 Dan Lu": "http://people.mtime.com/1873910/", "盛育滨": "http://people.mtime.com/1873906/", "苗俊平 Jun-ping Miao": "http://people.mtime.com/1894726/"}
+副导演/助理导演：{"郭爽 Shuang Gou": "http://people.mtime.com/1841256/"}

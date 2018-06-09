@@ -1,0 +1,12 @@
+_id：20378794
+year：2013
+movie_name：回到爱开始的地方
+演员：{"刘芸": "http://people.mtime.com/1257938/", "周渝民": "http://people.mtime.com/1250272/", "周一围": "http://people.mtime.com/1249511/", "刘诗诗": "http://people.mtime.com/1273178/"}
+导演：{"Hsiao-Chien Lin": "http://people.mtime.com/1646883/", "林孝谦": "http://people.mtime.com/1646883/"}
+编剧：{"林孝谦 Hsiao-Chien Lin": "http://people.mtime.com/1646883/", "吕安弦 Lung-shi Lv": "http://people.mtime.com/1839117/", "罗诗 Carrie Luo": "http://people.mtime.com/2031349/"}
+制作人：{"邱璃宽 Kwan": "http://people.mtime.com/1710344/", "陈连宝 Lian Bao Chen": "http://people.mtime.com/2059618/", "杨登魁 Teng-Kuei Yang": "http://people.mtime.com/1207761/", "卫星": "http://people.mtime.com/2062704/", "燕羽": "http://people.mtime.com/2062703/", "钱德伟": "http://people.mtime.com/2062705/", "张红艳 Hong Yan Zhang": "http://people.mtime.com/2059619/", "覃宏 Hong Qin": "http://people.mtime.com/1804579/", "边轶勇 Yi Yong Bian": "http://people.mtime.com/2059620/"}
+摄影：{"冯信华 Hsin-Hua Feng": "http://people.mtime.com/1693816/"}
+剪辑：{"张嘉辉 Kar Fei Cheung": "http://people.mtime.com/1320614/"}
+原创音乐：{"黄建为 Jian Wei Huang": "http://people.mtime.com/2059621/", "秦旭章 Xu Zhang Qin": "http://people.mtime.com/2059622/"}
+美术设计：{"闫国新 Guo Xin Yan": "http://people.mtime.com/2059623/"}
+录音：{"杜笃之 Du-Che Tu": "http://people.mtime.com/1249195/", "赵鹏远 Peng Yuan Zhao": "http://people.mtime.com/2059624/"}

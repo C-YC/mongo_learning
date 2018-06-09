@@ -1,0 +1,9 @@
+_id：10831449
+year：2012
+movie_name：搞定岳父大人
+演员：{"王虎成": "http://people.mtime.com/1259792/", "刘洁": "http://people.mtime.com/1255283/", "朱琳": "http://people.mtime.com/1860405/", "徐峥": "http://people.mtime.com/1248675/", "郭明翔": "http://people.mtime.com/1749472/", "苏茂洋": "http://people.mtime.com/2232713/", "仁龙": "http://people.mtime.com/2232712/", "李凤绪": "http://people.mtime.com/1143741/", "李晓波": "http://people.mtime.com/1249273/", "林鹏": "http://people.mtime.com/1637488/", "周绍栋": "http://people.mtime.com/1015731/", "王语嫣": "http://people.mtime.com/2232714/", "冉旭": "http://people.mtime.com/2035803/", "楚留生": "http://people.mtime.com/2232715/", "刘建华": "http://people.mtime.com/1252016/", "张立东": "http://people.mtime.com/2230168/", "韩志": "http://people.mtime.com/1524041/", "冯粒": "http://people.mtime.com/1259653/", "许绍雄": "http://people.mtime.com/925482/"}
+导演：{"李海蜀": "http://people.mtime.com/1160958/", "Hai-shu Li": "http://people.mtime.com/1160958/"}
+编剧：{"李海蜀 Hai-shu Li": "http://people.mtime.com/1160958/", "黄彦威 Yan Wei Huang": "http://people.mtime.com/1949022/"}
+制作人：{"徐永安 Yongan Xu": "http://people.mtime.com/1846796/", "刘志江 Liu Zhijiang": "http://people.mtime.com/1846799/", "方建生 Jian-sheng Fang": "http://people.mtime.com/1878625/", "蔡赵波 Zhaopo Cai": "http://people.mtime.com/2232703/", "徐峥 Zheng Xu": "http://people.mtime.com/1248675/", "何跃华 Yue-hua He": "http://people.mtime.com/1878634/"}
+摄影：{"刘勇宏 Yonghong Liu": "http://people.mtime.com/1266884/"}
+剪辑：{"张一凡 Yifan Zhang": "http://people.mtime.com/1305499/"}

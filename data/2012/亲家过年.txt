@@ -1,0 +1,7 @@
+_id：6971017
+year：2012
+movie_name：亲家过年
+演员：{"蔡明": "http://people.mtime.com/1175624/", "杨紫彤": "http://people.mtime.com/1805106/", "李菁": "http://people.mtime.com/1318623/", "高宝宝": "http://people.mtime.com/1176702/", "张丰毅": "http://people.mtime.com/987354/", "丛珊": "http://people.mtime.com/1063196/", "姜欣雨": "http://people.mtime.com/1792776/", "刘芸": "http://people.mtime.com/1257938/", "文章": "http://people.mtime.com/1266212/", "周晓鸥": "http://people.mtime.com/1420892/", "陈希光": "http://people.mtime.com/1251895/", "李晓川": "http://people.mtime.com/1525204/", "包贝尔": "http://people.mtime.com/1654566/", "冯粒": "http://people.mtime.com/1259653/", "许绍雄": "http://people.mtime.com/925482/", "宫景华": "http://people.mtime.com/1248772/"}
+导演：{"叶伟民": "http://people.mtime.com/892989/", "Waiman Yip": "http://people.mtime.com/892989/"}
+编剧：{"田博 Bo Tian": "http://people.mtime.com/1820755/"}
+制作人：{"文隽 Manfred Wong": "http://people.mtime.com/893271/"}

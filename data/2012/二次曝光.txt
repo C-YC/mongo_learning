@@ -1,0 +1,11 @@
+_id：6878446
+year：2012
+movie_name：二次曝光
+演员：{"方励": "http://people.mtime.com/1673680/", "梁静": "http://people.mtime.com/1176295/", "范冰冰": "http://people.mtime.com/929639/", "孔维": "http://people.mtime.com/1251644/", "冯绍峰": "http://people.mtime.com/1308082/", "姚安濂": "http://people.mtime.com/1249862/", "陈冲": "http://people.mtime.com/892809/", "霍思燕": "http://people.mtime.com/1249223/"}
+导演：{"李玉": "http://people.mtime.com/1176283/"}
+编剧：{"方励 Li Fang": "http://people.mtime.com/1673680/", "李玉 Yu Li": "http://people.mtime.com/1176283/"}
+制作人：{"方励 Li Fang": "http://people.mtime.com/1673680/"}
+摄影：{"陆一帆 Florian J. E. Zinke": "http://people.mtime.com/1951131/"}
+剪辑：{"Ze Yuan": "http://people.mtime.com/1966946/", "李玉 Yu Li": "http://people.mtime.com/1176283/"}
+原创音乐：{"Howie B.": "http://people.mtime.com/1859714/", "Howard Simon Bernstein": "http://people.mtime.com/1966945/"}
+录音：{"杜笃之 Du-Che Tu": "http://people.mtime.com/1249195/"}

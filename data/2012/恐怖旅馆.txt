@@ -1,0 +1,7 @@
+_id：11511025
+year：2012
+movie_name：恐怖旅馆
+演员：{"陈司翰": "http://people.mtime.com/1258093/", "李菁": "http://people.mtime.com/1318623/", "李封乾": "http://people.mtime.com/2232197/", "董立范": "http://people.mtime.com/1410081/", "赵铭": "http://people.mtime.com/1814856/", "郑来志": "http://people.mtime.com/1803266/", "贡米": "http://people.mtime.com/1681573/", "杨潇": "http://people.mtime.com/1641049/", "安雅": "http://people.mtime.com/942188/", "来喜": "http://people.mtime.com/1586789/"}
+导演：{"郑来志": "http://people.mtime.com/1803266/"}
+编剧：{"史强 Qiang Shi": "http://people.mtime.com/1955616/", "郑来志 Laizhi Zheng": "http://people.mtime.com/1803266/"}
+制作人：{"王红卫 Hongwei Wang": "http://people.mtime.com/1700561/"}

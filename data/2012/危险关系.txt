@@ -1,0 +1,13 @@
+_id：6527269
+year：2012
+movie_name：危险关系
+演员：{"Dan Tong Han": "http://people.mtime.com/1964424/", "窦骁": "http://people.mtime.com/1746547/", "章子怡": "http://people.mtime.com/912939/", "张柏芝": "http://people.mtime.com/917286/", "卢燕": "http://people.mtime.com/1025735/", "王奕瑾": "http://people.mtime.com/1964426/", "Rong Rong": "http://people.mtime.com/2014360/", "张东健": "http://people.mtime.com/917287/", "Shuli Xiao": "http://people.mtime.com/2014361/", "Zhang Yun": "http://people.mtime.com/1964425/"}
+导演：{"许秦豪": "http://people.mtime.com/892978/"}
+编剧：{"严歌苓 Geling Yan": "http://people.mtime.com/893195/", "拉克洛 Choderlos de Laclos": "http://people.mtime.com/899058/"}
+制作人：{"陈伟明 Wei Ming Chen": "http://people.mtime.com/1755220/", "张霞 Xia Zhang": "http://people.mtime.com/1214468/"}
+摄影：{"金丙书 Byung-seo Kim": "http://people.mtime.com/1696683/"}
+剪辑：{"南娜咏 Na-young Nam": "http://people.mtime.com/1826166/"}
+原创音乐：{"赵成禹 Sung-woo Jo": "http://people.mtime.com/1216707/"}
+美术设计：{"黄嘉伦 Jialun Huang": "http://people.mtime.com/1953113/"}
+服装设计：{"郑秀娴 Miggy Cheng": "http://people.mtime.com/2014362/"}
+录音：{"王砚伟 Yanwei Wang": "http://people.mtime.com/1594207/"}

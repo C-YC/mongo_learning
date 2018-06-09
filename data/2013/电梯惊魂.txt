@@ -1,0 +1,10 @@
+_id：10773447
+year：2013
+movie_name：电梯惊魂
+演员：{"谢君豪": "http://people.mtime.com/959026/", "蔡鸿翔": "http://people.mtime.com/1050998/", "周秀娜": "http://people.mtime.com/1693776/", "杨青": "http://people.mtime.com/1175205/", "蓝正龙": "http://people.mtime.com/1248798/", "罗伯特·琳": "http://people.mtime.com/923644/"}
+导演：{"宁敬武": "http://people.mtime.com/1248685/"}
+编剧：{"刘沄朋 Yun Peng LIu": "http://people.mtime.com/2006412/", "刘无 Wu Liu": "http://people.mtime.com/1435994/", "宁敬武 Jingwu Ning": "http://people.mtime.com/1248685/"}
+制作人：{"谷国庆 Guoqing Gu": "http://people.mtime.com/1766704/"}
+剪辑：{"贾翠平 Cui Ping Jia": "http://people.mtime.com/2006420/"}
+美术设计：{"张晓兵 Xiaobing Zhang": "http://people.mtime.com/1594211/"}
+录音：{"纪成刚 Chenggang Ji": "http://people.mtime.com/1637324/"}

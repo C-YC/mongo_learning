@@ -1,0 +1,7 @@
+_id：20369263
+year：2013
+movie_name：巴啦啦小魔仙
+演员：{"易蜜儿": "http://people.mtime.com/2007374/", "唐梦娅": "http://people.mtime.com/2225208/", "梁慧芸": "http://people.mtime.com/1981658/", "温世韡": "http://people.mtime.com/2007375/", "郭莹莹": "http://people.mtime.com/2007365/", "孙蕊": "http://people.mtime.com/1981668/", "左左": "http://people.mtime.com/2007364/", "白茹": "http://people.mtime.com/1875271/", "甄雪凝": "http://people.mtime.com/2007367/", "周娇": "http://people.mtime.com/1891263/", "刘美含": "http://people.mtime.com/1965519/", "廖景萱": "http://people.mtime.com/1981654/", "游杰": "http://people.mtime.com/2007363/", "王慧": "http://people.mtime.com/1981659/", "柴可": "http://people.mtime.com/2007366/", "曾挚": "http://people.mtime.com/1981657/", "周利书": "http://people.mtime.com/2007372/", "袁奇峰": "http://people.mtime.com/1981667/", "强宇": "http://people.mtime.com/2007376/"}
+导演：{"李欣": "http://people.mtime.com/892893/"}
+编剧：{"齐圆 Yuan Qi": "http://people.mtime.com/2007371/"}
+制作人：{"谢坤泽 Kun Ze Xie": "http://people.mtime.com/2007370/", "詹奇安 Qian Zhan": "http://people.mtime.com/1981653/", "陈英杰 Ying kit Chan": "http://people.mtime.com/1400276/"}

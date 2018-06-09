@@ -1,0 +1,9 @@
+_id：20380318
+year：2013
+movie_name：孤岛惊魂2
+演员：{"陈志朋": "http://people.mtime.com/1252480/", "邓家佳": "http://people.mtime.com/1255850/"}
+导演：{"钟继昌": "http://people.mtime.com/893114/", "Kai Cheung Chung": "http://people.mtime.com/893114/"}
+编剧：{"方思行 Sixing Fang": "http://people.mtime.com/2224820/"}
+制作人：{"刘晶 Jing Liu": "http://people.mtime.com/1820844/"}
+摄影：{"陈楚强 Pakie Chan": "http://people.mtime.com/1607329/"}
+美术设计：{"林韦深 Weishen Lin": "http://people.mtime.com/1641641/"}

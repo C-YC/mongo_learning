@@ -1,0 +1,12 @@
+_id：6080775
+year：2012
+movie_name：黄金大劫案
+演员：{"雷佳音": "http://people.mtime.com/1321939/", "董立范": "http://people.mtime.com/1410081/", "刘桦": "http://people.mtime.com/1249886/", "孙淳": "http://people.mtime.com/1018616/", "王文": "http://people.mtime.com/1837389/", "陶虹": "http://people.mtime.com/927888/", "程媛媛": "http://people.mtime.com/1508722/", "黄渤": "http://people.mtime.com/1249885/", "郭涛": "http://people.mtime.com/999877/", "范伟": "http://people.mtime.com/1175791/", "山崎敬一": "http://people.mtime.com/1877096/"}
+导演：{"宁浩": "http://people.mtime.com/1176851/", "Hao Ning": "http://people.mtime.com/1176851/"}
+编剧：{"阮世生 James Yuen": "http://people.mtime.com/893226/", "何瑞睿 Ruirui He": "http://people.mtime.com/1427494/", "王红卫 Hongwei Wang": "http://people.mtime.com/1700561/", "岳小军 Xiaojun Yue": "http://people.mtime.com/1249088/", "邢爱娜 Aina Xing": "http://people.mtime.com/1473981/", "郑晓阳 Xiaoyang Zheng": "http://people.mtime.com/1427493/"}
+制作人：{"张一白 Yibai Zhang": "http://people.mtime.com/892999/", "李明 Ming Li": "http://people.mtime.com/1613381/", "杨旗 Qi Yang": "http://people.mtime.com/1911026/", "宁浩 Hao Ning": "http://people.mtime.com/1176851/"}
+摄影：{"赵非 Fei Zhao": "http://people.mtime.com/1258456/"}
+原创音乐：{"王宗贤 Nathan Wang": "http://people.mtime.com/1244387/"}
+美术设计：{"陈思勤 Second Chan": "http://people.mtime.com/1268353/"}
+动作指导：{"桑林 Lin Sang": "http://people.mtime.com/1897948/", "沈在元 Jea-won Shin": "http://people.mtime.com/1901462/", "梁吉泳 Gil-yeong Yang": "http://people.mtime.com/1716253/"}
+录音：{"赵楠 Nan Zhao": "http://people.mtime.com/1837284/", "杨江 Jiang Yang": "http://people.mtime.com/1864748/"}

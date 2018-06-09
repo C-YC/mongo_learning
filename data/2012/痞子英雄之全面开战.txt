@@ -1,0 +1,14 @@
+_id：4154669
+year：2012
+movie_name：痞子英雄之全面开战
+演员：{"赵又廷": "http://people.mtime.com/1619401/", "杨颖": "http://people.mtime.com/1466940/", "洪天祥": "http://people.mtime.com/1269653/", "夏靖庭": "http://people.mtime.com/997872/", "杜德伟": "http://people.mtime.com/952321/", "关颖": "http://people.mtime.com/942079/", "夏利奥": "http://people.mtime.com/1874315/", "吴仲强": "http://people.mtime.com/1838078/", "吴中天": "http://people.mtime.com/1258392/", "藤冈靛": "http://people.mtime.com/1294747/", "戴立忍": "http://people.mtime.com/892836/", "邹承恩": "http://people.mtime.com/1679776/", "许时豪": "http://people.mtime.com/1689797/", "黄渤": "http://people.mtime.com/1249885/", "阿Ken": "http://people.mtime.com/947393/", "高捷": "http://people.mtime.com/900610/", "纳豆": "http://people.mtime.com/1409372/", "修杰楷": "http://people.mtime.com/1279478/", "乾德门": "http://people.mtime.com/1258077/", "高山峰": "http://people.mtime.com/1846293/", "夏健龙": "http://people.mtime.com/1874316/"}
+导演：{"蔡岳勋": "http://people.mtime.com/1289508/"}
+编剧：{"蔡岳勋 Yueh-Hsun Tsai": "http://people.mtime.com/1289508/", "Kelly Chen": "http://people.mtime.com/1984903/"}
+制作人：{"蔡岳勋 Yueh-Hsun Tsai": "http://people.mtime.com/1289508/", "陈鸿元 Hong-yuan Chen": "http://people.mtime.com/1855545/", "于小惠 Crystal Yu": "http://people.mtime.com/1557336/"}
+摄影：{"李屏宾 Pin Bing Lee": "http://people.mtime.com/1248966/"}
+剪辑：{"Hong Yi Zhou": "http://people.mtime.com/1984907/"}
+原创音乐：{"Terdsak Janpan": "http://people.mtime.com/1984905/"}
+美术设计：{"Jo-Yun Wu": "http://people.mtime.com/2180990/"}
+视觉特效：{"Jack Ho": "http://people.mtime.com/1272195/"}
+动作指导：{"塞瑞尔·拉菲利 Cyril Raffaelli": "http://people.mtime.com/925496/", "李忠志 Nicky Li": "http://people.mtime.com/1001544/"}
+声音部门：{"Book Chien": "http://people.mtime.com/2216899/", "Hsiang-Ling Ho": "http://people.mtime.com/2216901/", "Chuan-Chung Chen": "http://people.mtime.com/2216894/", "Yi-Wei Chen": "http://people.mtime.com/2216897/", "Cheng Chou": "http://people.mtime.com/2216900/", "Chia-Wei Chen": "http://people.mtime.com/2216893/", "Hanson Tsai": "http://people.mtime.com/2216906/", "Gillian Chen": "http://people.mtime.com/2216895/", "Guang-Hsing Tuan": "http://people.mtime.com/2216907/", "Tist Kao": "http://people.mtime.com/2216904/", "Hui-Chun Chen": "http://people.mtime.com/2216896/", "Yu-Chih Lee": "http://people.mtime.com/2216905/", "Kwen-Zhen Hsu": "http://people.mtime.com/2216902/", "Frank Cheng": "http://people.mtime.com/2216898/", "Ding-Yi Hu": "http://people.mtime.com/2216903/"}

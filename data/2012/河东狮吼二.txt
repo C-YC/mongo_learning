@@ -1,0 +1,11 @@
+_id：6221409
+year：2012
+movie_name：河东狮吼二
+演员：{"黄维德": "http://people.mtime.com/1257606/", "赵雷祺": "http://people.mtime.com/2231921/", "刘辉": "http://people.mtime.com/1436665/", "高艺涵": "http://people.mtime.com/2157142/", "小沈阳": "http://people.mtime.com/1598051/", "赵本山": "http://people.mtime.com/965769/", "张馨予": "http://people.mtime.com/1784933/", "彭博": "http://people.mtime.com/1249018/", "陈昊": "http://people.mtime.com/1805461/", "沈芳熙": "http://people.mtime.com/1805721/", "张柏芝": "http://people.mtime.com/917286/", "李嘉隽": "http://people.mtime.com/1854453/", "戚迹": "http://people.mtime.com/1297236/", "吴建飞": "http://people.mtime.com/1280546/", "何炅": "http://people.mtime.com/1249007/", "刘羽琦": "http://people.mtime.com/1663338/", "许绍雄": "http://people.mtime.com/925482/", "丁子烁": "http://people.mtime.com/1854451/"}
+导演：{"马伟豪": "http://people.mtime.com/892922/"}
+编剧：{"马志宇 Ma Zhi-yu": "http://people.mtime.com/1767954/", "马伟豪 Joe Ma": "http://people.mtime.com/892922/", "曹升 Cao Sheng": "http://people.mtime.com/1954310/"}
+制作人：{"于冬 Dong Yu": "http://people.mtime.com/1219891/", "邦尼 Ni Bang": "http://people.mtime.com/2231943/", "林安儿 Angie Lam": "http://people.mtime.com/1263385/", "马伟豪 Joe Ma": "http://people.mtime.com/892922/", "陈永雄 Yongxiong Chen": "http://people.mtime.com/1883549/", "余毓兴 Yu-xing Yu": "http://people.mtime.com/1858553/"}
+剪辑：{"林安儿 Angie Lam": "http://people.mtime.com/1263385/"}
+艺术指导：{"张叔平 William Chang": "http://people.mtime.com/908138/"}
+动作指导：{"聂军 Jun Nie": "http://people.mtime.com/1464720/"}
+化妆造型：{"张叔平 William Chang": "http://people.mtime.com/908138/"}

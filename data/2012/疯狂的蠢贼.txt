@@ -1,0 +1,7 @@
+_id：10477734
+year：2012
+movie_name：疯狂的蠢贼
+演员：{"王太利": "http://people.mtime.com/1799869/", "董立范": "http://people.mtime.com/1410081/", "彭波": "http://people.mtime.com/1469133/", "吴镇宇": "http://people.mtime.com/893566/", "连晋": "http://people.mtime.com/927401/", "林雪": "http://people.mtime.com/924892/", "武波": "http://people.mtime.com/1897047/", "颖儿": "http://people.mtime.com/1498822/", "高军": "http://people.mtime.com/1407909/", "那威": "http://people.mtime.com/1254857/"}
+导演：{"李凯": "http://people.mtime.com/1666251/"}
+制作人：{"李明扬 Mingyang Li": "http://people.mtime.com/1299685/"}
+摄影：{"柯星沛 Sing-Pui O": "http://people.mtime.com/893438/", "崔磊 Lei Cui": "http://people.mtime.com/1673710/"}

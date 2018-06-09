@@ -1,0 +1,13 @@
+_id：11510624
+year：2013
+movie_name：全民目击
+演员：{"郭富城": "http://people.mtime.com/928694/", "丁子烁": "http://people.mtime.com/1854451/", "邓家佳": "http://people.mtime.com/1255850/", "赵立新": "http://people.mtime.com/1406218/", "陈思诚": "http://people.mtime.com/1249267/", "余男": "http://people.mtime.com/925356/", "倪虹洁": "http://people.mtime.com/1254782/", "孙红雷": "http://people.mtime.com/956774/", "周韦彤": "http://people.mtime.com/1248663/", "佟丽娅": "http://people.mtime.com/1526778/"}
+导演：{"Fei Xing": "http://people.mtime.com/1739031/", "非行": "http://people.mtime.com/1739031/"}
+编剧：{"非行 Fei Xing": "http://people.mtime.com/1739031/"}
+制作人：{"肖凯 Kai Xiao": "http://people.mtime.com/1706874/"}
+摄影：{"谢天翔 Tianxiang Xie": "http://people.mtime.com/2107301/", "赵小丁 Xiaoding Zhao": "http://people.mtime.com/1258359/"}
+剪辑：{"邝志良 Chi-Leung Kwong": "http://people.mtime.com/1263987/", "苏立峰 li-feng Su": "http://people.mtime.com/2062701/"}
+原创音乐：{"杨卓鑫 Zhuoxin Yang": "http://people.mtime.com/1828626/"}
+美术设计：{"陈思勤 Second Chan": "http://people.mtime.com/1268353/"}
+动作指导：{"何钧 Jun He": "http://people.mtime.com/1826560/"}
+录音：{"陈岩 Yan Chen": "http://people.mtime.com/1868414/", "杜笃之 Du-Che Tu": "http://people.mtime.com/1249195/"}

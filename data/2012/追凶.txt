@@ -1,0 +1,11 @@
+_id：4903581
+year：2012
+movie_name：追凶
+演员：{"林司敏": "http://people.mtime.com/1044851/", "林雪": "http://people.mtime.com/924892/", "江美仪": "http://people.mtime.com/929027/", "骆应钧": "http://people.mtime.com/937417/", "卢惠光": "http://people.mtime.com/919365/", "刘青云": "http://people.mtime.com/923218/", "傅嘉莉": "http://people.mtime.com/1392499/", "王宝强": "http://people.mtime.com/939536/", "江若琳": "http://people.mtime.com/1278923/", "万绮雯": "http://people.mtime.com/991276/"}
+导演：{"Danny Pang": "http://people.mtime.com/892931/", "彭发": "http://people.mtime.com/892931/"}
+编剧：{"司徒锦源 Kam-Yuen Szeto": "http://people.mtime.com/893194/", "彭发 Danny Pang": "http://people.mtime.com/892931/"}
+制作人：{"张昭 Cheung Chiu": "http://people.mtime.com/1688944/", "林炳坤 Stephen Lam": "http://people.mtime.com/1216041/", "宋岱 Dai Song": "http://people.mtime.com/1427385/", "贾跃亭 Yueting Jia": "http://people.mtime.com/1881222/", "单东炳 Dongbing Shan": "http://people.mtime.com/1548797/", "彭发 Danny Pang": "http://people.mtime.com/892931/", "任月 Yue Ren": "http://people.mtime.com/2047415/", "林小明 Daniel Lam": "http://people.mtime.com/1211649/", "吴孟璋 Mengzhang Wu": "http://people.mtime.com/1448707/", "董培雯 Peiwen Dong": "http://people.mtime.com/2135851/", "林小强 Alvin Lam": "http://people.mtime.com/2083485/", "张康达 Cheung Hong-tat": "http://people.mtime.com/2047414/", "朱洁盈 Jieying Zhu": "http://people.mtime.com/2233083/", "施扬平 Yeung-Ping Sze": "http://people.mtime.com/898885/"}
+剪辑：{"彭正熙 Curran Pang": "http://people.mtime.com/1292212/"}
+原创音乐：{"伍乐城 Ronald Ng": "http://people.mtime.com/1467770/", "川井宪次 Kenji Kawai": "http://people.mtime.com/1250533/"}
+副导演/助理导演：{"Bure Li": "http://people.mtime.com/1911039/"}
+声音部门：{"Ricky Yip": "http://people.mtime.com/2231141/"}

@@ -1,0 +1,10 @@
+_id：10833923
+year：2013
+movie_name：等风来
+演员：{"格桑": "http://people.mtime.com/2015385/", "倪妮": "http://people.mtime.com/1879781/", "刘雅瑟": "http://people.mtime.com/1255683/", "陈卫": "http://people.mtime.com/1485219/", "井柏然": "http://people.mtime.com/1575942/", "刘孜": "http://people.mtime.com/1095139/"}
+导演：{"滕华涛": "http://people.mtime.com/1095135/"}
+编剧：{"鲍鲸鲸 Jingjing Bao": "http://people.mtime.com/1762467/"}
+制作人：{"江志强 Bill Kong": "http://people.mtime.com/1165382/", "滕华涛 Huatao Teng": "http://people.mtime.com/1095135/", "韩三平 Sanping Han": "http://people.mtime.com/1206936/", "古永锵 Victor Koo": "http://people.mtime.com/1934688/", "谌荣 Rong Chen": "http://people.mtime.com/1877758/", "钟石 Shi Zhong": "http://people.mtime.com/2063415/", "郝为 Wei Hao": "http://people.mtime.com/1877761/"}
+摄影：{"曹盾 Dun Cao": "http://people.mtime.com/1873875/"}
+原创音乐：{"林朝阳 Chaoyang Lin": "http://people.mtime.com/1691622/", "丁薇 Wei Ding": "http://people.mtime.com/1865295/"}
+美术设计：{"杨志家 Zhijia Yang": "http://people.mtime.com/1877762/"}

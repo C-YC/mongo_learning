@@ -1,0 +1,12 @@
+_id：10600271
+year：2013
+movie_name：圣诞玫瑰
+演员：{"郭富城": "http://people.mtime.com/928694/", "张同祖": "http://people.mtime.com/893053/", "桂纶镁": "http://people.mtime.com/953381/", "甘国亮": "http://people.mtime.com/994394/", "廖启智": "http://people.mtime.com/924271/", "张震": "http://people.mtime.com/925071/", "夏文汐": "http://people.mtime.com/954566/", "施予斐": "http://people.mtime.com/1292819/", "夏雨": "http://people.mtime.com/917382/", "秦海璐": "http://people.mtime.com/956797/", "万茜": "http://people.mtime.com/1270288/", "李绮虹": "http://people.mtime.com/994402/"}
+导演：{"Charlie Yeung": "http://people.mtime.com/928503/", "杨采妮": "http://people.mtime.com/928503/"}
+编剧：{"吕冠南 Guannan Lv": "http://people.mtime.com/1280068/", "杨采妮 Charlie Yeung": "http://people.mtime.com/928503/"}
+制作人：{"于冬 Dong Yu": "http://people.mtime.com/1219891/", "沈畅 Chang Shen": "http://people.mtime.com/1254872/", "张之亮 Jacob Cheung": "http://people.mtime.com/893002/", "徐克 Hark Tsui": "http://people.mtime.com/892903/"}
+摄影：{"陈志英 Chi-ying Chan": "http://people.mtime.com/1269016/", "钟有添 Henry Chung": "http://people.mtime.com/1394836/", "张东亮 Tony Cheung": "http://people.mtime.com/1268343/"}
+剪辑：{"钟炜钊 Wai Chiu Chung": "http://people.mtime.com/1483772/"}
+原创音乐：{"金培达 Peter Kam": "http://people.mtime.com/1258944/"}
+艺术指导：{"夏永康 Wing Shya": "http://people.mtime.com/903078/"}
+美术设计：{"王慧茵 Hui-yin Wang": "http://people.mtime.com/1881269/"}

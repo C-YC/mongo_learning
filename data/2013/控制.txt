@@ -1,0 +1,11 @@
+_id：10604087
+year：2013
+movie_name：控制
+演员：{"吴彦祖": "http://people.mtime.com/924666/", "姚晨": "http://people.mtime.com/1252497/", "聂远": "http://people.mtime.com/1175792/", "王馨平": "http://people.mtime.com/1249923/", "安以轩": "http://people.mtime.com/1176670/", "冯嘉怡": "http://people.mtime.com/1966196/", "戴立忍": "http://people.mtime.com/892836/", "惠英红": "http://people.mtime.com/924890/", "郝柏杰": "http://people.mtime.com/1251745/", "邵兵": "http://people.mtime.com/939291/", "李光洁": "http://people.mtime.com/1290966/", "任达华": "http://people.mtime.com/916259/"}
+导演：{"毕国智": "http://people.mtime.com/903672/"}
+编剧：{"毕国智 Kenneth Bi": "http://people.mtime.com/903672/"}
+制作人：{"王中磊 Zhonglei Wang": "http://people.mtime.com/1210323/", "林炳坤 Stephen Lam": "http://people.mtime.com/1216041/", "方平 Henry Fong": "http://people.mtime.com/1258063/", "冯德伦 Stephen Fung": "http://people.mtime.com/893086/"}
+摄影：{"Roman Jakobi": "http://people.mtime.com/1423171/"}
+美术设计：{"莫少宗 Alex Mok": "http://people.mtime.com/1272685/"}
+服装设计：{"刘天兰 Tina Lau": "http://people.mtime.com/1009150/"}
+视觉特效：{"方威明 Nickson Fong": "http://people.mtime.com/2067207/"}

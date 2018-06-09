@@ -1,0 +1,11 @@
+_id：10604892
+year：2013
+movie_name：四大名捕2
+演员：{"郑中基": "http://people.mtime.com/939702/", "黄秋生": "http://people.mtime.com/899554/", "邓萃雯": "http://people.mtime.com/986403/", "刘亦菲": "http://people.mtime.com/1176638/", "吴映洁": "http://people.mtime.com/1409366/", "苗驰": "http://people.mtime.com/1949480/", "吴秀波": "http://people.mtime.com/1254696/", "李宛真": "http://people.mtime.com/2224896/", "李子雄": "http://people.mtime.com/954981/", "张煜雯": "http://people.mtime.com/2224891/", "周海媚": "http://people.mtime.com/991274/", "高天": "http://people.mtime.com/1547812/", "成泰燊": "http://people.mtime.com/931985/", "包贝尔": "http://people.mtime.com/1654566/", "李欣烨": "http://people.mtime.com/2161919/", "江一燕": "http://people.mtime.com/1251642/", "刘俊伟": "http://people.mtime.com/1414138/", "张兆辉": "http://people.mtime.com/929031/", "郭滔": "http://people.mtime.com/2224894/", "高天照": "http://people.mtime.com/2224892/", "李善玉": "http://people.mtime.com/2224895/", "向恬冉": "http://people.mtime.com/1949481/", "邹兆龙": "http://people.mtime.com/1248788/", "曹炳琨": "http://people.mtime.com/1748513/", "邓超": "http://people.mtime.com/1256584/", "李唯": "http://people.mtime.com/2224893/", "柳岩": "http://people.mtime.com/1716128/", "卢惠光": "http://people.mtime.com/919365/", "于承惠": "http://people.mtime.com/1052306/", "邱晔": "http://people.mtime.com/2077067/"}
+导演：{"秦小珍": "http://people.mtime.com/1531158/", "Janet Chun": "http://people.mtime.com/1531158/", "陈嘉上": "http://people.mtime.com/892814/", "Gordon Chan": "http://people.mtime.com/892814/"}
+编剧：{"温瑞安 Wenrui An": "http://people.mtime.com/1918490/", "陈嘉上 Gordon Chan": "http://people.mtime.com/892814/"}
+制作人：{"陈嘉上 Gordon Chan": "http://people.mtime.com/892814/"}
+摄影：{"黎耀辉 Yiu-Fai Lai": "http://people.mtime.com/1297701/"}
+剪辑：{"陈祺合 Ki-hop Chan": "http://people.mtime.com/1265703/"}
+原创音乐：{"黎允文 Henry Lai": "http://people.mtime.com/1565056/"}
+动作指导：{"谷轩昭 Ku Huen Chiu": "http://people.mtime.com/1612776/"}

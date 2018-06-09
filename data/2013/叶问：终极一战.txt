@@ -1,0 +1,13 @@
+_id：10794042
+year：2013
+movie_name：叶问：终极一战
+演员：{"王梓轩": "http://people.mtime.com/1721535/", "熊欣欣": "http://people.mtime.com/1007935/", "黄秋生": "http://people.mtime.com/899554/", "周楚楚": "http://people.mtime.com/1723589/", "曾志伟": "http://people.mtime.com/893302/", "廖启智": "http://people.mtime.com/924271/", "卢惠光": "http://people.mtime.com/919365/", "王祖蓝": "http://people.mtime.com/1426187/", "叶准": "http://people.mtime.com/1707526/", "钟欣潼": "http://people.mtime.com/923221/", "蒋璐霞": "http://people.mtime.com/1551279/", "袁咏仪": "http://people.mtime.com/999881/", "陈小春": "http://people.mtime.com/923220/", "周定宇": "http://people.mtime.com/1959588/", "洪天明": "http://people.mtime.com/1249368/"}
+导演：{"邱礼涛": "http://people.mtime.com/892937/", "Herman Yau": "http://people.mtime.com/892937/"}
+编剧：{"李敏 Min Li": "http://people.mtime.com/1645177/"}
+制作人：{"刘荣 Rong Liu": "http://people.mtime.com/1526185/", "冯志伟 Zhiwei Feng": "http://people.mtime.com/2019286/", "利亚博 Ya Bo LI": "http://people.mtime.com/2019287/", "冼国林 Guolin Xian": "http://people.mtime.com/1720906/"}
+摄影：{"陈广鸿 Joe Chan": "http://people.mtime.com/1115031/"}
+剪辑：{"钟炜钊 Wai Chiu Chung": "http://people.mtime.com/1483772/"}
+原创音乐：{"麦振鸿 Brother Hung": "http://people.mtime.com/1483869/"}
+美术设计：{"陈锦河 Raymond Chan": "http://people.mtime.com/1427825/"}
+服装设计：{"庄志良 Thomas Chong": "http://people.mtime.com/1408644/"}
+动作指导：{"李忠志 Nicky Li": "http://people.mtime.com/1001544/", "冼国林 Guolin Xian": "http://people.mtime.com/1720906/"}

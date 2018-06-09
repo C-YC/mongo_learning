@@ -1,0 +1,12 @@
+_id：10736586
+year：2013
+movie_name：在一起
+演员：{"杨颖": "http://people.mtime.com/1466940/", "葛民辉": "http://people.mtime.com/893564/", "周慧淑": "http://people.mtime.com/2226170/", "卓韵芝": "http://people.mtime.com/893481/", "钟承翰": "http://people.mtime.com/2108304/", "朱自然": "http://people.mtime.com/2226173/", "陈滢": "http://people.mtime.com/2226189/", "高尔衍": "http://people.mtime.com/2226171/", "苑琼丹": "http://people.mtime.com/957608/", "甄子丹": "http://people.mtime.com/893008/", "陈妍希": "http://people.mtime.com/1469655/", "张闻天": "http://people.mtime.com/2226180/", "陈凯恩": "http://people.mtime.com/1736687/", "余晓彤": "http://people.mtime.com/2035602/", "李任乐": "http://people.mtime.com/2226177/", "周秀娜": "http://people.mtime.com/1693776/", "周祉君": "http://people.mtime.com/2226168/", "黄芳雯": "http://people.mtime.com/2226179/", "黄燕强": "http://people.mtime.com/954425/", "张同祖": "http://people.mtime.com/893053/", "麦长青": "http://people.mtime.com/1009155/", "柯震东": "http://people.mtime.com/1779010/", "陆永": "http://people.mtime.com/1531161/", "黄宗泽": "http://people.mtime.com/1259794/", "何浩文": "http://people.mtime.com/1662321/", "金刚": "http://people.mtime.com/1251544/", "C君": "http://people.mtime.com/1531159/", "Aaron Chow": "http://people.mtime.com/2226194/", "李鸿基": "http://people.mtime.com/2226172/", "姚坤君": "http://people.mtime.com/1686915/", "陈辉虹": "http://people.mtime.com/927476/", "林零原": "http://people.mtime.com/2226190/", "Hans Chung": "http://people.mtime.com/2226193/", "许绍雄": "http://people.mtime.com/925482/"}
+导演：{"Clarence Fok Yiu-leung": "http://people.mtime.com/892868/", "霍耀良": "http://people.mtime.com/892868/"}
+编剧：{"罗耀辉 Yiu-Fai Law": "http://people.mtime.com/902720/"}
+制作人：{"蔡崇辉 Sung Fai Choi": "http://people.mtime.com/1427824/", "陈润生 Run-sheng Chen": "http://people.mtime.com/1897221/", "韩三平 Sanping Han": "http://people.mtime.com/1206936/", "阎晓明 Xiaoming Yan": "http://people.mtime.com/1508277/", "董海泓 Hai-hong Dong": "http://people.mtime.com/1857061/", "董朝晖 Zhao-hui Dong": "http://people.mtime.com/1855850/", "董平 Ping Dong": "http://people.mtime.com/1248109/"}
+摄影：{"谢忠道 Chung-to Tse": "http://people.mtime.com/1324813/"}
+原创音乐：{"刘伟 Wei Liu": "http://people.mtime.com/1249012/"}
+美术设计：{"梁乐民 Lok Man Leung": "http://people.mtime.com/1874414/"}
+服装设计：{"张世杰 Stanley Cheung": "http://people.mtime.com/1308080/"}
+副导演/助理导演：{"阚家伟 Jia Wei Kan": "http://people.mtime.com/1990130/", "郭乐 Le Guo": "http://people.mtime.com/1748556/"}

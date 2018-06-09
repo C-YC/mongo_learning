@@ -1,0 +1,15 @@
+_id：6531251
+year：2012
+movie_name：车在囧途
+演员：{"瞿颖": "http://people.mtime.com/929638/", "高鑫": "http://people.mtime.com/988632/", "叮当": "http://people.mtime.com/1177568/", "许韶洋": "http://people.mtime.com/1254892/", "张馨予": "http://people.mtime.com/1784933/", "潘长江": "http://people.mtime.com/987362/", "刘朵朵": "http://people.mtime.com/1900534/", "郭德纲": "http://people.mtime.com/1249054/", "吕博曦": "http://people.mtime.com/1901827/", "潘斌龙": "http://people.mtime.com/1900535/", "高军": "http://people.mtime.com/1407909/", "王一楠": "http://people.mtime.com/1307686/", "周晓鸥": "http://people.mtime.com/1420892/", "侯震": "http://people.mtime.com/1900533/", "于谦": "http://people.mtime.com/1257967/"}
+导演：{"Jiming Bao": "http://people.mtime.com/1843117/", "Yuan Hua": "http://people.mtime.com/1719257/", "华原": "http://people.mtime.com/1719257/", "鲍积明": "http://people.mtime.com/1843117/"}
+编剧：{"殷国军 Guo-jun Yin": "http://people.mtime.com/1900537/", "华原 Yuan Hua": "http://people.mtime.com/1719257/"}
+制作人：{"胡力夫 Li-fu Hu": "http://people.mtime.com/1900536/", "赵葆华 Baohua Zhao": "http://people.mtime.com/1176034/", "孙瑞敏 Ruimin Sun": "http://people.mtime.com/1843120/"}
+摄影：{"郑民强 Minqiang Zheng": "http://people.mtime.com/1894287/"}
+剪辑：{"王楠 Nan Wang": "http://people.mtime.com/1900539/"}
+原创音乐：{"周火 Huo Zhou": "http://people.mtime.com/1900540/"}
+美术设计：{"于迪 Di Yu": "http://people.mtime.com/1900541/"}
+服装设计：{"余克玉 Ke-yu Yu": "http://people.mtime.com/1857626/", "杜婷婷 Tingting Du": "http://people.mtime.com/1900542/"}
+视觉特效：{"汪壮 Zhuang Wang": "http://people.mtime.com/1843118/"}
+副导演/助理导演：{"刘大鹏 Da-peng Liu": "http://people.mtime.com/1900538/"}
+录音：{"李伯江 Bojiang Li": "http://people.mtime.com/1783175/"}

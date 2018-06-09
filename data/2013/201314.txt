@@ -1,0 +1,12 @@
+_id：19962579
+year：2013
+movie_name：201314
+演员：{"姜潮": "http://people.mtime.com/1802001/", "牛群": "http://people.mtime.com/1251627/", "郭鑫": "http://people.mtime.com/1533630/", "金晨": "http://people.mtime.com/1836618/", "朱芷玄": "http://people.mtime.com/1990418/", "王璐瑶": "http://people.mtime.com/1249673/", "邵思涵": "http://people.mtime.com/1990416/", "郭晓然": "http://people.mtime.com/1539085/"}
+导演：{"孔令晨": "http://people.mtime.com/1269888/", "Lingchen Kong": "http://people.mtime.com/1269888/"}
+编剧：{"高超 Chiu Ko": "http://people.mtime.com/1595900/", "朱博文 Bowen Gao": "http://people.mtime.com/1990422/", "啸杨 Yang Xiao": "http://people.mtime.com/1993635/"}
+制作人：{"韩晓黎 Xiaoli Han": "http://people.mtime.com/1802406/", "付兴勇 Xingyong Fu": "http://people.mtime.com/1993636/", "韩三平 Sanping Han": "http://people.mtime.com/1206936/", "赵海城 Haicheng Zhao": "http://people.mtime.com/1224565/", "朱玮杰 Weijie Zhu": "http://people.mtime.com/1990676/", "高晓松 Xiaosong Gao": "http://people.mtime.com/893224/"}
+摄影：{"崔磊 Lei Cui": "http://people.mtime.com/1673710/"}
+剪辑：{"唐小希 Xiaoxi Tang": "http://people.mtime.com/1993638/"}
+原创音乐：{"DJ Hunter": "http://people.mtime.com/1993639/"}
+美术设计：{"邸琨 Kun Di": "http://people.mtime.com/1762598/"}
+录音：{"张紫龙 Zilong Zhang": "http://people.mtime.com/1993637/"}

@@ -1,0 +1,14 @@
+_id：6011806
+year：2013
+movie_name：厨子戏子痞子
+演员：{"木幡龙": "http://people.mtime.com/1627462/", "黑木真二": "http://people.mtime.com/2133676/", "王迅": "http://people.mtime.com/1594217/", "梁静": "http://people.mtime.com/1176295/", "刘烨": "http://people.mtime.com/917288/", "张涵予": "http://people.mtime.com/1250877/", "张鲁一": "http://people.mtime.com/1281008/", "大冢匡将": "http://people.mtime.com/1565042/", "黄渤": "http://people.mtime.com/1249885/", "田中千绘": "http://people.mtime.com/1476356/"}
+导演：{"管虎": "http://people.mtime.com/906769/"}
+编剧：{"董润年 Run Nian Dong": "http://people.mtime.com/2019198/", "管虎 Hu Guan": "http://people.mtime.com/906769/"}
+制作人：{"常继红": "http://people.mtime.com/2022413/", "焦爱民 Aimin Jiao": "http://people.mtime.com/1539157/", "王长田 Changtian Wang": "http://people.mtime.com/1485748/", "黄渤 Bo Huang": "http://people.mtime.com/1249885/", "管虎 Hu Guan": "http://people.mtime.com/906769/", "李晓萍 Xiaoping Li": "http://people.mtime.com/1816581/", "徐铁军": "http://people.mtime.com/2022412/", "张涵予 Hanyu Zhang": "http://people.mtime.com/1250877/", "刘烨 Ye Liu": "http://people.mtime.com/917288/", "老费": "http://people.mtime.com/2022414/", "朱文玖 Wenjiu Zhu": "http://people.mtime.com/2022411/"}
+摄影：{"杜杰 Jie Du": "http://people.mtime.com/1531690/"}
+剪辑：{"孔劲蕾 Jing Lei Kong": "http://people.mtime.com/1297482/"}
+原创音乐：{"窦鹏 Dou Peng": "http://people.mtime.com/1951520/", "Chao Yang Lin": "http://people.mtime.com/2021734/", "Ding Wei": "http://people.mtime.com/2021735/"}
+艺术指导：{"Chao Hui Wang": "http://people.mtime.com/2021736/", "赵海 Hai Zhao": "http://people.mtime.com/1866182/"}
+美术设计：{"赵海 Hai Zhao": "http://people.mtime.com/1866182/"}
+服装设计：{"Ting Ting Liang": "http://people.mtime.com/2021737/"}
+录音：{"赵甦晨 Suchen Zhao": "http://people.mtime.com/2022415/"}

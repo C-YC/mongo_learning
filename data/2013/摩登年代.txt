@@ -1,0 +1,11 @@
+_id：23856234
+year：2013
+movie_name：摩登年代
+演员：{"肖央": "http://people.mtime.com/1799853/", "王太利": "http://people.mtime.com/1799869/", "徐峥": "http://people.mtime.com/1248675/", "杜鹏": "http://people.mtime.com/1769918/", "张子枫": "http://people.mtime.com/1744726/", "王宣予": "http://people.mtime.com/2031368/", "岳小军": "http://people.mtime.com/1249088/", "张颂文": "http://people.mtime.com/1724328/"}
+导演：{"Peng Du": "http://people.mtime.com/1769918/", "邵晓黎": "http://people.mtime.com/2031365/", "杜鹏": "http://people.mtime.com/1769918/", "Xiao Li Shao": "http://people.mtime.com/2031365/"}
+编剧：{"杜鹏 Peng Du": "http://people.mtime.com/1769918/", "邵晓黎 Xiao Li Shao": "http://people.mtime.com/2031365/", "高巍 Wei Gao": "http://people.mtime.com/2031366/", "宁岱 Dai Ning": "http://people.mtime.com/893260/"}
+制作人：{"邵晓黎 Xiao Li Shao": "http://people.mtime.com/2031365/", "林海 Hai Lin": "http://people.mtime.com/1525228/", "刘红兵 Hong-bing Liu": "http://people.mtime.com/2028826/", "刘蕴洁": "http://people.mtime.com/2060604/", "张群 Qun Zhang": "http://people.mtime.com/1900562/", "陈一奇 Chen Yiqi": "http://people.mtime.com/2060603/", "王韶枫 Frank": "http://people.mtime.com/2060605/", "刘荣 Rong Liu": "http://people.mtime.com/1526185/", "田振山": "http://people.mtime.com/2060602/"}
+摄影：{"肖蔚鸿 Weihong Xiao": "http://people.mtime.com/1753099/"}
+剪辑：{"江勇 Yong Jiang": "http://people.mtime.com/1847773/"}
+美术设计：{"翁羽 Yu Weng": "http://people.mtime.com/1504976/"}
+录音：{"陆洪 Hong Lu": "http://people.mtime.com/1691623/"}

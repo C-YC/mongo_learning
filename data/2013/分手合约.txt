@@ -1,0 +1,11 @@
+_id：19973815
+year：2013
+movie_name：分手合约
+演员：{"杨明": "http://people.mtime.com/2212390/", "彭于晏": "http://people.mtime.com/1257087/", "张彩虹": "http://people.mtime.com/2228282/", "赵英俊": "http://people.mtime.com/1655005/", "崔汉基": "http://people.mtime.com/2030671/", "郑燕生": "http://people.mtime.com/2228287/", "李红陶": "http://people.mtime.com/1898483/", "Khan": "http://people.mtime.com/2228274/", "于彦凯": "http://people.mtime.com/1259148/", "邓安奇": "http://people.mtime.com/1754384/", "牟星": "http://people.mtime.com/1813667/", "张宝龙": "http://people.mtime.com/2228276/", "林美秀": "http://people.mtime.com/1451514/", "陈新年": "http://people.mtime.com/2228273/", "潘磊": "http://people.mtime.com/2228280/", "李兵": "http://people.mtime.com/2228278/", "傅传杰": "http://people.mtime.com/1895545/", "兰玉": "http://people.mtime.com/2228271/", "王道铁 ": "http://people.mtime.com/2087093/", "吴佩慈": "http://people.mtime.com/968571/", "李瑶": "http://people.mtime.com/1802044/", "吴思凡": "http://people.mtime.com/2228270/", "陈孟奇": "http://people.mtime.com/2178387/", "兰玉珍": "http://people.mtime.com/1256961/", "林云秀": "http://people.mtime.com/2228277/", "刘二东": "http://people.mtime.com/2062024/", "陶帅": "http://people.mtime.com/1751544/", "李宝罗": "http://people.mtime.com/2228275/", "白百何": "http://people.mtime.com/1413704/", "憨勇": "http://people.mtime.com/2228289/", "周士斌": "http://people.mtime.com/2228272/", "张静怡": "http://people.mtime.com/1911299/", "蒋劲夫": "http://people.mtime.com/1876167/", "史万城": "http://people.mtime.com/2228281/", "翟汇杰": "http://people.mtime.com/2228284/", "朴云": "http://people.mtime.com/2228285/", "项昌群": "http://people.mtime.com/2225421/"}
+导演：{"吴基桓": "http://people.mtime.com/903671/", "Ki-hwan Oh": "http://people.mtime.com/903671/"}
+编剧：{"秦海燕 Hai Yan QIn": "http://people.mtime.com/2017568/", "阿美": "http://people.mtime.com/2030669/", "郭菲菲": "http://people.mtime.com/2030670/", "崔汉基": "http://people.mtime.com/2030671/"}
+制作人：{"韩三平 Sanping Han": "http://people.mtime.com/1206936/"}
+摄影：{"金荣号 Young-Ho Kim": "http://people.mtime.com/1279997/"}
+剪辑：{"辛玟暻": "http://people.mtime.com/2199686/"}
+原创音乐：{"李智洙 Ji-soo Lee": "http://people.mtime.com/1981935/"}
+美术设计：{"江汉林 Hanlin Jiang": "http://people.mtime.com/1799441/"}

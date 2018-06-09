@@ -1,0 +1,13 @@
+_id：11529526
+year：2013
+movie_name：中国合伙人
+演员：{"贝蒂娜·斯凯": "http://people.mtime.com/1016262/", "刘天佐": "http://people.mtime.com/1409231/", "公翠英": "http://people.mtime.com/2230047/", "冯仑": "http://people.mtime.com/2043642/", "张籽沐": "http://people.mtime.com/2047362/", "佟磊": "http://people.mtime.com/1266333/", "凯瑟琳·吉普森": "http://people.mtime.com/1136386/", "罗伊·波拉克": "http://people.mtime.com/1942143/", "科莱雅·阔克": "http://people.mtime.com/2230033/", "黄晓明": "http://people.mtime.com/1249959/", "佟大为": "http://people.mtime.com/944769/", "丹尼尔·马丁·伯基": "http://people.mtime.com/1559957/", "William Yuekun Wu": "http://people.mtime.com/2084277/", "闫锐": "http://people.mtime.com/2225200/", "特蕾西·伊尔格纳": "http://people.mtime.com/2230048/", "毛大庆": "http://people.mtime.com/2230043/", "安东尼·桑托罗": "http://people.mtime.com/1920278/", "约翰·泰勒": "http://people.mtime.com/2230046/", "杨秩": "http://people.mtime.com/2230039/", "王振": "http://people.mtime.com/1551165/", "巴巴拉·莫利": "http://people.mtime.com/2025674/", "杜鹃": "http://people.mtime.com/1838134/", "邓超": "http://people.mtime.com/1256584/", "张跃德": "http://people.mtime.com/1257834/", "艾梓童": "http://people.mtime.com/2230049/", "杨晨": "http://people.mtime.com/2084285/", "唐晓峰": "http://people.mtime.com/2230037/", "凯特琳·菲茨杰拉德": "http://people.mtime.com/1581105/", "柏明": "http://people.mtime.com/2084291/", "田朴珺": "http://people.mtime.com/1497263/", "艾伦·恩洛": "http://people.mtime.com/1529168/", "乔治·安东": "http://people.mtime.com/1974642/"}
+导演：{"陈可辛": "http://people.mtime.com/892817/"}
+编剧：{"林爱华 Oi Wah Lam": "http://people.mtime.com/892899/", "张冀 Zhang Ji": "http://people.mtime.com/2037400/", "周智勇 Zhiyong Zhou": "http://people.mtime.com/1673717/"}
+制作人：{"江志强 Bill Kong": "http://people.mtime.com/1165382/", "覃宏 Hong Qin": "http://people.mtime.com/1804579/", "田朴珺 meme": "http://people.mtime.com/1497263/", "林建岳 Peter Lam": "http://people.mtime.com/1489940/", "韩三平 Sanping Han": "http://people.mtime.com/1206936/", "何丽嫦 Lorraine Ho": "http://people.mtime.com/1418988/", "赵海城 Haicheng Zhao": "http://people.mtime.com/1224565/", "张强 Qiang Zhang": "http://people.mtime.com/1858603/", "许月珍 Jo Jo Hui": "http://people.mtime.com/893149/", "陈可辛 Peter Chan": "http://people.mtime.com/892817/"}
+摄影：{"杜可风 Christopher Doyle": "http://people.mtime.com/1011303/"}
+剪辑：{"肖洋 Yang Xiao": "http://people.mtime.com/1700603/"}
+原创音乐：{"金培达 Peter Kam": "http://people.mtime.com/1258944/"}
+美术设计：{"孙立 Li Sun": "http://people.mtime.com/1842665/"}
+服装设计：{"吴里璐 Dora Ng": "http://people.mtime.com/1263991/"}
+副导演/助理导演：{"Patricia Yi": "http://people.mtime.com/2019326/"}

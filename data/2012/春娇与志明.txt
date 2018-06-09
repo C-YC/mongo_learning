@@ -1,0 +1,12 @@
+_id：6386345
+year：2012
+movie_name：春娇与志明
+演员：{"杨千嬅": "http://people.mtime.com/925980/", "林兆霞": "http://people.mtime.com/1906418/", "詹瑞文": "http://people.mtime.com/929025/", "魏雨琦": "http://people.mtime.com/1905835/", "司徒慧焯": "http://people.mtime.com/893279/", "田蕊妮": "http://people.mtime.com/939705/", "郝蕾": "http://people.mtime.com/1177689/", "黄晓明": "http://people.mtime.com/1249959/", "郑伊健": "http://people.mtime.com/925480/", "曾国祥": "http://people.mtime.com/991253/", "杨幂": "http://people.mtime.com/1249009/", "陈逸宁": "http://people.mtime.com/991256/", "尹志文": "http://people.mtime.com/1749211/", "余文乐": "http://people.mtime.com/924884/", "马诺": "http://people.mtime.com/1852584/", "谷德昭": "http://people.mtime.com/892851/", "王太利": "http://people.mtime.com/1799869/", "徐峥": "http://people.mtime.com/1248675/", "谷祖琳": "http://people.mtime.com/934067/", "王馨平": "http://people.mtime.com/1249923/", "彭浩翔": "http://people.mtime.com/892929/", "邵音音": "http://people.mtime.com/1161514/"}
+导演：{"Ho-Cheung Pang": "http://people.mtime.com/892929/", "彭浩翔": "http://people.mtime.com/892929/"}
+编剧：{"彭浩翔 Ho-Cheung Pang": "http://people.mtime.com/892929/", "陆以心 Luk Yee-sum": "http://people.mtime.com/1857001/"}
+制作人：{"史东明 Dongming Shi": "http://people.mtime.com/1216012/", "庄澄 John Chong": "http://people.mtime.com/1174198/"}
+摄影：{"关智耀 Jason Kwan": "http://people.mtime.com/1668362/"}
+剪辑：{"李栋全 Wenbers Li Tung-Chuen": "http://people.mtime.com/1008127/"}
+美术设计：{"文念中 Lim-chung Man": "http://people.mtime.com/1275028/"}
+服装设计：{"黄家仪 Phoebe Wong": "http://people.mtime.com/1265610/"}
+录音：{"杜笃之 Du-Che Tu": "http://people.mtime.com/1249195/"}

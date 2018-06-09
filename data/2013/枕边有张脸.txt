@@ -1,0 +1,10 @@
+_id：19962668
+year：2013
+movie_name：枕边有张脸
+演员：{"王芯": "http://people.mtime.com/2230342/", "赵叶索": "http://people.mtime.com/2229872/", "王翀": "http://people.mtime.com/1760575/", "耿英埔": "http://people.mtime.com/2230340/", "赵仕瑾": "http://people.mtime.com/1779233/", "陶慧": "http://people.mtime.com/1267318/", "吴其江": "http://people.mtime.com/1850623/", "刘妙": "http://people.mtime.com/2225557/"}
+导演：{"赵小溪": "http://people.mtime.com/1731605/"}
+编剧：{"牛朝杰 Chaojie Niu": "http://people.mtime.com/1871943/"}
+制作人：{"牛朝杰 Chaojie Niu": "http://people.mtime.com/1871943/"}
+摄影：{"佟志坚 Zhi-jian Tong": "http://people.mtime.com/1859045/"}
+美术设计：{"钟城 Cheng Zhong": "http://people.mtime.com/2050107/"}
+录音：{"曲鹏 Peng Qu": "http://people.mtime.com/2045149/"}

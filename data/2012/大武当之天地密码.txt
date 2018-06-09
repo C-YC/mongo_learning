@@ -1,0 +1,14 @@
+_id：6957273
+year：2012
+movie_name：大武当之天地密码
+演员：{"樊少皇": "http://people.mtime.com/996604/", "杜宇航": "http://people.mtime.com/1607898/", "肖向飞": "http://people.mtime.com/2230950/", "鲍起静": "http://people.mtime.com/934143/", "徐娇": "http://people.mtime.com/1427169/", "周洋": "http://people.mtime.com/2230976/", "刘家瑜": "http://people.mtime.com/2203885/", "梁家仁": "http://people.mtime.com/893450/", "方平": "http://people.mtime.com/1258063/", "杨幂": "http://people.mtime.com/1249009/", "赵文卓": "http://people.mtime.com/987001/", "王渝颖": "http://people.mtime.com/2230949/", "谭俊彦": "http://people.mtime.com/938675/", "王骁": "http://people.mtime.com/1859494/", "王梓乔": "http://people.mtime.com/2230957/", "田瑞辉": "http://people.mtime.com/2225906/"}
+导演：{"Patrick Leung": "http://people.mtime.com/892820/", "梁柏坚": "http://people.mtime.com/892820/"}
+编剧：{"陈汗 Khan Chan": "http://people.mtime.com/1173185/"}
+制作人：{"梁诗敏 Shimin Liang": "http://people.mtime.com/2230986/", "叶翠诗 Cuishi Ye": "http://people.mtime.com/2230987/", "刘惠东 Hui Dong Liu": "http://people.mtime.com/1861093/", "白俭成 Jiancheng Bai": "http://people.mtime.com/2230977/", "周丕学 Pixue Zhou": "http://people.mtime.com/1778330/", "唐庆枝 Patrick Tong": "http://people.mtime.com/1427498/", "王守琴 Shouqin Wang": "http://people.mtime.com/2228776/", "陈汗 Khan Chan": "http://people.mtime.com/1173185/", "李国林 Guolin Li": "http://people.mtime.com/2228775/", "李发平 Faping Li": "http://people.mtime.com/2230980/", "王卫民 Weimin Wang": "http://people.mtime.com/2230979/", "唐中新 Zhongxin Tang": "http://people.mtime.com/2230981/", "苏晓山 Xiaoshan Su": "http://people.mtime.com/2230983/", "周耀山 Yaoshan Zhou": "http://people.mtime.com/2225269/", "王薇 Wang Wei": "http://people.mtime.com/1207014/", "卓伍 Zhuo Wu": "http://people.mtime.com/1471134/", "李国兴 Kwok-Hing Lee": "http://people.mtime.com/1211850/"}
+摄影：{"张东亮 Tony Cheung": "http://people.mtime.com/1268343/"}
+剪辑：{"张嘉辉 Kar Fei Cheung": "http://people.mtime.com/1320614/"}
+原创音乐：{"罗坚 Lincoln Lo": "http://people.mtime.com/1316353/"}
+艺术指导：{"和田惠美 Emi Wada": "http://people.mtime.com/1259774/"}
+美术设计：{"黄海光 Chris Wong": "http://people.mtime.com/1424157/", "黄家能 Eddie Wong": "http://people.mtime.com/1791768/"}
+服装设计：{"关美宝 Mei Bo Gwaan": "http://people.mtime.com/1450974/"}
+动作指导：{"元奎 Corey Yuen": "http://people.mtime.com/892772/"}

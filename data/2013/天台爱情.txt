@@ -1,0 +1,15 @@
+_id：10833924
+year：2013
+movie_name：天台爱情
+演员：{"杨瑞代": "http://people.mtime.com/1951549/", "姜大卫": "http://people.mtime.com/938677/", "柯有伦": "http://people.mtime.com/1600397/", "曾志伟": "http://people.mtime.com/893302/", "王学圻": "http://people.mtime.com/941428/", "李心艾": "http://people.mtime.com/2044189/", "钟镇涛": "http://people.mtime.com/893482/", "周杰伦": "http://people.mtime.com/943799/", "弹头": "http://people.mtime.com/1656091/", "徐帆": "http://people.mtime.com/939394/", "纳豆": "http://people.mtime.com/1409372/", "傅艺伟": "http://people.mtime.com/1088592/", "黄俊郎": "http://people.mtime.com/2053785/"}
+导演：{"周杰伦": "http://people.mtime.com/943799/"}
+编剧：{"周杰伦 Jay Chou": "http://people.mtime.com/943799/"}
+制作人：{"黄志明 Wong Chi Ming": "http://people.mtime.com/1721529/", "刘畊宏 Will Liu": "http://people.mtime.com/1476351/"}
+摄影：{"李屏宾 Pin Bing Lee": "http://people.mtime.com/1248966/"}
+剪辑：{"李栋全 Wenbers Li Tung-Chuen": "http://people.mtime.com/1008127/"}
+原创音乐：{"黄雨勋 Yuxun Huang": "http://people.mtime.com/2033747/", "周杰伦 Jay Chou": "http://people.mtime.com/943799/"}
+艺术指导：{"赤塚佳仁 Yoshihito Akatsuka": "http://people.mtime.com/1264193/"}
+美术设计：{"浅野诚 Makoto Asano": "http://people.mtime.com/2059579/", "李淼 Miao-Li": "http://people.mtime.com/1858576/"}
+服装设计：{"吴里璐 Dora Ng": "http://people.mtime.com/1263991/"}
+动作指导：{"梁吉泳 Gil-yeong Yang": "http://people.mtime.com/1716253/"}
+录音：{"杜笃之 Du-Che Tu": "http://people.mtime.com/1249195/"}

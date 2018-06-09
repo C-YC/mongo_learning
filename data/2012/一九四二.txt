@@ -1,0 +1,15 @@
+_id：6011805
+year：2012
+movie_name：一九四二
+演员：{"张国强": "http://people.mtime.com/1465290/", "李易祥": "http://people.mtime.com/939535/", "张默": "http://people.mtime.com/1268055/", "苏有朋": "http://people.mtime.com/996615/", "徐帆": "http://people.mtime.com/939394/", "段奕宏": "http://people.mtime.com/1269810/", "冯远征": "http://people.mtime.com/925888/", "范伟": "http://people.mtime.com/1175791/", "赵毅": "http://people.mtime.com/1248950/", "张国立": "http://people.mtime.com/939396/", "张嘉译": "http://people.mtime.com/1249153/", "张涵予": "http://people.mtime.com/1250877/", "杜淳": "http://people.mtime.com/1274367/", "于震": "http://people.mtime.com/1257737/", "乔振宇": "http://people.mtime.com/1250011/", "张述": "http://people.mtime.com/1985198/", "罗洋": "http://people.mtime.com/1873562/", "李雪健": "http://people.mtime.com/936121/", "陈道明": "http://people.mtime.com/934137/", "邢思杰": "http://people.mtime.com/1735456/", "田小洁": "http://people.mtime.com/1248875/", "彭家乐": "http://people.mtime.com/1985197/", "张少华": "http://people.mtime.com/1286861/", "姚静宜": "http://people.mtime.com/1985196/", "杨立新": "http://people.mtime.com/1251772/", "袁惠芳": "http://people.mtime.com/1784611/", "蒂姆·罗宾斯": "http://people.mtime.com/893026/", "木幡龙": "http://people.mtime.com/1627462/", "李倩": "http://people.mtime.com/1257275/", "王子文": "http://people.mtime.com/1282981/", "张志坚": "http://people.mtime.com/1175472/", "吕中": "http://people.mtime.com/1255711/", "柯蓝": "http://people.mtime.com/952026/", "阿德里安·布洛迪": "http://people.mtime.com/913426/", "林永健": "http://people.mtime.com/1281351/", "张晨光": "http://people.mtime.com/1272881/", "Sal Longobardo": "http://people.mtime.com/1416410/"}
+导演：{"冯小刚": "http://people.mtime.com/892845/"}
+编剧：{"刘震云 Liu Zhenyun": "http://people.mtime.com/893104/"}
+制作人：{"王中磊 Zhonglei Wang": "http://people.mtime.com/1210323/", "王中军 Zhongjun Wang": "http://people.mtime.com/1208257/", "胡晓峰 Xiaofeng Hu": "http://people.mtime.com/2075748/", "陈国富 Kuo-fu Chen": "http://people.mtime.com/892811/"}
+摄影：{"吕乐 Yue Lu": "http://people.mtime.com/1175186/"}
+剪辑：{"肖洋 Yang Xiao": "http://people.mtime.com/1700603/"}
+原创音乐：{"赵季平 Jiping Zhao": "http://people.mtime.com/1258765/"}
+美术设计：{"孙立 Li Sun": "http://people.mtime.com/1842665/", "石海鹰 Haiying Shi": "http://people.mtime.com/1805235/"}
+服装设计：{"叶锦添 Tim Yip": "http://people.mtime.com/1256659/"}
+视觉特效：{"常洪松 Hong-song Chang": "http://people.mtime.com/1937729/", "申载浩 Jae-ho Sin": "http://people.mtime.com/1873711/", "郑道安 Do-Ahn Jung": "http://people.mtime.com/1408127/"}
+动作指导：{"朴柱天 Ju-cheon Park": "http://people.mtime.com/1873733/"}
+录音：{"吴江 Jiang Wu": "http://people.mtime.com/1635039/"}

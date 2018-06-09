@@ -1,0 +1,11 @@
+_id：10583887
+year：2012
+movie_name：雨中的树
+演员：{"雷恪生": "http://people.mtime.com/922610/", "李梦男": "http://people.mtime.com/984410/", "丁柳元": "http://people.mtime.com/1285502/", "刘佩琦": "http://people.mtime.com/950112/", "吴军": "http://people.mtime.com/939294/", "徐海乔": "http://people.mtime.com/1805462/", "王志飞": "http://people.mtime.com/1256154/", "马精武": "http://people.mtime.com/1019181/", "果静林": "http://people.mtime.com/1266189/", "闫妮": "http://people.mtime.com/1248986/", "王成阳": "http://people.mtime.com/1426398/", "邹俊百": "http://people.mtime.com/1257955/"}
+导演：{"尹力": "http://people.mtime.com/1173446/"}
+编剧：{"刘恒 Heng Liu": "http://people.mtime.com/893533/"}
+制作人：{"韩三平 Sanping Han": "http://people.mtime.com/1206936/", "卢君 Jun Lu": "http://people.mtime.com/1143747/"}
+摄影：{"谢平 Ping Xie": "http://people.mtime.com/1259274/"}
+剪辑：{"徐京 Jing Xu": "http://people.mtime.com/1964403/"}
+原创音乐：{"邹野 Ye Zou": "http://people.mtime.com/1518279/"}
+美术设计：{"芦月林 Yuelin Lu": "http://people.mtime.com/1602859/"}

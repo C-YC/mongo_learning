@@ -1,0 +1,16 @@
+_id：5996801
+year：2013
+movie_name：狄仁杰之神都龙王
+演员：{"赵又廷": "http://people.mtime.com/1619401/", "杨颖": "http://people.mtime.com/1466940/", "言杰": "http://people.mtime.com/2068636/", "胡东": "http://people.mtime.com/1306711/", "林更新": "http://people.mtime.com/1821554/", "赖迦童": "http://people.mtime.com/2157243/", "刘嘉玲": "http://people.mtime.com/924250/", "冯绍峰": "http://people.mtime.com/1308082/", "林朝绪": "http://people.mtime.com/2057514/", "陈坤": "http://people.mtime.com/923642/", "汪汐潮": "http://people.mtime.com/1458854/", "金汎": "http://people.mtime.com/1416712/", "马京京": "http://people.mtime.com/1623366/", "盛鉴": "http://people.mtime.com/1882175/"}
+导演：{"徐克": "http://people.mtime.com/892903/"}
+编剧：{"张家鲁 Chia-lu Chang": "http://people.mtime.com/1249211/", "陈国富 Kuo-fu Chen": "http://people.mtime.com/892811/", "徐克 Hark Tsui": "http://people.mtime.com/892903/"}
+制作人：{"王中磊 Zhonglei Wang": "http://people.mtime.com/1210323/", "王中军 Zhongjun Wang": "http://people.mtime.com/1208257/", "施南生 Nansun Shi": "http://people.mtime.com/1206530/", "陈国富 Kuo-fu Chen": "http://people.mtime.com/892811/", "徐克 Hark Tsui": "http://people.mtime.com/892903/"}
+摄影：{"蔡崇辉 Sung Fai Choi": "http://people.mtime.com/1427824/"}
+剪辑：{"于柏杨 Bo-yang Yu": "http://people.mtime.com/2057513/"}
+原创音乐：{"川井宪次 Kenji Kawai": "http://people.mtime.com/1250533/"}
+艺术指导：{"余家安 Bruce Yu": "http://people.mtime.com/1283510/"}
+美术设计：{"麦国强 Kenneth Mak": "http://people.mtime.com/1426318/"}
+服装设计：{"利碧君 Pik Kwan Lee": "http://people.mtime.com/1332767/"}
+视觉特效：{"金旭 Wook Kim": "http://people.mtime.com/2020424/"}
+动作指导：{"林峰 Feng Lin": "http://people.mtime.com/1870481/", "元彬 Yuen Bun": "http://people.mtime.com/893057/"}
+录音：{"曾景祥 Kinson Tsang": "http://people.mtime.com/1448041/"}

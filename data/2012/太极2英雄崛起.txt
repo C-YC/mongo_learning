@@ -1,0 +1,11 @@
+_id：10573695
+year：2012
+movie_name：太极2英雄崛起
+演员：{"杨颖": "http://people.mtime.com/1466940/", "熊欣欣": "http://people.mtime.com/1007935/", "吴彦祖": "http://people.mtime.com/924666/", "彭于晏": "http://people.mtime.com/1257087/", "袁文康": "http://people.mtime.com/1263025/", "魏爱轩": "http://people.mtime.com/2227361/", "冯绍峰": "http://people.mtime.com/1308082/", "冯德伦": "http://people.mtime.com/893086/", "梁家辉": "http://people.mtime.com/893545/", "元彪": "http://people.mtime.com/927910/", "谢贤": "http://people.mtime.com/937321/", "英达": "http://people.mtime.com/893540/", "陈思诚": "http://people.mtime.com/1249267/", "冯淬帆": "http://people.mtime.com/893581/", "熊乃瑾": "http://people.mtime.com/1279056/", "舒淇": "http://people.mtime.com/924551/", "袁晓超": "http://people.mtime.com/1942271/", "申思": "http://people.mtime.com/1994489/", "吴迪": "http://people.mtime.com/1302680/", "彼得·斯特曼": "http://people.mtime.com/914844/"}
+导演：{"Stephen Fung": "http://people.mtime.com/893086/", "冯德伦": "http://people.mtime.com/893086/"}
+编剧：{"张家鲁 Chia-lu Chang": "http://people.mtime.com/1249211/", "陈国富 Kuo-fu Chen": "http://people.mtime.com/892811/", "程孝泽 Hsiao-tse Cheng": "http://people.mtime.com/1511985/"}
+制作人：{"朱菁 Jing Zhu": "http://people.mtime.com/1978791/", "王力群 Li Qun Wang": "http://people.mtime.com/1978790/", "陈国富 Kuo-fu Chen": "http://people.mtime.com/892811/"}
+摄影：{"黎耀辉 Yiu-Fai Lai": "http://people.mtime.com/1297701/"}
+美术设计：{"叶锦添 Tim Yip": "http://people.mtime.com/1256659/"}
+动作指导：{"洪金宝 Sammo Hung": "http://people.mtime.com/892825/"}
+录音：{"李涛 Tao Li": "http://people.mtime.com/1838997/"}

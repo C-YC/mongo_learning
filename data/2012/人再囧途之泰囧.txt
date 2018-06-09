@@ -1,0 +1,14 @@
+_id：10574622
+year：2012
+movie_name：人再囧途之泰囧
+演员：{"陈祉希": "http://people.mtime.com/2047223/", "Tanaphart": "http://people.mtime.com/2237674/", "Chintan": "http://people.mtime.com/2237675/", "Porntip Srichan": "http://people.mtime.com/2237673/", "谢楠": "http://people.mtime.com/1639665/", "Ron Smorenburg": "http://people.mtime.com/2237672/", "尹思勰": "http://people.mtime.com/2154211/", "王晨": "http://people.mtime.com/1820349/", "王祤菲": "http://people.mtime.com/2237668/", "Rose Chalisa": "http://people.mtime.com/2047221/", "康晓熙": "http://people.mtime.com/1880532/", "范冰冰": "http://people.mtime.com/929639/", "陶虹": "http://people.mtime.com/927888/", "王译唯": "http://people.mtime.com/2227029/", "王宝强": "http://people.mtime.com/939536/", "Babie Blythe": "http://people.mtime.com/2237670/", "刘倩": "http://people.mtime.com/1666578/", "杨晟": "http://people.mtime.com/2237667/", "Jessica Yao": "http://people.mtime.com/2237671/", "徐峥": "http://people.mtime.com/1248675/", "周易": "http://people.mtime.com/2237669/", "黄渤": "http://people.mtime.com/1249885/", "Jatupol": "http://people.mtime.com/2237676/", "Saichia": "http://people.mtime.com/2237677/"}
+导演：{"徐峥": "http://people.mtime.com/1248675/", "Zheng Xu": "http://people.mtime.com/1248675/"}
+编剧：{"徐峥 Zheng Xu": "http://people.mtime.com/1248675/", "丁丁 Dingding": "http://people.mtime.com/1686975/", "束焕 Huan Shu": "http://people.mtime.com/1258448/"}
+制作人：{"徐林 Lin Xu": "http://people.mtime.com/1881260/", "陈祉希 Zhixi Chen": "http://people.mtime.com/2047223/", "张佳琨 Jiakun Zhang": "http://people.mtime.com/1814922/", "邝文伟 Abe Kwong": "http://people.mtime.com/907166/", "刘刘 Liu Liu": "http://people.mtime.com/2164658/", "王长田 Changtian Wang": "http://people.mtime.com/1485748/", "于宇昂 Yu Ang Yu": "http://people.mtime.com/1990621/", "徐峥 Zheng Xu": "http://people.mtime.com/1248675/", "刘仪伟 Yiwei Liu": "http://people.mtime.com/1254856/", "陈志良 Chi Leung Chan": "http://people.mtime.com/1424636/", "邢爱娜 Aina Xing": "http://people.mtime.com/1473981/", "李晓萍 Xiaoping Li": "http://people.mtime.com/1816581/", "杨庆 Qing Yang": "http://people.mtime.com/1654943/"}
+摄影：{"宋晓飞 XiaoFei Song": "http://people.mtime.com/1692973/"}
+剪辑：{"屠亦然 Yiran Tu": "http://people.mtime.com/1842603/"}
+原创音乐：{"Howie B.": "http://people.mtime.com/1859714/", "邓讴歌 Ou Ge Deng": "http://people.mtime.com/1990632/", "赵英俊 Yingjun Zhao": "http://people.mtime.com/1655005/"}
+美术设计：{"郝艺 Yi Hao": "http://people.mtime.com/1627464/"}
+服装设计：{"郝艺 Yi Hao": "http://people.mtime.com/1627464/"}
+动作指导：{"陈硕 Shek Chan": "http://people.mtime.com/1470236/", "李志杰 Lee Chi Kit": "http://people.mtime.com/1238404/"}
+录音：{"董旭 Xu Dong": "http://people.mtime.com/1841864/"}

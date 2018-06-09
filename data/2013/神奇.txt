@@ -1,0 +1,13 @@
+_id：5044748
+year：2013
+movie_name：神奇
+演员：{"姚明": "http://people.mtime.com/916473/", "金雅中": "http://people.mtime.com/1225693/", "斯科特·皮蓬": "http://people.mtime.com/1000038/", "陈建州": "http://people.mtime.com/1440676/", "德怀特·霍华德": "http://people.mtime.com/1735051/", "黄奕": "http://people.mtime.com/989554/", "黄晓明": "http://people.mtime.com/1249959/", "卡梅罗·安东尼": "http://people.mtime.com/1796510/", "埃里克·马比斯": "http://people.mtime.com/927177/", "郭采洁": "http://people.mtime.com/1531189/", "冯德伦": "http://people.mtime.com/893086/", "易建联": "http://people.mtime.com/1789290/", "李沁": "http://people.mtime.com/1509819/", "王治郅": "http://people.mtime.com/1789291/"}
+导演：{"胡雪桦": "http://people.mtime.com/1169301/"}
+编剧：{"曾谨昌 Kan-Cheung Tsang": "http://people.mtime.com/893274/", "李海蜀 Hai-shu Li": "http://people.mtime.com/1160958/", "胡雪桦 Sherwood Hu": "http://people.mtime.com/1169301/", "秦溱 Zhen Qin": "http://people.mtime.com/2066271/", "黄斯丝 Sisi Huang": "http://people.mtime.com/2066272/"}
+制作人：{"汪天云 Tianyun Wang": "http://people.mtime.com/1258367/", "王力群 Li Qun Wang": "http://people.mtime.com/1978790/", "钱建平 Jian Ping Qian": "http://people.mtime.com/1958878/", "任仲伦 Zhonglun Ren": "http://people.mtime.com/1249377/", "高军 Jun Gao": "http://people.mtime.com/1407909/", "朱中响 Zhongxiang Zhu": "http://people.mtime.com/2066302/", "尹剑华 Jianhua Yin": "http://people.mtime.com/2036401/", "黎华 Hua Li": "http://people.mtime.com/2066270/", "赵晓雯 Xiaowen Zhao": "http://people.mtime.com/2066259/"}
+摄影：{"潘耀明 Anthony Pun": "http://people.mtime.com/1543429/", "侯咏 Yong Hou": "http://people.mtime.com/893272/"}
+剪辑：{"陈晓红 Xiaohong Chen": "http://people.mtime.com/1651530/"}
+原创音乐：{"弗兰克·非茨帕特里克": "http://people.mtime.com/2066296/"}
+艺术指导：{"马光荣 Horace Ma": "http://people.mtime.com/1298534/", "周欣人 Xin-ren Zhou": "http://people.mtime.com/1857624/"}
+视觉特效：{"许安 Koan Hui": "http://people.mtime.com/893253/", "庄文华 Wenhua Zhuang": "http://people.mtime.com/2066298/"}
+录音：{"詹新 Xin Zhan": "http://people.mtime.com/1586795/"}
